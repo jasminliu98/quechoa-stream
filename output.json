@@ -1,0 +1,1399 @@
+{
+  "id": "quechoa",
+  "url": "https://quechoa10.live",
+  "name": "QuechoaTV",
+  "color": "#83ff65",
+  "grid_number": 3,
+  "image": {
+    "type": "cover",
+    "url": "https://quechoa10.live/quechoatv-logo-v2.png"
+  },
+  "groups": [
+    {
+      "id": "sport_bong-da",
+      "name": "⚽ Bóng Đá (3 LIVE)",
+      "display": "vertical",
+      "grid_number": 2,
+      "enable_detail": false,
+      "channels": [
+        {
+          "id": "qc-f1355b3cc2",
+          "name": "Al-Hilal Saudi FC vs NEOM | 23:05 16/05",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "● LIVE",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#ff4444"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-f1355b3cc2",
+              "name": "QuechoaTV",
+              "contents": [
+                {
+                  "id": "ct-f1355b3cc2",
+                  "name": "Al-Hilal Saudi FC vs NEOM",
+                  "streams": [
+                    {
+                      "id": "st-f1355b3cc2",
+                      "name": "QC",
+                      "stream_links": [
+                        {
+                          "id": "lnk-9ecfdd7bcf",
+                          "name": "Link FHD",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_nemchua.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://quechoa10.live/"
+                            },
+                            {
+                              "key": "Origin",
+                              "value": "https://quechoa10.live"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Pro League",
+            "team_a": "Al-Hilal Saudi FC",
+            "team_b": "NEOM",
+            "logo_a": "https://media.api-sports.io/football/teams/2932.png",
+            "logo_b": "https://media.api-sports.io/football/teams/10513.png",
+            "time": "23:05",
+            "date": "16/05",
+            "blv": "NEM CHUA",
+            "is_live": true,
+            "sport_slug": "bong-da"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/quechoa-stream/refs/heads/main/thumbs/qc-f1355b3cc2_94269b55_20260517.png?v=94269b55",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "qc-ef6a7d1c99",
+          "name": "Vietnam U17 vs Australia U17 | 00:00 17/05",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "● LIVE",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#ff4444"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-ef6a7d1c99",
+              "name": "QuechoaTV",
+              "contents": [
+                {
+                  "id": "ct-ef6a7d1c99",
+                  "name": "Vietnam U17 vs Australia U17",
+                  "streams": [
+                    {
+                      "id": "st-ef6a7d1c99",
+                      "name": "QC",
+                      "stream_links": [
+                        {
+                          "id": "lnk-67419b1cbc",
+                          "name": "Link FHD",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_khoaitay.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://quechoa10.live/"
+                            },
+                            {
+                              "key": "Origin",
+                              "value": "https://quechoa10.live"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "AFC U17 Asian Cup",
+            "team_a": "Vietnam U17",
+            "team_b": "Australia U17",
+            "logo_a": "https://media.api-sports.io/football/teams/21447.png",
+            "logo_b": "https://storage.quechoa2.live/logos/teams/1776781460759-ygu7zghg-ynb3ohyr.png",
+            "time": "00:00",
+            "date": "17/05",
+            "blv": "VỎ QUÝT",
+            "is_live": true,
+            "sport_slug": "bong-da"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/quechoa-stream/refs/heads/main/thumbs/qc-ef6a7d1c99_b2b982a7_20260517.png?v=b2b982a7",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "qc-e6f9d568ef",
+          "name": "Al-Nassr vs Gamba Osaka | 00:45 17/05",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "● LIVE",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#ff4444"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-e6f9d568ef",
+              "name": "QuechoaTV",
+              "contents": [
+                {
+                  "id": "ct-e6f9d568ef",
+                  "name": "Al-Nassr vs Gamba Osaka",
+                  "streams": [
+                    {
+                      "id": "st-e6f9d568ef",
+                      "name": "QC",
+                      "stream_links": [
+                        {
+                          "id": "lnk-0e88644c2d",
+                          "name": "Link FHD",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_duahau.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://quechoa10.live/"
+                            },
+                            {
+                              "key": "Origin",
+                              "value": "https://quechoa10.live"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "AFC Champions League Two",
+            "team_a": "Al-Nassr",
+            "team_b": "Gamba Osaka",
+            "logo_a": "https://media.api-sports.io/football/teams/2939.png",
+            "logo_b": "https://media.api-sports.io/football/teams/293.png",
+            "time": "00:45",
+            "date": "17/05",
+            "blv": "DƯA HẤU, PUMA, CHÈ XANH",
+            "is_live": true,
+            "sport_slug": "bong-da"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/quechoa-stream/refs/heads/main/thumbs/qc-e6f9d568ef_a361cb9d_20260517.png?v=a361cb9d",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "qc-584070b15d",
+          "name": "Al-Ahli Jeddah vs Al Kholood | 01:00 17/05",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-584070b15d",
+              "name": "QuechoaTV",
+              "contents": [
+                {
+                  "id": "ct-584070b15d",
+                  "name": "Al-Ahli Jeddah vs Al Kholood",
+                  "streams": [
+                    {
+                      "id": "st-584070b15d",
+                      "name": "QC",
+                      "stream_links": [
+                        {
+                          "id": "lnk-7a18de5435",
+                          "name": "Link FHD",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_bosua.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://quechoa10.live/"
+                            },
+                            {
+                              "key": "Origin",
+                              "value": "https://quechoa10.live"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Pro League",
+            "team_a": "Al-Ahli Jeddah",
+            "team_b": "Al Kholood",
+            "logo_a": "https://media.api-sports.io/football/teams/2929.png",
+            "logo_b": "https://media.api-sports.io/football/teams/10509.png",
+            "time": "01:00",
+            "date": "17/05",
+            "blv": "BÒ SỮA",
+            "is_live": false,
+            "sport_slug": "bong-da"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/quechoa-stream/refs/heads/main/thumbs/qc-584070b15d_c028cc7f_20260517.png?v=c028cc7f",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "qc-e43ba3ed5b",
+          "name": "V-varen Nagasaki vs Vissel Kobe | 11:00 17/05",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-e43ba3ed5b",
+              "name": "QuechoaTV",
+              "contents": [
+                {
+                  "id": "ct-e43ba3ed5b",
+                  "name": "V-varen Nagasaki vs Vissel Kobe",
+                  "streams": [
+                    {
+                      "id": "st-e43ba3ed5b",
+                      "name": "QC",
+                      "stream_links": [
+                        {
+                          "id": "lnk-75feca2dee",
+                          "name": "Link FHD",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_vanminh.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://quechoa10.live/"
+                            },
+                            {
+                              "key": "Origin",
+                              "value": "https://quechoa10.live"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "J1 League",
+            "team_a": "V-varen Nagasaki",
+            "team_b": "Vissel Kobe",
+            "logo_a": "https://media.api-sports.io/football/teams/285.png",
+            "logo_b": "https://media.api-sports.io/football/teams/289.png",
+            "time": "11:00",
+            "date": "17/05",
+            "blv": "VĂN MINH",
+            "is_live": false,
+            "sport_slug": "bong-da"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/quechoa-stream/refs/heads/main/thumbs/qc-e43ba3ed5b_1003b7f7_20260517.png?v=1003b7f7",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "qc-b0bf545f3d",
+          "name": "JEF United Chiba vs Kashima | 12:00 17/05",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-b0bf545f3d",
+              "name": "QuechoaTV",
+              "contents": [
+                {
+                  "id": "ct-b0bf545f3d",
+                  "name": "JEF United Chiba vs Kashima",
+                  "streams": [
+                    {
+                      "id": "st-b0bf545f3d",
+                      "name": "QC",
+                      "stream_links": [
+                        {
+                          "id": "lnk-9ecfdd7bcf",
+                          "name": "Link FHD",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_nemchua.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://quechoa10.live/"
+                            },
+                            {
+                              "key": "Origin",
+                              "value": "https://quechoa10.live"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "J1 League",
+            "team_a": "JEF United Chiba",
+            "team_b": "Kashima",
+            "logo_a": "https://media.api-sports.io/football/teams/301.png",
+            "logo_b": "https://media.api-sports.io/football/teams/290.png",
+            "time": "12:00",
+            "date": "17/05",
+            "blv": "NEM CHUA",
+            "is_live": false,
+            "sport_slug": "bong-da"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/quechoa-stream/refs/heads/main/thumbs/qc-b0bf545f3d_26e708bd_20260517.png?v=26e708bd",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "qc-32c67a3e05",
+          "name": "Bali United vs Bhayangkara FC | 15:30 17/05",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-32c67a3e05",
+              "name": "QuechoaTV",
+              "contents": [
+                {
+                  "id": "ct-32c67a3e05",
+                  "name": "Bali United vs Bhayangkara FC",
+                  "streams": [
+                    {
+                      "id": "st-32c67a3e05",
+                      "name": "QC",
+                      "stream_links": [
+                        {
+                          "id": "lnk-bc172466c0",
+                          "name": "Link FHD",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv2.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://quechoa10.live/"
+                            },
+                            {
+                              "key": "Origin",
+                              "value": "https://quechoa10.live"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Liga 1",
+            "team_a": "Bali United",
+            "team_b": "Bhayangkara FC",
+            "logo_a": "https://media.api-sports.io/football/teams/2448.png",
+            "logo_b": "https://media.api-sports.io/football/teams/2443.png",
+            "time": "15:30",
+            "date": "17/05",
+            "blv": "CHÈ XANH",
+            "is_live": false,
+            "sport_slug": "bong-da"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/quechoa-stream/refs/heads/main/thumbs/qc-32c67a3e05_713b8e32_20260517.png?v=713b8e32",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "qc-ea05a601ea",
+          "name": "Juventus vs Fiorentina | 17:00 17/05",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-ea05a601ea",
+              "name": "QuechoaTV",
+              "contents": [
+                {
+                  "id": "ct-ea05a601ea",
+                  "name": "Juventus vs Fiorentina",
+                  "streams": [
+                    {
+                      "id": "st-ea05a601ea",
+                      "name": "QC",
+                      "stream_links": [
+                        {
+                          "id": "lnk-9ecfdd7bcf",
+                          "name": "Link FHD",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_nemchua.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://quechoa10.live/"
+                            },
+                            {
+                              "key": "Origin",
+                              "value": "https://quechoa10.live"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Serie A",
+            "team_a": "Juventus",
+            "team_b": "Fiorentina",
+            "logo_a": "https://media.api-sports.io/football/teams/496.png",
+            "logo_b": "https://media.api-sports.io/football/teams/502.png",
+            "time": "17:00",
+            "date": "17/05",
+            "blv": "NEM CHUA",
+            "is_live": false,
+            "sport_slug": "bong-da"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/quechoa-stream/refs/heads/main/thumbs/qc-ea05a601ea_7cf328d4_20260517.png?v=7cf328d4",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "qc-33acfff609",
+          "name": "Manchester United vs Nottingham Forest | 18:30 17/05",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-33acfff609",
+              "name": "QuechoaTV",
+              "contents": [
+                {
+                  "id": "ct-33acfff609",
+                  "name": "Manchester United vs Nottingham Forest",
+                  "streams": [
+                    {
+                      "id": "st-33acfff609",
+                      "name": "QC",
+                      "stream_links": [
+                        {
+                          "id": "lnk-6cafe33b0c",
+                          "name": "Link FHD",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv1.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://quechoa10.live/"
+                            },
+                            {
+                              "key": "Origin",
+                              "value": "https://quechoa10.live"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Premier League",
+            "team_a": "Manchester United",
+            "team_b": "Nottingham Forest",
+            "logo_a": "https://media.api-sports.io/football/teams/33.png",
+            "logo_b": "https://media.api-sports.io/football/teams/65.png",
+            "time": "18:30",
+            "date": "17/05",
+            "blv": "PUMA, CHÈ XANH",
+            "is_live": false,
+            "sport_slug": "bong-da"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/quechoa-stream/refs/heads/main/thumbs/qc-33acfff609_d8c9ad43_20260517.png?v=d8c9ad43",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "qc-62f6959c32",
+          "name": "Inter vs Verona | 20:00 17/05",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-62f6959c32",
+              "name": "QuechoaTV",
+              "contents": [
+                {
+                  "id": "ct-62f6959c32",
+                  "name": "Inter vs Verona",
+                  "streams": [
+                    {
+                      "id": "st-62f6959c32",
+                      "name": "QC",
+                      "stream_links": [
+                        {
+                          "id": "lnk-75feca2dee",
+                          "name": "Link FHD",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_vanminh.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://quechoa10.live/"
+                            },
+                            {
+                              "key": "Origin",
+                              "value": "https://quechoa10.live"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Serie A",
+            "team_a": "Inter",
+            "team_b": "Verona",
+            "logo_a": "https://media.api-sports.io/football/teams/505.png",
+            "logo_b": "https://media.api-sports.io/football/teams/504.png",
+            "time": "20:00",
+            "date": "17/05",
+            "blv": "VĂN MINH",
+            "is_live": false,
+            "sport_slug": "bong-da"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/quechoa-stream/refs/heads/main/thumbs/qc-62f6959c32_c3d3040c_20260517.png?v=c3d3040c",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "qc-064e087d7a",
+          "name": "Wolves vs Fulham | 21:00 17/05",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-064e087d7a",
+              "name": "QuechoaTV",
+              "contents": [
+                {
+                  "id": "ct-064e087d7a",
+                  "name": "Wolves vs Fulham",
+                  "streams": [
+                    {
+                      "id": "st-064e087d7a",
+                      "name": "QC",
+                      "stream_links": [
+                        {
+                          "id": "lnk-bc172466c0",
+                          "name": "Link FHD",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv2.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://quechoa10.live/"
+                            },
+                            {
+                              "key": "Origin",
+                              "value": "https://quechoa10.live"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Premier League",
+            "team_a": "Wolves",
+            "team_b": "Fulham",
+            "logo_a": "https://media.api-sports.io/football/teams/39.png",
+            "logo_b": "https://media.api-sports.io/football/teams/36.png",
+            "time": "21:00",
+            "date": "17/05",
+            "blv": "CHÈ XANH",
+            "is_live": false,
+            "sport_slug": "bong-da"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/quechoa-stream/refs/heads/main/thumbs/qc-064e087d7a_12fe4e7e_20260517.png?v=12fe4e7e",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "qc-6638ff46e9",
+          "name": "Brentford vs Crystal Palace | 21:00 17/05",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-6638ff46e9",
+              "name": "QuechoaTV",
+              "contents": [
+                {
+                  "id": "ct-6638ff46e9",
+                  "name": "Brentford vs Crystal Palace",
+                  "streams": [
+                    {
+                      "id": "st-6638ff46e9",
+                      "name": "QC",
+                      "stream_links": [
+                        {
+                          "id": "lnk-67419b1cbc",
+                          "name": "Link FHD",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_khoaitay.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://quechoa10.live/"
+                            },
+                            {
+                              "key": "Origin",
+                              "value": "https://quechoa10.live"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Premier League",
+            "team_a": "Brentford",
+            "team_b": "Crystal Palace",
+            "logo_a": "https://media.api-sports.io/football/teams/55.png",
+            "logo_b": "https://media.api-sports.io/football/teams/52.png",
+            "time": "21:00",
+            "date": "17/05",
+            "blv": "VỎ QUÝT",
+            "is_live": false,
+            "sport_slug": "bong-da"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/quechoa-stream/refs/heads/main/thumbs/qc-6638ff46e9_131484d2_20260517.png?v=131484d2",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "qc-9549ee34c5",
+          "name": "Everton vs Sunderland | 21:00 17/05",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-9549ee34c5",
+              "name": "QuechoaTV",
+              "contents": [
+                {
+                  "id": "ct-9549ee34c5",
+                  "name": "Everton vs Sunderland",
+                  "streams": [
+                    {
+                      "id": "st-9549ee34c5",
+                      "name": "QC",
+                      "stream_links": [
+                        {
+                          "id": "lnk-7a18de5435",
+                          "name": "Link FHD",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_bosua.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://quechoa10.live/"
+                            },
+                            {
+                              "key": "Origin",
+                              "value": "https://quechoa10.live"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Premier League",
+            "team_a": "Everton",
+            "team_b": "Sunderland",
+            "logo_a": "https://media.api-sports.io/football/teams/45.png",
+            "logo_b": "https://media.api-sports.io/football/teams/746.png",
+            "time": "21:00",
+            "date": "17/05",
+            "blv": "BÒ SỮA",
+            "is_live": false,
+            "sport_slug": "bong-da"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/quechoa-stream/refs/heads/main/thumbs/qc-9549ee34c5_9ee01cb8_20260517.png?v=9ee01cb8",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "qc-35e32b47ce",
+          "name": "Leeds vs Brighton | 21:00 17/05",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-35e32b47ce",
+              "name": "QuechoaTV",
+              "contents": [
+                {
+                  "id": "ct-35e32b47ce",
+                  "name": "Leeds vs Brighton",
+                  "streams": [
+                    {
+                      "id": "st-35e32b47ce",
+                      "name": "QC",
+                      "stream_links": [
+                        {
+                          "id": "lnk-0e88644c2d",
+                          "name": "Link FHD",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_duahau.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://quechoa10.live/"
+                            },
+                            {
+                              "key": "Origin",
+                              "value": "https://quechoa10.live"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Premier League",
+            "team_a": "Leeds",
+            "team_b": "Brighton",
+            "logo_a": "https://media.api-sports.io/football/teams/63.png",
+            "logo_b": "https://media.api-sports.io/football/teams/51.png",
+            "time": "21:00",
+            "date": "17/05",
+            "blv": "DƯA HẤU",
+            "is_live": false,
+            "sport_slug": "bong-da"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/quechoa-stream/refs/heads/main/thumbs/qc-35e32b47ce_2f571843_20260517.png?v=2f571843",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "qc-8c24f191a9",
+          "name": "Newcastle vs West Ham | 23:30 17/05",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-8c24f191a9",
+              "name": "QuechoaTV",
+              "contents": [
+                {
+                  "id": "ct-8c24f191a9",
+                  "name": "Newcastle vs West Ham",
+                  "streams": [
+                    {
+                      "id": "st-8c24f191a9",
+                      "name": "QC",
+                      "stream_links": [
+                        {
+                          "id": "lnk-0e88644c2d",
+                          "name": "Link FHD",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_duahau.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://quechoa10.live/"
+                            },
+                            {
+                              "key": "Origin",
+                              "value": "https://quechoa10.live"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Premier League",
+            "team_a": "Newcastle",
+            "team_b": "West Ham",
+            "logo_a": "https://media.api-sports.io/football/teams/34.png",
+            "logo_b": "https://media.api-sports.io/football/teams/48.png",
+            "time": "23:30",
+            "date": "17/05",
+            "blv": "DƯA HẤU, CHÈ XANH",
+            "is_live": false,
+            "sport_slug": "bong-da"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/quechoa-stream/refs/heads/main/thumbs/qc-8c24f191a9_92a0df54_20260517.png?v=92a0df54",
+            "width": 1600,
+            "height": 1200
+          }
+        }
+      ]
+    },
+    {
+      "id": "sport_bong-chuyen",
+      "name": "🏐 Bóng Chuyền",
+      "display": "vertical",
+      "grid_number": 2,
+      "enable_detail": false,
+      "channels": [
+        {
+          "id": "qc-202eb53a73",
+          "name": "Gunma Bank Green Wings W vs LPB Ninh Bình | 14:00 17/05",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-202eb53a73",
+              "name": "QuechoaTV",
+              "contents": [
+                {
+                  "id": "ct-202eb53a73",
+                  "name": "Gunma Bank Green Wings W vs LPB Ninh Bình",
+                  "streams": [
+                    {
+                      "id": "st-202eb53a73",
+                      "name": "QC",
+                      "stream_links": [
+                        {
+                          "id": "lnk-2a9bebe48a",
+                          "name": "Link FHD",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_quechoa_1.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://quechoa10.live/"
+                            },
+                            {
+                              "key": "Origin",
+                              "value": "https://quechoa10.live"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Cúp bóng chuyền nữ quốc tế VTV9 - Bình Điền 2026",
+            "team_a": "Gunma Bank Green Wings W",
+            "team_b": "LPB Ninh Bình",
+            "logo_a": "https://storage.quechoa2.live/logos/teams/1767455632389-big-17364507727nivc.png",
+            "logo_b": "https://storage.quechoa2.live/logos/teams/1773958549926-lpb-ninh-b-nh.png",
+            "time": "14:00",
+            "date": "17/05",
+            "blv": "HẠT MÍT",
+            "is_live": false,
+            "sport_slug": "bong-chuyen"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/quechoa-stream/refs/heads/main/thumbs/qc-202eb53a73_0378989e_20260517.png?v=0378989e",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "qc-91cdf62b4e",
+          "name": "Hà Nội Tasco Auto vs Suwon City W | 17:00 17/05",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-91cdf62b4e",
+              "name": "QuechoaTV",
+              "contents": [
+                {
+                  "id": "ct-91cdf62b4e",
+                  "name": "Hà Nội Tasco Auto vs Suwon City W",
+                  "streams": [
+                    {
+                      "id": "st-91cdf62b4e",
+                      "name": "QC",
+                      "stream_links": [
+                        {
+                          "id": "lnk-0e88644c2d",
+                          "name": "Link FHD",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_duahau.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://quechoa10.live/"
+                            },
+                            {
+                              "key": "Origin",
+                              "value": "https://quechoa10.live"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Cúp bóng chuyền nữ quốc tế VTV9 - Bình Điền 2026",
+            "team_a": "Hà Nội Tasco Auto",
+            "team_b": "Suwon City W",
+            "logo_a": "https://storage.quechoa2.live/logos/teams/1773799165031-logo-h-n-i-tasco-auto.png",
+            "logo_b": "https://storage.quechoa2.live/logos/teams/1778833121372-igo7k1za-qmtm30d7.png",
+            "time": "17:00",
+            "date": "17/05",
+            "blv": "DƯA HẤU",
+            "is_live": false,
+            "sport_slug": "bong-chuyen"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/quechoa-stream/refs/heads/main/thumbs/qc-91cdf62b4e_a5193821_20260517.png?v=a5193821",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "qc-98bb9c719a",
+          "name": "Nữ VTV Bình Điền Long An vs Nữ Binh Chủng Thông Tin - BĐ19 | 20:00 17/05",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-98bb9c719a",
+              "name": "QuechoaTV",
+              "contents": [
+                {
+                  "id": "ct-98bb9c719a",
+                  "name": "Nữ VTV Bình Điền Long An vs Nữ Binh Chủng Thông Tin - BĐ19",
+                  "streams": [
+                    {
+                      "id": "st-98bb9c719a",
+                      "name": "QC",
+                      "stream_links": [
+                        {
+                          "id": "lnk-2a9bebe48a",
+                          "name": "Link FHD",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_quechoa_1.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://quechoa10.live/"
+                            },
+                            {
+                              "key": "Origin",
+                              "value": "https://quechoa10.live"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Cúp bóng chuyền nữ quốc tế VTV9 - Bình Điền 2026",
+            "team_a": "Nữ VTV Bình Điền Long An",
+            "team_b": "Nữ Binh Chủng Thông Tin - BĐ19",
+            "logo_a": "https://storage.quechoa2.live/logos/teams/1776690611143-big-1740045997qpzs5.png",
+            "logo_b": "https://storage.quechoa2.live/logos/teams/1776690512226-505135643-1249728920495964-7032614465491754142-n.jpg",
+            "time": "20:00",
+            "date": "17/05",
+            "blv": "HẠT MÍT",
+            "is_live": false,
+            "sport_slug": "bong-chuyen"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/quechoa-stream/refs/heads/main/thumbs/qc-98bb9c719a_7ef1f773_20260517.png?v=7ef1f773",
+            "width": 1600,
+            "height": 1200
+          }
+        }
+      ]
+    }
+  ]
+}
