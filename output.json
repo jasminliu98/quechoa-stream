@@ -93,82 +93,6 @@
           }
         },
         {
-          "id": "qc-a00b3541b9",
-          "name": "Cerezo Osaka vs Nagoya Grampus | 13:00 17/05",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "🕐 Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-a00b3541b9",
-              "name": "QuechoaTV",
-              "contents": [
-                {
-                  "id": "ct-a00b3541b9",
-                  "name": "Cerezo Osaka vs Nagoya Grampus",
-                  "streams": [
-                    {
-                      "id": "st-a00b3541b9",
-                      "name": "QC",
-                      "stream_links": [
-                        {
-                          "id": "lnk-7a18de5435",
-                          "name": "Link FHD",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_bosua.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://quechoa10.live/"
-                            },
-                            {
-                              "key": "Origin",
-                              "value": "https://quechoa10.live"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "J1 League",
-            "team_a": "Cerezo Osaka",
-            "team_b": "Nagoya Grampus",
-            "logo_a": "https://media.api-sports.io/football/teams/291.png",
-            "logo_b": "https://media.api-sports.io/football/teams/288.png",
-            "time": "13:00",
-            "date": "17/05",
-            "blv": "BÒ SỮA",
-            "is_live": false,
-            "sport_slug": "bong-da"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/quechoa-stream/refs/heads/main/thumbs/qc-a00b3541b9_f5b04e4e_20260517.png?v=f5b04e4e",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
           "id": "qc-32c67a3e05",
           "name": "Bali United vs Bhayangkara FC | 15:30 17/05",
           "type": "single",
@@ -1920,7 +1844,7 @@
     },
     {
       "id": "sport_bong-chuyen",
-      "name": "🏐 Bóng Chuyền",
+      "name": "🏐 Bóng Chuyền (1 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
@@ -1933,10 +1857,10 @@
           "enable_detail": false,
           "labels": [
             {
-              "text": "🕐 Sắp",
+              "text": "● LIVE",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#aaaaaa"
+              "text_color": "#ff4444"
             }
           ],
           "sources": [
@@ -1989,7 +1913,7 @@
             "time": "14:00",
             "date": "17/05",
             "blv": "HẠT MÍT",
-            "is_live": false,
+            "is_live": true,
             "sport_slug": "bong-chuyen"
           },
           "image": {
