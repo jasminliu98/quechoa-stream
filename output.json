@@ -11,87 +11,11 @@
   "groups": [
     {
       "id": "sport_bong-da",
-      "name": "⚽ Bóng Đá (1 LIVE)",
+      "name": "⚽ Bóng Đá",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "qc-ac9eee5f0e",
-          "name": "Barcelona vs Real Betis | 02:15 18/05",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-ac9eee5f0e",
-              "name": "QuechoaTV",
-              "contents": [
-                {
-                  "id": "ct-ac9eee5f0e",
-                  "name": "Barcelona vs Real Betis",
-                  "streams": [
-                    {
-                      "id": "st-ac9eee5f0e",
-                      "name": "QC",
-                      "stream_links": [
-                        {
-                          "id": "lnk-bc172466c0",
-                          "name": "Link FHD",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv2.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://quechoa10.live/"
-                            },
-                            {
-                              "key": "Origin",
-                              "value": "https://quechoa10.live"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "La Liga",
-            "team_a": "Barcelona",
-            "team_b": "Real Betis",
-            "logo_a": "https://media.api-sports.io/football/teams/529.png",
-            "logo_b": "https://media.api-sports.io/football/teams/543.png",
-            "time": "02:15",
-            "date": "18/05",
-            "blv": "CHÈ XANH",
-            "is_live": true,
-            "sport_slug": "bong-da"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/quechoa-stream/refs/heads/main/thumbs/qc-ac9eee5f0e_e7573287_20260518.png?v=e7573287",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "qc-388126d84c",
           "name": "Nashville SC vs Los Angeles FC | 07:00 18/05",
