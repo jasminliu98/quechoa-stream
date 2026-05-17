@@ -11,87 +11,11 @@
   "groups": [
     {
       "id": "sport_bong-da",
-      "name": "⚽ Bóng Đá (3 LIVE)",
+      "name": "⚽ Bóng Đá (2 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "qc-32c67a3e05",
-          "name": "Bali United vs Bhayangkara FC | 15:30 17/05",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-32c67a3e05",
-              "name": "QuechoaTV",
-              "contents": [
-                {
-                  "id": "ct-32c67a3e05",
-                  "name": "Bali United vs Bhayangkara FC",
-                  "streams": [
-                    {
-                      "id": "st-32c67a3e05",
-                      "name": "QC",
-                      "stream_links": [
-                        {
-                          "id": "lnk-bc172466c0",
-                          "name": "Link FHD",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv2.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://quechoa10.live/"
-                            },
-                            {
-                              "key": "Origin",
-                              "value": "https://quechoa10.live"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Liga 1",
-            "team_a": "Bali United",
-            "team_b": "Bhayangkara FC",
-            "logo_a": "https://media.api-sports.io/football/teams/2448.png",
-            "logo_b": "https://media.api-sports.io/football/teams/2443.png",
-            "time": "15:30",
-            "date": "17/05",
-            "blv": "CHÈ XANH",
-            "is_live": true,
-            "sport_slug": "bong-da"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/quechoa-stream/refs/heads/main/thumbs/qc-32c67a3e05_713b8e32_20260517.png?v=713b8e32",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "qc-392202d25c",
           "name": "Hoang Anh Gia Lai vs Hồng Lĩnh Hà Tĩnh | 17:00 17/05",
