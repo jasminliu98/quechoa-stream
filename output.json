@@ -11,7 +11,7 @@
   "groups": [
     {
       "id": "sport_bong-da",
-      "name": "⚽ Bóng Đá (3 LIVE)",
+      "name": "⚽ Bóng Đá (4 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
@@ -169,6 +169,82 @@
           }
         },
         {
+          "id": "qc-064e087d7a",
+          "name": "Wolves vs Fulham | 21:00 17/05",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "● LIVE",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#ff4444"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-064e087d7a",
+              "name": "QuechoaTV",
+              "contents": [
+                {
+                  "id": "ct-064e087d7a",
+                  "name": "Wolves vs Fulham",
+                  "streams": [
+                    {
+                      "id": "st-064e087d7a",
+                      "name": "QC",
+                      "stream_links": [
+                        {
+                          "id": "lnk-bc172466c0",
+                          "name": "Link FHD",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv2.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://quechoa10.live/"
+                            },
+                            {
+                              "key": "Origin",
+                              "value": "https://quechoa10.live"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Premier League",
+            "team_a": "Wolves",
+            "team_b": "Fulham",
+            "logo_a": "https://media.api-sports.io/football/teams/39.png",
+            "logo_b": "https://media.api-sports.io/football/teams/36.png",
+            "time": "21:00",
+            "date": "17/05",
+            "blv": "CHÈ XANH",
+            "is_live": true,
+            "sport_slug": "bong-da"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/quechoa-stream/refs/heads/main/thumbs/qc-064e087d7a_12fe4e7e_20260517.png?v=12fe4e7e",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
           "id": "qc-6638ff46e9",
           "name": "Brentford vs Crystal Palace | 21:00 17/05",
           "type": "single",
@@ -240,82 +316,6 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/jasminliu98/quechoa-stream/refs/heads/main/thumbs/qc-6638ff46e9_131484d2_20260517.png?v=131484d2",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "qc-064e087d7a",
-          "name": "Wolves vs Fulham | 21:00 17/05",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "🕐 Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-064e087d7a",
-              "name": "QuechoaTV",
-              "contents": [
-                {
-                  "id": "ct-064e087d7a",
-                  "name": "Wolves vs Fulham",
-                  "streams": [
-                    {
-                      "id": "st-064e087d7a",
-                      "name": "QC",
-                      "stream_links": [
-                        {
-                          "id": "lnk-bc172466c0",
-                          "name": "Link FHD",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv2.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://quechoa10.live/"
-                            },
-                            {
-                              "key": "Origin",
-                              "value": "https://quechoa10.live"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Premier League",
-            "team_a": "Wolves",
-            "team_b": "Fulham",
-            "logo_a": "https://media.api-sports.io/football/teams/39.png",
-            "logo_b": "https://media.api-sports.io/football/teams/36.png",
-            "time": "21:00",
-            "date": "17/05",
-            "blv": "CHÈ XANH",
-            "is_live": false,
-            "sport_slug": "bong-da"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/quechoa-stream/refs/heads/main/thumbs/qc-064e087d7a_12fe4e7e_20260517.png?v=12fe4e7e",
             "width": 1600,
             "height": 1200
           }
