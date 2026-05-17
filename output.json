@@ -11,87 +11,11 @@
   "groups": [
     {
       "id": "sport_bong-da",
-      "name": "⚽ Bóng Đá (5 LIVE)",
+      "name": "⚽ Bóng Đá (4 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "qc-62f6959c32",
-          "name": "Inter vs Verona | 20:00 17/05",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-62f6959c32",
-              "name": "QuechoaTV",
-              "contents": [
-                {
-                  "id": "ct-62f6959c32",
-                  "name": "Inter vs Verona",
-                  "streams": [
-                    {
-                      "id": "st-62f6959c32",
-                      "name": "QC",
-                      "stream_links": [
-                        {
-                          "id": "lnk-75feca2dee",
-                          "name": "Link FHD",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_vanminh.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://quechoa10.live/"
-                            },
-                            {
-                              "key": "Origin",
-                              "value": "https://quechoa10.live"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Serie A",
-            "team_a": "Inter",
-            "team_b": "Verona",
-            "logo_a": "https://media.api-sports.io/football/teams/505.png",
-            "logo_b": "https://media.api-sports.io/football/teams/504.png",
-            "time": "20:00",
-            "date": "17/05",
-            "blv": "VĂN MINH",
-            "is_live": true,
-            "sport_slug": "bong-da"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/quechoa-stream/refs/heads/main/thumbs/qc-62f6959c32_c3d3040c_20260517.png?v=c3d3040c",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "qc-064e087d7a",
           "name": "Wolves vs Fulham | 21:00 17/05",
