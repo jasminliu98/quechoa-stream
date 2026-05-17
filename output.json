@@ -11,163 +11,11 @@
   "groups": [
     {
       "id": "sport_bong-da",
-      "name": "⚽ Bóng Đá (3 LIVE)",
+      "name": "⚽ Bóng Đá (2 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "qc-6638ff46e9",
-          "name": "Brentford vs Crystal Palace | 21:00 17/05",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-6638ff46e9",
-              "name": "QuechoaTV",
-              "contents": [
-                {
-                  "id": "ct-6638ff46e9",
-                  "name": "Brentford vs Crystal Palace",
-                  "streams": [
-                    {
-                      "id": "st-6638ff46e9",
-                      "name": "QC",
-                      "stream_links": [
-                        {
-                          "id": "lnk-67419b1cbc",
-                          "name": "Link FHD",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_khoaitay.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://quechoa10.live/"
-                            },
-                            {
-                              "key": "Origin",
-                              "value": "https://quechoa10.live"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Premier League",
-            "team_a": "Brentford",
-            "team_b": "Crystal Palace",
-            "logo_a": "https://media.api-sports.io/football/teams/55.png",
-            "logo_b": "https://media.api-sports.io/football/teams/52.png",
-            "time": "21:00",
-            "date": "17/05",
-            "blv": "VỎ QUÝT",
-            "is_live": true,
-            "sport_slug": "bong-da"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/quechoa-stream/refs/heads/main/thumbs/qc-6638ff46e9_131484d2_20260517.png?v=131484d2",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "qc-35e32b47ce",
-          "name": "Leeds vs Brighton | 21:00 17/05",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-35e32b47ce",
-              "name": "QuechoaTV",
-              "contents": [
-                {
-                  "id": "ct-35e32b47ce",
-                  "name": "Leeds vs Brighton",
-                  "streams": [
-                    {
-                      "id": "st-35e32b47ce",
-                      "name": "QC",
-                      "stream_links": [
-                        {
-                          "id": "lnk-0e88644c2d",
-                          "name": "Link FHD",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_duahau.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://quechoa10.live/"
-                            },
-                            {
-                              "key": "Origin",
-                              "value": "https://quechoa10.live"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Premier League",
-            "team_a": "Leeds",
-            "team_b": "Brighton",
-            "logo_a": "https://media.api-sports.io/football/teams/63.png",
-            "logo_b": "https://media.api-sports.io/football/teams/51.png",
-            "time": "21:00",
-            "date": "17/05",
-            "blv": "DƯA HẤU",
-            "is_live": true,
-            "sport_slug": "bong-da"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/quechoa-stream/refs/heads/main/thumbs/qc-35e32b47ce_2f571843_20260517.png?v=2f571843",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "qc-22c90e26c2",
           "name": "Atalanta vs Bologna | 23:00 17/05",
@@ -252,10 +100,10 @@
           "enable_detail": false,
           "labels": [
             {
-              "text": "🕐 Sắp",
+              "text": "● LIVE",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#aaaaaa"
+              "text_color": "#ff4444"
             }
           ],
           "sources": [
@@ -308,7 +156,7 @@
             "time": "23:30",
             "date": "17/05",
             "blv": "DƯA HẤU, CHÈ XANH",
-            "is_live": false,
+            "is_live": true,
             "sport_slug": "bong-da"
           },
           "image": {
