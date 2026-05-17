@@ -11,87 +11,11 @@
   "groups": [
     {
       "id": "sport_bong-da",
-      "name": "⚽ Bóng Đá (3 LIVE)",
+      "name": "⚽ Bóng Đá (2 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "qc-e6cbab9472",
-          "name": "Pho Hien vs Ha Noi | 18:00 17/05",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-e6cbab9472",
-              "name": "QuechoaTV",
-              "contents": [
-                {
-                  "id": "ct-e6cbab9472",
-                  "name": "Pho Hien vs Ha Noi",
-                  "streams": [
-                    {
-                      "id": "st-e6cbab9472",
-                      "name": "QC",
-                      "stream_links": [
-                        {
-                          "id": "lnk-9ecfdd7bcf",
-                          "name": "Link FHD",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_nemchua.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://quechoa10.live/"
-                            },
-                            {
-                              "key": "Origin",
-                              "value": "https://quechoa10.live"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "V.League 1",
-            "team_a": "Pho Hien",
-            "team_b": "Ha Noi",
-            "logo_a": "https://media.api-sports.io/football/teams/9166.png",
-            "logo_b": "https://media.api-sports.io/football/teams/3670.png",
-            "time": "18:00",
-            "date": "17/05",
-            "blv": "NEM CHUA",
-            "is_live": true,
-            "sport_slug": "bong-da"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/quechoa-stream/refs/heads/main/thumbs/qc-e6cbab9472_a57dfdc6_20260517.png?v=a57dfdc6",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "qc-33acfff609",
           "name": "Manchester United vs Nottingham Forest | 18:30 17/05",
