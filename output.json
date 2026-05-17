@@ -11,7 +11,7 @@
   "groups": [
     {
       "id": "sport_bong-da",
-      "name": "⚽ Bóng Đá (2 LIVE)",
+      "name": "⚽ Bóng Đá (3 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
@@ -169,6 +169,82 @@
           }
         },
         {
+          "id": "qc-fa696743e0",
+          "name": "Nam Dinh vs Viettel | 18:00 17/05",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "● LIVE",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#ff4444"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-fa696743e0",
+              "name": "QuechoaTV",
+              "contents": [
+                {
+                  "id": "ct-fa696743e0",
+                  "name": "Nam Dinh vs Viettel",
+                  "streams": [
+                    {
+                      "id": "st-fa696743e0",
+                      "name": "QC",
+                      "stream_links": [
+                        {
+                          "id": "lnk-67419b1cbc",
+                          "name": "Link FHD",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_khoaitay.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://quechoa10.live/"
+                            },
+                            {
+                              "key": "Origin",
+                              "value": "https://quechoa10.live"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "V.League 1",
+            "team_a": "Nam Dinh",
+            "team_b": "Viettel",
+            "logo_a": "https://media.api-sports.io/football/teams/3674.png",
+            "logo_b": "https://media.api-sports.io/football/teams/3681.png",
+            "time": "18:00",
+            "date": "17/05",
+            "blv": "VỎ QUÝT",
+            "is_live": true,
+            "sport_slug": "bong-da"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/quechoa-stream/refs/heads/main/thumbs/qc-fa696743e0_630b8551_20260517.png?v=630b8551",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
           "id": "qc-e6cbab9472",
           "name": "Pho Hien vs Ha Noi | 18:00 17/05",
           "type": "single",
@@ -240,82 +316,6 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/jasminliu98/quechoa-stream/refs/heads/main/thumbs/qc-e6cbab9472_a57dfdc6_20260517.png?v=a57dfdc6",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "qc-fa696743e0",
-          "name": "Nam Dinh vs Viettel | 18:00 17/05",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "🕐 Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-fa696743e0",
-              "name": "QuechoaTV",
-              "contents": [
-                {
-                  "id": "ct-fa696743e0",
-                  "name": "Nam Dinh vs Viettel",
-                  "streams": [
-                    {
-                      "id": "st-fa696743e0",
-                      "name": "QC",
-                      "stream_links": [
-                        {
-                          "id": "lnk-67419b1cbc",
-                          "name": "Link FHD",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_khoaitay.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://quechoa10.live/"
-                            },
-                            {
-                              "key": "Origin",
-                              "value": "https://quechoa10.live"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "V.League 1",
-            "team_a": "Nam Dinh",
-            "team_b": "Viettel",
-            "logo_a": "https://media.api-sports.io/football/teams/3674.png",
-            "logo_b": "https://media.api-sports.io/football/teams/3681.png",
-            "time": "18:00",
-            "date": "17/05",
-            "blv": "VỎ QUÝT",
-            "is_live": false,
-            "sport_slug": "bong-da"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/quechoa-stream/refs/heads/main/thumbs/qc-fa696743e0_630b8551_20260517.png?v=630b8551",
             "width": 1600,
             "height": 1200
           }
