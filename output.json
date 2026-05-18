@@ -11,239 +11,11 @@
   "groups": [
     {
       "id": "sport_bong-da",
-      "name": "⚽ Bóng Đá (1 LIVE)",
+      "name": "⚽ Bóng Đá",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "qc-785f8cebab",
-          "name": "El Geish vs Pharco | 21:00 18/05",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-785f8cebab",
-              "name": "QuechoaTV",
-              "contents": [
-                {
-                  "id": "ct-785f8cebab",
-                  "name": "El Geish vs Pharco",
-                  "streams": [
-                    {
-                      "id": "st-785f8cebab",
-                      "name": "QC",
-                      "stream_links": [
-                        {
-                          "id": "lnk-75feca2dee",
-                          "name": "Link FHD",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_vanminh.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://quechoa10.live/"
-                            },
-                            {
-                              "key": "Origin",
-                              "value": "https://quechoa10.live"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Premier League",
-            "team_a": "El Geish",
-            "team_b": "Pharco",
-            "logo_a": "https://media.api-sports.io/football/teams/1039.png",
-            "logo_b": "https://media.api-sports.io/football/teams/15736.png",
-            "time": "21:00",
-            "date": "18/05",
-            "blv": "VĂN MINH",
-            "is_live": true,
-            "sport_slug": "bong-da"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/quechoa-stream/refs/heads/main/thumbs/qc-785f8cebab_1732d118_20260518.png?v=1732d118",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "qc-7fb45ac55f",
-          "name": "El Mokawloon vs Wadi Degla | 00:00 19/05",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "🕐 Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-7fb45ac55f",
-              "name": "QuechoaTV",
-              "contents": [
-                {
-                  "id": "ct-7fb45ac55f",
-                  "name": "El Mokawloon vs Wadi Degla",
-                  "streams": [
-                    {
-                      "id": "st-7fb45ac55f",
-                      "name": "QC",
-                      "stream_links": [
-                        {
-                          "id": "lnk-75feca2dee",
-                          "name": "Link FHD",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_vanminh.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://quechoa10.live/"
-                            },
-                            {
-                              "key": "Origin",
-                              "value": "https://quechoa10.live"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Premier League",
-            "team_a": "El Mokawloon",
-            "team_b": "Wadi Degla",
-            "logo_a": "https://media.api-sports.io/football/teams/1575.png",
-            "logo_b": "https://media.api-sports.io/football/teams/1046.png",
-            "time": "00:00",
-            "date": "19/05",
-            "blv": "VĂN MINH",
-            "is_live": false,
-            "sport_slug": "bong-da"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/quechoa-stream/refs/heads/main/thumbs/qc-7fb45ac55f_8d0a6b1c_20260518.png?v=8d0a6b1c",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "qc-e79055b243",
-          "name": "Ghazl El Mehalla vs Al Ittihad | 00:00 19/05",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "🕐 Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-e79055b243",
-              "name": "QuechoaTV",
-              "contents": [
-                {
-                  "id": "ct-e79055b243",
-                  "name": "Ghazl El Mehalla vs Al Ittihad",
-                  "streams": [
-                    {
-                      "id": "st-e79055b243",
-                      "name": "QC",
-                      "stream_links": [
-                        {
-                          "id": "lnk-bc172466c0",
-                          "name": "Link FHD",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv2.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://quechoa10.live/"
-                            },
-                            {
-                              "key": "Origin",
-                              "value": "https://quechoa10.live"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Premier League",
-            "team_a": "Ghazl El Mehalla",
-            "team_b": "Al Ittihad",
-            "logo_a": "https://media.api-sports.io/football/teams/13819.png",
-            "logo_b": "https://media.api-sports.io/football/teams/1572.png",
-            "time": "00:00",
-            "date": "19/05",
-            "blv": "CHÈ XANH",
-            "is_live": false,
-            "sport_slug": "bong-da"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/quechoa-stream/refs/heads/main/thumbs/qc-e79055b243_c4ab71f4_20260518.png?v=c4ab71f4",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "qc-1b9faa6a34",
           "name": "Arsenal vs Burnley | 02:00 19/05",
@@ -315,7 +87,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/quechoa-stream/refs/heads/main/thumbs/qc-1b9faa6a34_5b29f2ff_20260518.png?v=5b29f2ff",
+            "url": "https://raw.githubusercontent.com/jasminliu98/quechoa-stream/refs/heads/main/thumbs/qc-1b9faa6a34_5b29f2ff_20260519.png?v=5b29f2ff",
             "width": 1600,
             "height": 1200
           }
@@ -391,7 +163,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/quechoa-stream/refs/heads/main/thumbs/qc-a0bf0c3559_203cf7f3_20260518.png?v=203cf7f3",
+            "url": "https://raw.githubusercontent.com/jasminliu98/quechoa-stream/refs/heads/main/thumbs/qc-a0bf0c3559_203cf7f3_20260519.png?v=203cf7f3",
             "width": 1600,
             "height": 1200
           }
@@ -467,7 +239,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/quechoa-stream/refs/heads/main/thumbs/qc-e485e76113_3a143ef4_20260518.png?v=3a143ef4",
+            "url": "https://raw.githubusercontent.com/jasminliu98/quechoa-stream/refs/heads/main/thumbs/qc-e485e76113_3a143ef4_20260519.png?v=3a143ef4",
             "width": 1600,
             "height": 1200
           }
@@ -543,7 +315,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/quechoa-stream/refs/heads/main/thumbs/qc-1b05947536_065c7e9c_20260518.png?v=065c7e9c",
+            "url": "https://raw.githubusercontent.com/jasminliu98/quechoa-stream/refs/heads/main/thumbs/qc-1b05947536_065c7e9c_20260519.png?v=065c7e9c",
             "width": 1600,
             "height": 1200
           }
@@ -619,7 +391,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/quechoa-stream/refs/heads/main/thumbs/qc-c3d68aa81f_d80d150e_20260518.png?v=d80d150e",
+            "url": "https://raw.githubusercontent.com/jasminliu98/quechoa-stream/refs/heads/main/thumbs/qc-c3d68aa81f_d80d150e_20260519.png?v=d80d150e",
             "width": 1600,
             "height": 1200
           }
@@ -695,7 +467,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/quechoa-stream/refs/heads/main/thumbs/qc-37fa13d4a7_6f344e4c_20260518.png?v=6f344e4c",
+            "url": "https://raw.githubusercontent.com/jasminliu98/quechoa-stream/refs/heads/main/thumbs/qc-37fa13d4a7_6f344e4c_20260519.png?v=6f344e4c",
             "width": 1600,
             "height": 1200
           }
@@ -771,7 +543,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/quechoa-stream/refs/heads/main/thumbs/qc-e0be422c62_c974ca0f_20260518.png?v=c974ca0f",
+            "url": "https://raw.githubusercontent.com/jasminliu98/quechoa-stream/refs/heads/main/thumbs/qc-e0be422c62_c974ca0f_20260519.png?v=c974ca0f",
             "width": 1600,
             "height": 1200
           }
@@ -847,7 +619,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/quechoa-stream/refs/heads/main/thumbs/qc-1306d303c0_9bc91668_20260518.png?v=9bc91668",
+            "url": "https://raw.githubusercontent.com/jasminliu98/quechoa-stream/refs/heads/main/thumbs/qc-1306d303c0_9bc91668_20260519.png?v=9bc91668",
             "width": 1600,
             "height": 1200
           }
@@ -923,7 +695,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/quechoa-stream/refs/heads/main/thumbs/qc-d746dce9b4_341962b4_20260518.png?v=341962b4",
+            "url": "https://raw.githubusercontent.com/jasminliu98/quechoa-stream/refs/heads/main/thumbs/qc-d746dce9b4_341962b4_20260519.png?v=341962b4",
             "width": 1600,
             "height": 1200
           }
@@ -1008,7 +780,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/quechoa-stream/refs/heads/main/thumbs/qc-7e864a5139_e5f094d7_20260518.png?v=e5f094d7",
+            "url": "https://raw.githubusercontent.com/jasminliu98/quechoa-stream/refs/heads/main/thumbs/qc-7e864a5139_e5f094d7_20260519.png?v=e5f094d7",
             "width": 1600,
             "height": 1200
           }
@@ -1093,7 +865,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/quechoa-stream/refs/heads/main/thumbs/qc-272a5bd2a0_c7694e1f_20260518.png?v=c7694e1f",
+            "url": "https://raw.githubusercontent.com/jasminliu98/quechoa-stream/refs/heads/main/thumbs/qc-272a5bd2a0_c7694e1f_20260519.png?v=c7694e1f",
             "width": 1600,
             "height": 1200
           }
