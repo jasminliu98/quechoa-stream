@@ -17,6 +17,234 @@
       "enable_detail": false,
       "channels": [
         {
+          "id": "qc-785f8cebab",
+          "name": "El Geish vs Pharco | 21:00 18/05",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-785f8cebab",
+              "name": "QuechoaTV",
+              "contents": [
+                {
+                  "id": "ct-785f8cebab",
+                  "name": "El Geish vs Pharco",
+                  "streams": [
+                    {
+                      "id": "st-785f8cebab",
+                      "name": "QC",
+                      "stream_links": [
+                        {
+                          "id": "lnk-75feca2dee",
+                          "name": "Link FHD",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_vanminh.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://quechoa10.live/"
+                            },
+                            {
+                              "key": "Origin",
+                              "value": "https://quechoa10.live"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Premier League",
+            "team_a": "El Geish",
+            "team_b": "Pharco",
+            "logo_a": "https://media.api-sports.io/football/teams/1039.png",
+            "logo_b": "https://media.api-sports.io/football/teams/15736.png",
+            "time": "21:00",
+            "date": "18/05",
+            "blv": "VĂN MINH",
+            "is_live": false,
+            "sport_slug": "bong-da"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/quechoa-stream/refs/heads/main/thumbs/qc-785f8cebab_1732d118_20260518.png?v=1732d118",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "qc-7fb45ac55f",
+          "name": "El Mokawloon vs Wadi Degla | 00:00 19/05",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-7fb45ac55f",
+              "name": "QuechoaTV",
+              "contents": [
+                {
+                  "id": "ct-7fb45ac55f",
+                  "name": "El Mokawloon vs Wadi Degla",
+                  "streams": [
+                    {
+                      "id": "st-7fb45ac55f",
+                      "name": "QC",
+                      "stream_links": [
+                        {
+                          "id": "lnk-75feca2dee",
+                          "name": "Link FHD",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_vanminh.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://quechoa10.live/"
+                            },
+                            {
+                              "key": "Origin",
+                              "value": "https://quechoa10.live"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Premier League",
+            "team_a": "El Mokawloon",
+            "team_b": "Wadi Degla",
+            "logo_a": "https://media.api-sports.io/football/teams/1575.png",
+            "logo_b": "https://media.api-sports.io/football/teams/1046.png",
+            "time": "00:00",
+            "date": "19/05",
+            "blv": "VĂN MINH",
+            "is_live": false,
+            "sport_slug": "bong-da"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/quechoa-stream/refs/heads/main/thumbs/qc-7fb45ac55f_8d0a6b1c_20260518.png?v=8d0a6b1c",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "qc-e79055b243",
+          "name": "Ghazl El Mehalla vs Al Ittihad | 00:00 19/05",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-e79055b243",
+              "name": "QuechoaTV",
+              "contents": [
+                {
+                  "id": "ct-e79055b243",
+                  "name": "Ghazl El Mehalla vs Al Ittihad",
+                  "streams": [
+                    {
+                      "id": "st-e79055b243",
+                      "name": "QC",
+                      "stream_links": [
+                        {
+                          "id": "lnk-bc172466c0",
+                          "name": "Link FHD",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv2.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://quechoa10.live/"
+                            },
+                            {
+                              "key": "Origin",
+                              "value": "https://quechoa10.live"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Premier League",
+            "team_a": "Ghazl El Mehalla",
+            "team_b": "Al Ittihad",
+            "logo_a": "https://media.api-sports.io/football/teams/13819.png",
+            "logo_b": "https://media.api-sports.io/football/teams/1572.png",
+            "time": "00:00",
+            "date": "19/05",
+            "blv": "CHÈ XANH",
+            "is_live": false,
+            "sport_slug": "bong-da"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/quechoa-stream/refs/heads/main/thumbs/qc-e79055b243_c4ab71f4_20260518.png?v=c4ab71f4",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
           "id": "qc-1b9faa6a34",
           "name": "Arsenal vs Burnley | 02:00 19/05",
           "type": "single",
@@ -79,7 +307,7 @@
             "logo_b": "https://media.api-sports.io/football/teams/44.png",
             "time": "02:00",
             "date": "19/05",
-            "blv": "PUMA",
+            "blv": "PUMA, HẠT MÍT",
             "is_live": false,
             "sport_slug": "bong-da"
           },
@@ -88,6 +316,234 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/jasminliu98/quechoa-stream/refs/heads/main/thumbs/qc-1b9faa6a34_5b29f2ff_20260518.png?v=5b29f2ff",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "qc-32a5e4b27d",
+          "name": "Guayaquil City FC vs Orense SC | 07:00 19/05",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-32a5e4b27d",
+              "name": "QuechoaTV",
+              "contents": [
+                {
+                  "id": "ct-32a5e4b27d",
+                  "name": "Guayaquil City FC vs Orense SC",
+                  "streams": [
+                    {
+                      "id": "st-32a5e4b27d",
+                      "name": "QC",
+                      "stream_links": [
+                        {
+                          "id": "lnk-9ecfdd7bcf",
+                          "name": "Link FHD",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_nemchua.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://quechoa10.live/"
+                            },
+                            {
+                              "key": "Origin",
+                              "value": "https://quechoa10.live"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Liga Pro",
+            "team_a": "Guayaquil City FC",
+            "team_b": "Orense SC",
+            "logo_a": "https://media.api-sports.io/football/teams/1159.png",
+            "logo_b": "https://media.api-sports.io/football/teams/1992.png",
+            "time": "07:00",
+            "date": "19/05",
+            "blv": "NEM CHUA",
+            "is_live": false,
+            "sport_slug": "bong-da"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/quechoa-stream/refs/heads/main/thumbs/qc-32a5e4b27d_a8ebc8e1_20260518.png?v=a8ebc8e1",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "qc-e485e76113",
+          "name": "Sichuan Jiuniu vs Dalian Zhixing | 18:35 19/05",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-e485e76113",
+              "name": "QuechoaTV",
+              "contents": [
+                {
+                  "id": "ct-e485e76113",
+                  "name": "Sichuan Jiuniu vs Dalian Zhixing",
+                  "streams": [
+                    {
+                      "id": "st-e485e76113",
+                      "name": "QC",
+                      "stream_links": [
+                        {
+                          "id": "lnk-67419b1cbc",
+                          "name": "Link FHD",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_khoaitay.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://quechoa10.live/"
+                            },
+                            {
+                              "key": "Origin",
+                              "value": "https://quechoa10.live"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Super League",
+            "team_a": "Sichuan Jiuniu",
+            "team_b": "Dalian Zhixing",
+            "logo_a": "https://media.api-sports.io/football/teams/5686.png",
+            "logo_b": "https://media.api-sports.io/football/teams/21263.png",
+            "time": "18:35",
+            "date": "19/05",
+            "blv": "VỎ QUÝT",
+            "is_live": false,
+            "sport_slug": "bong-da"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/quechoa-stream/refs/heads/main/thumbs/qc-e485e76113_3a143ef4_20260518.png?v=3a143ef4",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "qc-1b05947536",
+          "name": "Tianjin Teda vs Henan Jianye | 18:35 19/05",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-1b05947536",
+              "name": "QuechoaTV",
+              "contents": [
+                {
+                  "id": "ct-1b05947536",
+                  "name": "Tianjin Teda vs Henan Jianye",
+                  "streams": [
+                    {
+                      "id": "st-1b05947536",
+                      "name": "QC",
+                      "stream_links": [
+                        {
+                          "id": "lnk-2a9bebe48a",
+                          "name": "Link FHD",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_quechoa_1.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://quechoa10.live/"
+                            },
+                            {
+                              "key": "Origin",
+                              "value": "https://quechoa10.live"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Super League",
+            "team_a": "Tianjin Teda",
+            "team_b": "Henan Jianye",
+            "logo_a": "https://media.api-sports.io/football/teams/837.png",
+            "logo_b": "https://media.api-sports.io/football/teams/840.png",
+            "time": "18:35",
+            "date": "19/05",
+            "blv": "HẠT MÍT",
+            "is_live": false,
+            "sport_slug": "bong-da"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/quechoa-stream/refs/heads/main/thumbs/qc-1b05947536_065c7e9c_20260518.png?v=065c7e9c",
             "width": 1600,
             "height": 1200
           }
