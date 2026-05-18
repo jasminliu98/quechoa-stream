@@ -547,6 +547,310 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "qc-c3d68aa81f",
+          "name": "Chengdu Better City vs SHANGHAI SIPG | 19:00 19/05",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-c3d68aa81f",
+              "name": "QuechoaTV",
+              "contents": [
+                {
+                  "id": "ct-c3d68aa81f",
+                  "name": "Chengdu Better City vs SHANGHAI SIPG",
+                  "streams": [
+                    {
+                      "id": "st-c3d68aa81f",
+                      "name": "QC",
+                      "stream_links": [
+                        {
+                          "id": "lnk-9ecfdd7bcf",
+                          "name": "Link FHD",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_nemchua.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://quechoa10.live/"
+                            },
+                            {
+                              "key": "Origin",
+                              "value": "https://quechoa10.live"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Super League",
+            "team_a": "Chengdu Better City",
+            "team_b": "SHANGHAI SIPG",
+            "logo_a": "https://media.api-sports.io/football/teams/5648.png",
+            "logo_b": "https://media.api-sports.io/football/teams/836.png",
+            "time": "19:00",
+            "date": "19/05",
+            "blv": "NEM CHUA",
+            "is_live": false,
+            "sport_slug": "bong-da"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/quechoa-stream/refs/heads/main/thumbs/qc-c3d68aa81f_d80d150e_20260518.png?v=d80d150e",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "qc-37fa13d4a7",
+          "name": "Qingdao Youth Island vs Beijing Guoan | 19:00 19/05",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-37fa13d4a7",
+              "name": "QuechoaTV",
+              "contents": [
+                {
+                  "id": "ct-37fa13d4a7",
+                  "name": "Qingdao Youth Island vs Beijing Guoan",
+                  "streams": [
+                    {
+                      "id": "st-37fa13d4a7",
+                      "name": "QC",
+                      "stream_links": [
+                        {
+                          "id": "lnk-bc172466c0",
+                          "name": "Link FHD",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv2.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://quechoa10.live/"
+                            },
+                            {
+                              "key": "Origin",
+                              "value": "https://quechoa10.live"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Super League",
+            "team_a": "Qingdao Youth Island",
+            "team_b": "Beijing Guoan",
+            "logo_a": "https://media.api-sports.io/football/teams/17265.png",
+            "logo_b": "https://media.api-sports.io/football/teams/830.png",
+            "time": "19:00",
+            "date": "19/05",
+            "blv": "CHÈ XANH",
+            "is_live": false,
+            "sport_slug": "bong-da"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/quechoa-stream/refs/heads/main/thumbs/qc-37fa13d4a7_6f344e4c_20260518.png?v=6f344e4c",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "qc-1306d303c0",
+          "name": "Japan U17 vs Uzbekistan U17 | 22:00 19/05",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-1306d303c0",
+              "name": "QuechoaTV",
+              "contents": [
+                {
+                  "id": "ct-1306d303c0",
+                  "name": "Japan U17 vs Uzbekistan U17",
+                  "streams": [
+                    {
+                      "id": "st-1306d303c0",
+                      "name": "QC",
+                      "stream_links": [
+                        {
+                          "id": "lnk-0e88644c2d",
+                          "name": "Link FHD",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_duahau.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://quechoa10.live/"
+                            },
+                            {
+                              "key": "Origin",
+                              "value": "https://quechoa10.live"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "AFC U17 Asian Cup",
+            "team_a": "Japan U17",
+            "team_b": "Uzbekistan U17",
+            "logo_a": "https://media.api-sports.io/football/teams/12511.png",
+            "logo_b": "https://media.api-sports.io/football/teams/21446.png",
+            "time": "22:00",
+            "date": "19/05",
+            "blv": "DƯA HẤU",
+            "is_live": false,
+            "sport_slug": "bong-da"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/quechoa-stream/refs/heads/main/thumbs/qc-1306d303c0_9bc91668_20260518.png?v=9bc91668",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "qc-d746dce9b4",
+          "name": "FC Noah vs Ararat | 22:00 19/05",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-d746dce9b4",
+              "name": "QuechoaTV",
+              "contents": [
+                {
+                  "id": "ct-d746dce9b4",
+                  "name": "FC Noah vs Ararat",
+                  "streams": [
+                    {
+                      "id": "st-d746dce9b4",
+                      "name": "QC",
+                      "stream_links": [
+                        {
+                          "id": "lnk-67419b1cbc",
+                          "name": "Link FHD",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_khoaitay.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://quechoa10.live/"
+                            },
+                            {
+                              "key": "Origin",
+                              "value": "https://quechoa10.live"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Premier League",
+            "team_a": "FC Noah",
+            "team_b": "Ararat",
+            "logo_a": "https://media.api-sports.io/football/teams/3684.png",
+            "logo_b": "https://media.api-sports.io/football/teams/3682.png",
+            "time": "22:00",
+            "date": "19/05",
+            "blv": "VỎ QUÝT",
+            "is_live": false,
+            "sport_slug": "bong-da"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/quechoa-stream/refs/heads/main/thumbs/qc-d746dce9b4_341962b4_20260518.png?v=341962b4",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     },
