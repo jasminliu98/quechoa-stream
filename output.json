@@ -11,7 +11,7 @@
   "groups": [
     {
       "id": "sport_bong-da",
-      "name": "⚽ Bóng Đá (3 LIVE)",
+      "name": "⚽ Bóng Đá (4 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
@@ -169,6 +169,82 @@
           }
         },
         {
+          "id": "qc-37fa13d4a7",
+          "name": "Qingdao Youth Island vs Beijing Guoan | 19:00 19/05",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "● LIVE",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#ff4444"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-37fa13d4a7",
+              "name": "QuechoaTV",
+              "contents": [
+                {
+                  "id": "ct-37fa13d4a7",
+                  "name": "Qingdao Youth Island vs Beijing Guoan",
+                  "streams": [
+                    {
+                      "id": "st-37fa13d4a7",
+                      "name": "QC",
+                      "stream_links": [
+                        {
+                          "id": "lnk-bc172466c0",
+                          "name": "Link FHD",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv2.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://quechoa10.live/"
+                            },
+                            {
+                              "key": "Origin",
+                              "value": "https://quechoa10.live"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Super League",
+            "team_a": "Qingdao Youth Island",
+            "team_b": "Beijing Guoan",
+            "logo_a": "https://media.api-sports.io/football/teams/17265.png",
+            "logo_b": "https://media.api-sports.io/football/teams/830.png",
+            "time": "19:00",
+            "date": "19/05",
+            "blv": "CHÈ XANH",
+            "is_live": true,
+            "sport_slug": "bong-da"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/quechoa-stream/refs/heads/main/thumbs/qc-37fa13d4a7_6f344e4c_20260519.png?v=6f344e4c",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
           "id": "qc-e0be422c62",
           "name": "Phong Phú Hà Nam Nữ vs Thái Nguyên Nữ | 19:00 19/05",
           "type": "single",
@@ -316,82 +392,6 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/jasminliu98/quechoa-stream/refs/heads/main/thumbs/qc-c3d68aa81f_d80d150e_20260519.png?v=d80d150e",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "qc-37fa13d4a7",
-          "name": "Qingdao Youth Island vs Beijing Guoan | 19:00 19/05",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "🕐 Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-37fa13d4a7",
-              "name": "QuechoaTV",
-              "contents": [
-                {
-                  "id": "ct-37fa13d4a7",
-                  "name": "Qingdao Youth Island vs Beijing Guoan",
-                  "streams": [
-                    {
-                      "id": "st-37fa13d4a7",
-                      "name": "QC",
-                      "stream_links": [
-                        {
-                          "id": "lnk-bc172466c0",
-                          "name": "Link FHD",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv2.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://quechoa10.live/"
-                            },
-                            {
-                              "key": "Origin",
-                              "value": "https://quechoa10.live"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Super League",
-            "team_a": "Qingdao Youth Island",
-            "team_b": "Beijing Guoan",
-            "logo_a": "https://media.api-sports.io/football/teams/17265.png",
-            "logo_b": "https://media.api-sports.io/football/teams/830.png",
-            "time": "19:00",
-            "date": "19/05",
-            "blv": "CHÈ XANH",
-            "is_live": false,
-            "sport_slug": "bong-da"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/quechoa-stream/refs/heads/main/thumbs/qc-37fa13d4a7_6f344e4c_20260519.png?v=6f344e4c",
             "width": 1600,
             "height": 1200
           }
@@ -763,7 +763,7 @@
             "logo_b": "https://media.api-sports.io/football/teams/47.png",
             "time": "02:15",
             "date": "20/05",
-            "blv": "PUMA, HẠT MÍT",
+            "blv": "PUMA, CHÈ XANH",
             "is_live": false,
             "sport_slug": "bong-da"
           },
