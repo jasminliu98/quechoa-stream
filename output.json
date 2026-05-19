@@ -804,11 +804,11 @@
                       "name": "QC",
                       "stream_links": [
                         {
-                          "id": "lnk-0e88644c2d",
+                          "id": "lnk-9ecfdd7bcf",
                           "name": "Link FHD",
                           "type": "hls",
                           "default": true,
-                          "url": "https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_duahau.m3u8",
+                          "url": "https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_nemchua.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
@@ -839,7 +839,7 @@
             "logo_b": "https://media.api-sports.io/football/teams/2780.png",
             "time": "20:00",
             "date": "20/05",
-            "blv": "DƯA HẤU",
+            "blv": "NEM CHUA",
             "is_live": false,
             "sport_slug": "bong-da"
           },
