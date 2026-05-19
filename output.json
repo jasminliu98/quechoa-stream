@@ -623,6 +623,234 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "qc-68cf6b887d",
+          "name": "Bournemouth vs Manchester City | 01:30 20/05",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-68cf6b887d",
+              "name": "QuechoaTV",
+              "contents": [
+                {
+                  "id": "ct-68cf6b887d",
+                  "name": "Bournemouth vs Manchester City",
+                  "streams": [
+                    {
+                      "id": "st-68cf6b887d",
+                      "name": "QC",
+                      "stream_links": [
+                        {
+                          "id": "lnk-0e88644c2d",
+                          "name": "Link FHD",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_duahau.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://quechoa10.live/"
+                            },
+                            {
+                              "key": "Origin",
+                              "value": "https://quechoa10.live"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Premier League",
+            "team_a": "Bournemouth",
+            "team_b": "Manchester City",
+            "logo_a": "https://media.api-sports.io/football/teams/35.png",
+            "logo_b": "https://media.api-sports.io/football/teams/50.png",
+            "time": "01:30",
+            "date": "20/05",
+            "blv": "DƯA HẤU, VỎ QUÝT",
+            "is_live": false,
+            "sport_slug": "bong-da"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/quechoa-stream/refs/heads/main/thumbs/qc-68cf6b887d_1aa96cd9_20260519.png?v=1aa96cd9",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "qc-4e6ad5020e",
+          "name": "Genk vs Antwerp | 01:30 20/05",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-4e6ad5020e",
+              "name": "QuechoaTV",
+              "contents": [
+                {
+                  "id": "ct-4e6ad5020e",
+                  "name": "Genk vs Antwerp",
+                  "streams": [
+                    {
+                      "id": "st-4e6ad5020e",
+                      "name": "QC",
+                      "stream_links": [
+                        {
+                          "id": "lnk-9ecfdd7bcf",
+                          "name": "Link FHD",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_nemchua.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://quechoa10.live/"
+                            },
+                            {
+                              "key": "Origin",
+                              "value": "https://quechoa10.live"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Jupiler Pro League",
+            "team_a": "Genk",
+            "team_b": "Antwerp",
+            "logo_a": "https://media.api-sports.io/football/teams/742.png",
+            "logo_b": "https://media.api-sports.io/football/teams/740.png",
+            "time": "01:30",
+            "date": "20/05",
+            "blv": "NEM CHUA",
+            "is_live": false,
+            "sport_slug": "bong-da"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/quechoa-stream/refs/heads/main/thumbs/qc-4e6ad5020e_402495f5_20260519.png?v=402495f5",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "qc-4117664e85",
+          "name": "Chelsea vs Tottenham | 02:15 20/05",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-4117664e85",
+              "name": "QuechoaTV",
+              "contents": [
+                {
+                  "id": "ct-4117664e85",
+                  "name": "Chelsea vs Tottenham",
+                  "streams": [
+                    {
+                      "id": "st-4117664e85",
+                      "name": "QC",
+                      "stream_links": [
+                        {
+                          "id": "lnk-6cafe33b0c",
+                          "name": "Link FHD",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv1.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://quechoa10.live/"
+                            },
+                            {
+                              "key": "Origin",
+                              "value": "https://quechoa10.live"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Premier League",
+            "team_a": "Chelsea",
+            "team_b": "Tottenham",
+            "logo_a": "https://media.api-sports.io/football/teams/49.png",
+            "logo_b": "https://media.api-sports.io/football/teams/47.png",
+            "time": "02:15",
+            "date": "20/05",
+            "blv": "PUMA, HẠT MÍT",
+            "is_live": false,
+            "sport_slug": "bong-da"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/quechoa-stream/refs/heads/main/thumbs/qc-4117664e85_1897c68b_20260519.png?v=1897c68b",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     }
