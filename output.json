@@ -1014,6 +1014,252 @@
           }
         }
       ]
+    },
+    {
+      "id": "sport_bong-ro",
+      "name": "🏀 Bóng Rổ",
+      "display": "vertical",
+      "grid_number": 2,
+      "enable_detail": false,
+      "channels": [
+        {
+          "id": "qc-eb30a6e23d",
+          "name": "New York Knicks vs Cleveland Cavaliers | 07:00 20/05",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-eb30a6e23d",
+              "name": "QuechoaTV",
+              "contents": [
+                {
+                  "id": "ct-eb30a6e23d",
+                  "name": "New York Knicks vs Cleveland Cavaliers",
+                  "streams": [
+                    {
+                      "id": "st-eb30a6e23d",
+                      "name": "QC",
+                      "stream_links": [
+                        {
+                          "id": "lnk-0e88644c2d",
+                          "name": "Link FHD",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_duahau.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://quechoa10.live/"
+                            },
+                            {
+                              "key": "Origin",
+                              "value": "https://quechoa10.live"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "NBA",
+            "team_a": "New York Knicks",
+            "team_b": "Cleveland Cavaliers",
+            "logo_a": "https://media.api-sports.io/basketball/teams/151.png",
+            "logo_b": "https://media.api-sports.io/basketball/teams/137.png",
+            "time": "07:00",
+            "date": "20/05",
+            "blv": "DƯA HẤU",
+            "is_live": false,
+            "sport_slug": "bong-ro"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/quechoa-stream/refs/heads/main/thumbs/qc-eb30a6e23d_e009599f_20260519.png?v=e009599f",
+            "width": 1600,
+            "height": 1200
+          }
+        }
+      ]
+    },
+    {
+      "id": "sport_esport",
+      "name": "🎮 Esport",
+      "display": "vertical",
+      "grid_number": 2,
+      "enable_detail": false,
+      "channels": [
+        {
+          "id": "qc-cbca37c0e2",
+          "name": "T1 vs KRX | 15:00 20/05",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-cbca37c0e2",
+              "name": "QuechoaTV",
+              "contents": [
+                {
+                  "id": "ct-cbca37c0e2",
+                  "name": "T1 vs KRX",
+                  "streams": [
+                    {
+                      "id": "st-cbca37c0e2",
+                      "name": "QC",
+                      "stream_links": [
+                        {
+                          "id": "lnk-0e88644c2d",
+                          "name": "Link FHD",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_duahau.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://quechoa10.live/"
+                            },
+                            {
+                              "key": "Origin",
+                              "value": "https://quechoa10.live"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "LCK",
+            "team_a": "T1",
+            "team_b": "KRX",
+            "logo_a": "https://storage.quechoa2.live/logos/teams/1771082741508-t1-logo.svg.png",
+            "logo_b": "https://storage.quechoa2.live/logos/teams/1777445374973-590-1768047428101.webp",
+            "time": "15:00",
+            "date": "20/05",
+            "blv": "DƯA HẤU",
+            "is_live": false,
+            "sport_slug": "esport"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/quechoa-stream/refs/heads/main/thumbs/qc-cbca37c0e2_c2957bb2_20260519.png?v=c2957bb2",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "qc-7a0a5a94b8",
+          "name": "Nongshim RedForce vs KT Rolster  | 17:00 20/05",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-7a0a5a94b8",
+              "name": "QuechoaTV",
+              "contents": [
+                {
+                  "id": "ct-7a0a5a94b8",
+                  "name": "Nongshim RedForce vs KT Rolster ",
+                  "streams": [
+                    {
+                      "id": "st-7a0a5a94b8",
+                      "name": "QC",
+                      "stream_links": [
+                        {
+                          "id": "lnk-0e88644c2d",
+                          "name": "Link FHD",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_duahau.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://quechoa10.live/"
+                            },
+                            {
+                              "key": "Origin",
+                              "value": "https://quechoa10.live"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "LCK",
+            "team_a": "Nongshim RedForce",
+            "team_b": "KT Rolster ",
+            "logo_a": "https://storage.quechoa2.live/logos/teams/1776183826257-nongshim-redforce.png",
+            "logo_b": "https://storage.quechoa2.live/logos/teams/1770363123078-vrs62ucm-wbsxsmeb.png",
+            "time": "17:00",
+            "date": "20/05",
+            "blv": "DƯA HẤU",
+            "is_live": false,
+            "sport_slug": "esport"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/quechoa-stream/refs/heads/main/thumbs/qc-7a0a5a94b8_64fef6b7_20260519.png?v=64fef6b7",
+            "width": 1600,
+            "height": 1200
+          }
+        }
+      ]
     }
   ]
 }
