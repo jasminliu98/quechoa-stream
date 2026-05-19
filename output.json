@@ -500,11 +500,11 @@
                       "name": "QC",
                       "stream_links": [
                         {
-                          "id": "lnk-9ecfdd7bcf",
+                          "id": "lnk-67419b1cbc",
                           "name": "Link FHD",
                           "type": "hls",
                           "default": true,
-                          "url": "https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_nemchua.m3u8",
+                          "url": "https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_khoaitay.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
@@ -535,7 +535,7 @@
             "logo_b": "https://media.api-sports.io/football/teams/2780.png",
             "time": "20:00",
             "date": "20/05",
-            "blv": "NEM CHUA",
+            "blv": "VỎ QUÝT",
             "is_live": false,
             "sport_slug": "bong-da"
           },
@@ -544,6 +544,82 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/jasminliu98/quechoa-stream/refs/heads/main/thumbs/qc-ff69554c77_f240625e_20260520.png?v=f240625e",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "qc-8f1ca5355d",
+          "name": "Al Khaleej Saihat vs Al-Ahli Jeddah | 01:00 21/05",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-8f1ca5355d",
+              "name": "QuechoaTV",
+              "contents": [
+                {
+                  "id": "ct-8f1ca5355d",
+                  "name": "Al Khaleej Saihat vs Al-Ahli Jeddah",
+                  "streams": [
+                    {
+                      "id": "st-8f1ca5355d",
+                      "name": "QC",
+                      "stream_links": [
+                        {
+                          "id": "lnk-9ecfdd7bcf",
+                          "name": "Link FHD",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_nemchua.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://quechoa10.live/"
+                            },
+                            {
+                              "key": "Origin",
+                              "value": "https://quechoa10.live"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Pro League",
+            "team_a": "Al Khaleej Saihat",
+            "team_b": "Al-Ahli Jeddah",
+            "logo_a": "https://media.api-sports.io/football/teams/2928.png",
+            "logo_b": "https://media.api-sports.io/football/teams/2929.png",
+            "time": "01:00",
+            "date": "21/05",
+            "blv": "NEM CHUA",
+            "is_live": false,
+            "sport_slug": "bong-da"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/quechoa-stream/refs/heads/main/thumbs/qc-8f1ca5355d_51449221_20260520.png?v=51449221",
             "width": 1600,
             "height": 1200
           }
