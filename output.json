@@ -1464,7 +1464,7 @@
     },
     {
       "id": "sport_bong-chuyen",
-      "name": "🏐 Bóng Chuyền (1 LIVE)",
+      "name": "🏐 Bóng Chuyền",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
@@ -1477,10 +1477,10 @@
           "enable_detail": false,
           "labels": [
             {
-              "text": "● LIVE",
+              "text": "🕐 Sắp",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#ff4444"
+              "text_color": "#aaaaaa"
             }
           ],
           "sources": [
@@ -1533,7 +1533,7 @@
             "time": "17:00",
             "date": "20/05",
             "blv": "HẠT MÍT",
-            "is_live": true,
+            "is_live": false,
             "sport_slug": "bong-chuyen"
           },
           "image": {
