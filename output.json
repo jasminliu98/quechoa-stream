@@ -11,87 +11,11 @@
   "groups": [
     {
       "id": "sport_bong-da",
-      "name": "⚽ Bóng Đá (1 LIVE)",
+      "name": "⚽ Bóng Đá",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "qc-ff69554c77",
-          "name": "Selangor vs Buriram United | 20:00 20/05",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-ff69554c77",
-              "name": "QuechoaTV",
-              "contents": [
-                {
-                  "id": "ct-ff69554c77",
-                  "name": "Selangor vs Buriram United",
-                  "streams": [
-                    {
-                      "id": "st-ff69554c77",
-                      "name": "QC",
-                      "stream_links": [
-                        {
-                          "id": "lnk-67419b1cbc",
-                          "name": "Link FHD",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_khoaitay.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://quechoa10.live/"
-                            },
-                            {
-                              "key": "Origin",
-                              "value": "https://quechoa10.live"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "ASEAN Club Championship",
-            "team_a": "Selangor",
-            "team_b": "Buriram United",
-            "logo_a": "https://media.api-sports.io/football/teams/2526.png",
-            "logo_b": "https://media.api-sports.io/football/teams/2780.png",
-            "time": "20:00",
-            "date": "20/05",
-            "blv": "VỎ QUÝT",
-            "is_live": true,
-            "sport_slug": "bong-da"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/quechoa-stream/refs/heads/main/thumbs/qc-ff69554c77_f240625e_20260520.png?v=f240625e",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "qc-8f1ca5355d",
           "name": "Al Khaleej Saihat vs Al-Ahli Jeddah | 01:00 21/05",
@@ -1228,6 +1152,82 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/jasminliu98/quechoa-stream/refs/heads/main/thumbs/qc-ff5a4e7a88_cb585f11_20260520.png?v=cb585f11",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "qc-51bb6edd1d",
+          "name": "Auda vs FK Liepaja | 22:00 22/05",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-51bb6edd1d",
+              "name": "QuechoaTV",
+              "contents": [
+                {
+                  "id": "ct-51bb6edd1d",
+                  "name": "Auda vs FK Liepaja",
+                  "streams": [
+                    {
+                      "id": "st-51bb6edd1d",
+                      "name": "QC",
+                      "stream_links": [
+                        {
+                          "id": "lnk-75feca2dee",
+                          "name": "Link FHD",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_vanminh.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://quechoa10.live/"
+                            },
+                            {
+                              "key": "Origin",
+                              "value": "https://quechoa10.live"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Virsliga",
+            "team_a": "Auda",
+            "team_b": "FK Liepaja",
+            "logo_a": "https://media.api-sports.io/football/teams/4135.png",
+            "logo_b": "https://media.api-sports.io/football/teams/661.png",
+            "time": "22:00",
+            "date": "22/05",
+            "blv": "VĂN MINH",
+            "is_live": false,
+            "sport_slug": "bong-da"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/quechoa-stream/refs/heads/main/thumbs/qc-51bb6edd1d_7499be51_20260520.png?v=7499be51",
             "width": 1600,
             "height": 1200
           }
