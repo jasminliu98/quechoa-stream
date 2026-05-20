@@ -44,11 +44,11 @@
                       "name": "QC",
                       "stream_links": [
                         {
-                          "id": "lnk-75feca2dee",
+                          "id": "lnk-9ecfdd7bcf",
                           "name": "Link FHD",
                           "type": "hls",
                           "default": true,
-                          "url": "https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_vanminh.m3u8",
+                          "url": "https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_nemchua.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
@@ -79,7 +79,7 @@
             "logo_b": "https://media.api-sports.io/football/teams/16951.png",
             "time": "12:00",
             "date": "20/05",
-            "blv": "VĂN MINH",
+            "blv": "NEM CHUA",
             "is_live": false,
             "sport_slug": "bong-da"
           },
