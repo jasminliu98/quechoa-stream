@@ -17,82 +17,6 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "qc-82a4e52298",
-          "name": "Shenyang Urban vs Qingdao Jonoon | 18:00 20/05",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-82a4e52298",
-              "name": "QuechoaTV",
-              "contents": [
-                {
-                  "id": "ct-82a4e52298",
-                  "name": "Shenyang Urban vs Qingdao Jonoon",
-                  "streams": [
-                    {
-                      "id": "st-82a4e52298",
-                      "name": "QC",
-                      "stream_links": [
-                        {
-                          "id": "lnk-67419b1cbc",
-                          "name": "Link FHD",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_khoaitay.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://quechoa10.live/"
-                            },
-                            {
-                              "key": "Origin",
-                              "value": "https://quechoa10.live"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Super League",
-            "team_a": "Shenyang Urban",
-            "team_b": "Qingdao Jonoon",
-            "logo_a": "https://media.api-sports.io/football/teams/5684.png",
-            "logo_b": "https://media.api-sports.io/football/teams/1431.png",
-            "time": "18:00",
-            "date": "20/05",
-            "blv": "VỎ QUÝT",
-            "is_live": true,
-            "sport_slug": "bong-da"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/quechoa-stream/refs/heads/main/thumbs/qc-82a4e52298_f17408e5_20260520.png?v=f17408e5",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
           "id": "qc-52052163fc",
           "name": "Shanghai Shenhua vs Wuhan Three Towns | 18:35 20/05",
           "type": "single",
@@ -252,10 +176,10 @@
           "enable_detail": false,
           "labels": [
             {
-              "text": "🕐 Sắp",
+              "text": "● LIVE",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#aaaaaa"
+              "text_color": "#ff4444"
             }
           ],
           "sources": [
@@ -308,7 +232,7 @@
             "time": "20:00",
             "date": "20/05",
             "blv": "VỎ QUÝT",
-            "is_live": false,
+            "is_live": true,
             "sport_slug": "bong-da"
           },
           "image": {
