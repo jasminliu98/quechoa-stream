@@ -11,87 +11,11 @@
   "groups": [
     {
       "id": "sport_bong-da",
-      "name": "⚽ Bóng Đá (4 LIVE)",
+      "name": "⚽ Bóng Đá (3 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "qc-5754a053c3",
-          "name": "Naegohyang W vs Suwon FMC | 17:00 20/05",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-5754a053c3",
-              "name": "QuechoaTV",
-              "contents": [
-                {
-                  "id": "ct-5754a053c3",
-                  "name": "Naegohyang W vs Suwon FMC",
-                  "streams": [
-                    {
-                      "id": "st-5754a053c3",
-                      "name": "QC",
-                      "stream_links": [
-                        {
-                          "id": "lnk-9ecfdd7bcf",
-                          "name": "Link FHD",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_nemchua.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://quechoa10.live/"
-                            },
-                            {
-                              "key": "Origin",
-                              "value": "https://quechoa10.live"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "AFC Women's Champions League",
-            "team_a": "Naegohyang W",
-            "team_b": "Suwon FMC",
-            "logo_a": "https://media.api-sports.io/football/teams/26464.png",
-            "logo_b": "https://storage.quechoa2.live/logos/teams/1779185027902-lqrejag5-f5fvxuza.png",
-            "time": "17:00",
-            "date": "20/05",
-            "blv": "NEM CHUA",
-            "is_live": true,
-            "sport_slug": "bong-da"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/quechoa-stream/refs/heads/main/thumbs/qc-5754a053c3_be7ec68b_20260520.png?v=be7ec68b",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "qc-82a4e52298",
           "name": "Shenyang Urban vs Qingdao Jonoon | 18:00 20/05",
@@ -1469,82 +1393,6 @@
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "qc-eeff5e97a3",
-          "name": "Nữ Binh Chủng Thông Tin - BĐ19 vs Suwon City W | 17:00 20/05",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "🕐 Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-eeff5e97a3",
-              "name": "QuechoaTV",
-              "contents": [
-                {
-                  "id": "ct-eeff5e97a3",
-                  "name": "Nữ Binh Chủng Thông Tin - BĐ19 vs Suwon City W",
-                  "streams": [
-                    {
-                      "id": "st-eeff5e97a3",
-                      "name": "QC",
-                      "stream_links": [
-                        {
-                          "id": "lnk-2a9bebe48a",
-                          "name": "Link FHD",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_quechoa_1.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://quechoa10.live/"
-                            },
-                            {
-                              "key": "Origin",
-                              "value": "https://quechoa10.live"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Cúp bóng chuyền nữ quốc tế VTV9 - Bình Điền 2026",
-            "team_a": "Nữ Binh Chủng Thông Tin - BĐ19",
-            "team_b": "Suwon City W",
-            "logo_a": "https://storage.quechoa2.live/logos/teams/1776690512226-505135643-1249728920495964-7032614465491754142-n.jpg",
-            "logo_b": "https://storage.quechoa2.live/logos/teams/1778833121372-igo7k1za-qmtm30d7.png",
-            "time": "17:00",
-            "date": "20/05",
-            "blv": "HẠT MÍT",
-            "is_live": false,
-            "sport_slug": "bong-chuyen"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/quechoa-stream/refs/heads/main/thumbs/qc-eeff5e97a3_1bca232b_20260520.png?v=1bca232b",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "qc-d7e9df35f8",
           "name": "Jiangsu vs LPB Ninh Bình | 20:00 20/05",
