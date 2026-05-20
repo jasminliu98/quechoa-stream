@@ -11,87 +11,11 @@
   "groups": [
     {
       "id": "sport_bong-da",
-      "name": "⚽ Bóng Đá (1 LIVE)",
+      "name": "⚽ Bóng Đá",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "qc-bc8a176f26",
-          "name": "SC Freiburg vs Aston Villa | 02:00 21/05",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-bc8a176f26",
-              "name": "QuechoaTV",
-              "contents": [
-                {
-                  "id": "ct-bc8a176f26",
-                  "name": "SC Freiburg vs Aston Villa",
-                  "streams": [
-                    {
-                      "id": "st-bc8a176f26",
-                      "name": "QC",
-                      "stream_links": [
-                        {
-                          "id": "lnk-6cafe33b0c",
-                          "name": "Link FHD",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv1.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://quechoa10.live/"
-                            },
-                            {
-                              "key": "Origin",
-                              "value": "https://quechoa10.live"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "UEFA Europa League",
-            "team_a": "SC Freiburg",
-            "team_b": "Aston Villa",
-            "logo_a": "https://media.api-sports.io/football/teams/160.png",
-            "logo_b": "https://media.api-sports.io/football/teams/66.png",
-            "time": "02:00",
-            "date": "21/05",
-            "blv": "PUMA, CHÈ XANH, VỎ QUÝT",
-            "is_live": true,
-            "sport_slug": "bong-da"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/quechoa-stream/refs/heads/main/thumbs/qc-bc8a176f26_81589fe1_20260521.png?v=81589fe1",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "qc-663cb81b1a",
           "name": "Minerva Punjab vs Mumbai City | 18:30 21/05",
