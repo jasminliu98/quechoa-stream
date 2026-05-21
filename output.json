@@ -11,87 +11,11 @@
   "groups": [
     {
       "id": "sport_bong-da",
-      "name": "⚽ Bóng Đá (2 LIVE)",
+      "name": "⚽ Bóng Đá (1 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "qc-0b580a320b",
-          "name": "Shakhtar Donetsk vs Kolos Kovalivka | 19:30 21/05",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-0b580a320b",
-              "name": "QuechoaTV",
-              "contents": [
-                {
-                  "id": "ct-0b580a320b",
-                  "name": "Shakhtar Donetsk vs Kolos Kovalivka",
-                  "streams": [
-                    {
-                      "id": "st-0b580a320b",
-                      "name": "QC",
-                      "stream_links": [
-                        {
-                          "id": "lnk-67419b1cbc",
-                          "name": "Link FHD",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_khoaitay.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://quechoa10.live/"
-                            },
-                            {
-                              "key": "Origin",
-                              "value": "https://quechoa10.live"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Premier League",
-            "team_a": "Shakhtar Donetsk",
-            "team_b": "Kolos Kovalivka",
-            "logo_a": "https://media.api-sports.io/football/teams/550.png",
-            "logo_b": "https://media.api-sports.io/football/teams/3627.png",
-            "time": "19:30",
-            "date": "21/05",
-            "blv": "VỎ QUÝT",
-            "is_live": true,
-            "sport_slug": "bong-da"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/quechoa-stream/refs/heads/main/thumbs/qc-0b580a320b_0cfabe5a_20260521.png?v=0cfabe5a",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "qc-663cb81b1a",
           "name": "Minerva Punjab vs Mumbai City | 21:00 21/05",
