@@ -11,87 +11,11 @@
   "groups": [
     {
       "id": "sport_bong-da",
-      "name": "⚽ Bóng Đá (3 LIVE)",
+      "name": "⚽ Bóng Đá (2 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "qc-0069605647",
-          "name": "Auckland vs Sydney | 15:10 23/05",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-0069605647",
-              "name": "QuechoaTV",
-              "contents": [
-                {
-                  "id": "ct-0069605647",
-                  "name": "Auckland vs Sydney",
-                  "streams": [
-                    {
-                      "id": "st-0069605647",
-                      "name": "QC",
-                      "stream_links": [
-                        {
-                          "id": "lnk-bc172466c0",
-                          "name": "Link FHD",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv2.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://quechoa10.live/"
-                            },
-                            {
-                              "key": "Origin",
-                              "value": "https://quechoa10.live"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "A-League",
-            "team_a": "Auckland",
-            "team_b": "Sydney",
-            "logo_a": "https://media.api-sports.io/football/teams/24608.png",
-            "logo_b": "https://media.api-sports.io/football/teams/943.png",
-            "time": "15:10",
-            "date": "23/05",
-            "blv": "CHÈ XANH",
-            "is_live": true,
-            "sport_slug": "bong-da"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/quechoa-stream/refs/heads/main/thumbs/qc-0069605647_d96800de_20260523.png?v=d96800de",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "qc-11a48a41a7",
           "name": "Kashiwa Reysol vs JEF United Chiba | 16:00 23/05",
@@ -272,11 +196,11 @@
                       "name": "QC",
                       "stream_links": [
                         {
-                          "id": "lnk-75feca2dee",
+                          "id": "lnk-9ecfdd7bcf",
                           "name": "Link FHD",
                           "type": "hls",
                           "default": true,
-                          "url": "https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_vanminh.m3u8",
+                          "url": "https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_nemchua.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
@@ -307,7 +231,7 @@
             "logo_b": "https://media.api-sports.io/football/teams/3671.png",
             "time": "18:00",
             "date": "23/05",
-            "blv": "VĂN MINH",
+            "blv": "NEM CHUA",
             "is_live": false,
             "sport_slug": "bong-da"
           },
