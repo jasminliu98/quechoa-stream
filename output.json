@@ -11,7 +11,7 @@
   "groups": [
     {
       "id": "sport_bong-da",
-      "name": "⚽ Bóng Đá (2 LIVE)",
+      "name": "⚽ Bóng Đá (1 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
@@ -88,82 +88,6 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/jasminliu98/quechoa-stream/refs/heads/main/thumbs/qc-5434dcc17c_85a1c3e9_20260523.png?v=85a1c3e9",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "qc-33c7b98967",
-          "name": "Phu Dong vs Ho Chi Minh | 18:00 23/05",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-33c7b98967",
-              "name": "QuechoaTV",
-              "contents": [
-                {
-                  "id": "ct-33c7b98967",
-                  "name": "Phu Dong vs Ho Chi Minh",
-                  "streams": [
-                    {
-                      "id": "st-33c7b98967",
-                      "name": "QC",
-                      "stream_links": [
-                        {
-                          "id": "lnk-67419b1cbc",
-                          "name": "Link FHD",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_khoaitay.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://quechoa10.live/"
-                            },
-                            {
-                              "key": "Origin",
-                              "value": "https://quechoa10.live"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "V.League 1",
-            "team_a": "Phu Dong",
-            "team_b": "Ho Chi Minh",
-            "logo_a": "https://media.api-sports.io/football/teams/9167.png",
-            "logo_b": "https://media.api-sports.io/football/teams/3672.png",
-            "time": "18:00",
-            "date": "23/05",
-            "blv": "VỎ QUÝT",
-            "is_live": true,
-            "sport_slug": "bong-da"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/quechoa-stream/refs/heads/main/thumbs/qc-33c7b98967_6f2a7802_20260523.png?v=6f2a7802",
             "width": 1600,
             "height": 1200
           }
