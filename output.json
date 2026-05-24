@@ -851,6 +851,462 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "qc-6a14b55f63",
+          "name": "Verona vs AS Roma | 01:45 25/05",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-6a14b55f63",
+              "name": "QuechoaTV",
+              "contents": [
+                {
+                  "id": "ct-6a14b55f63",
+                  "name": "Verona vs AS Roma",
+                  "streams": [
+                    {
+                      "id": "st-6a14b55f63",
+                      "name": "QC",
+                      "stream_links": [
+                        {
+                          "id": "lnk-2a9bebe48a",
+                          "name": "Link FHD",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_quechoa_1.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://quechoa10.live/"
+                            },
+                            {
+                              "key": "Origin",
+                              "value": "https://quechoa10.live"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Serie A",
+            "team_a": "Verona",
+            "team_b": "AS Roma",
+            "logo_a": "https://media.api-sports.io/football/teams/504.png",
+            "logo_b": "https://media.api-sports.io/football/teams/497.png",
+            "time": "01:45",
+            "date": "25/05",
+            "blv": "HẠT MÍT",
+            "is_live": false,
+            "sport_slug": "bong-da"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/quechoa-stream/refs/heads/main/thumbs/qc-6a14b55f63_b4a42f03_20260524.png?v=b4a42f03",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "qc-e3d4a8ac0c",
+          "name": "Villarreal vs Atletico Madrid | 02:00 25/05",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-e3d4a8ac0c",
+              "name": "QuechoaTV",
+              "contents": [
+                {
+                  "id": "ct-e3d4a8ac0c",
+                  "name": "Villarreal vs Atletico Madrid",
+                  "streams": [
+                    {
+                      "id": "st-e3d4a8ac0c",
+                      "name": "QC",
+                      "stream_links": [
+                        {
+                          "id": "lnk-6cafe33b0c",
+                          "name": "Link FHD",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv1.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://quechoa10.live/"
+                            },
+                            {
+                              "key": "Origin",
+                              "value": "https://quechoa10.live"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "La Liga",
+            "team_a": "Villarreal",
+            "team_b": "Atletico Madrid",
+            "logo_a": "https://media.api-sports.io/football/teams/533.png",
+            "logo_b": "https://media.api-sports.io/football/teams/530.png",
+            "time": "02:00",
+            "date": "25/05",
+            "blv": "PUMA",
+            "is_live": false,
+            "sport_slug": "bong-da"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/quechoa-stream/refs/heads/main/thumbs/qc-e3d4a8ac0c_3d16a182_20260524.png?v=3d16a182",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "qc-556182fe84",
+          "name": "Inter Miami vs Philadelphia Union | 06:00 25/05",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-556182fe84",
+              "name": "QuechoaTV",
+              "contents": [
+                {
+                  "id": "ct-556182fe84",
+                  "name": "Inter Miami vs Philadelphia Union",
+                  "streams": [
+                    {
+                      "id": "st-556182fe84",
+                      "name": "QC",
+                      "stream_links": [
+                        {
+                          "id": "lnk-9ecfdd7bcf",
+                          "name": "Link FHD",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_nemchua.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://quechoa10.live/"
+                            },
+                            {
+                              "key": "Origin",
+                              "value": "https://quechoa10.live"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Major League Soccer",
+            "team_a": "Inter Miami",
+            "team_b": "Philadelphia Union",
+            "logo_a": "https://media.api-sports.io/football/teams/9568.png",
+            "logo_b": "https://media.api-sports.io/football/teams/1599.png",
+            "time": "06:00",
+            "date": "25/05",
+            "blv": "NEM CHUA",
+            "is_live": false,
+            "sport_slug": "bong-da"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/quechoa-stream/refs/heads/main/thumbs/qc-556182fe84_d8cd49b8_20260524.png?v=d8cd49b8",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "qc-3afb4f5d89",
+          "name": "Los Angeles FC vs Seattle Sounders | 08:15 25/05",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-3afb4f5d89",
+              "name": "QuechoaTV",
+              "contents": [
+                {
+                  "id": "ct-3afb4f5d89",
+                  "name": "Los Angeles FC vs Seattle Sounders",
+                  "streams": [
+                    {
+                      "id": "st-3afb4f5d89",
+                      "name": "QC",
+                      "stream_links": [
+                        {
+                          "id": "lnk-67419b1cbc",
+                          "name": "Link FHD",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_khoaitay.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://quechoa10.live/"
+                            },
+                            {
+                              "key": "Origin",
+                              "value": "https://quechoa10.live"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Major League Soccer",
+            "team_a": "Los Angeles FC",
+            "team_b": "Seattle Sounders",
+            "logo_a": "https://media.api-sports.io/football/teams/1616.png",
+            "logo_b": "https://media.api-sports.io/football/teams/1595.png",
+            "time": "08:15",
+            "date": "25/05",
+            "blv": "VỎ QUÝT",
+            "is_live": false,
+            "sport_slug": "bong-da"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/quechoa-stream/refs/heads/main/thumbs/qc-3afb4f5d89_0290d456_20260524.png?v=0290d456",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "qc-c22457a29d",
+          "name": "Estonia U17 vs Spain U17 | 00:00 26/05",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-c22457a29d",
+              "name": "QuechoaTV",
+              "contents": [
+                {
+                  "id": "ct-c22457a29d",
+                  "name": "Estonia U17 vs Spain U17",
+                  "streams": [
+                    {
+                      "id": "st-c22457a29d",
+                      "name": "QC",
+                      "stream_links": [
+                        {
+                          "id": "lnk-75feca2dee",
+                          "name": "Link FHD",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_vanminh.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://quechoa10.live/"
+                            },
+                            {
+                              "key": "Origin",
+                              "value": "https://quechoa10.live"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "UEFA U17 Championship - Qualification",
+            "team_a": "Estonia U17",
+            "team_b": "Spain U17",
+            "logo_a": "https://media.api-sports.io/football/teams/17950.png",
+            "logo_b": "https://media.api-sports.io/football/teams/12520.png",
+            "time": "00:00",
+            "date": "26/05",
+            "blv": "VĂN MINH",
+            "is_live": false,
+            "sport_slug": "bong-da"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/quechoa-stream/refs/heads/main/thumbs/qc-c22457a29d_c76cc1c7_20260524.png?v=c76cc1c7",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "qc-8cace6599c",
+          "name": "SC Paderborn 07 vs VfL Wolfsburg | 01:30 26/05",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-8cace6599c",
+              "name": "QuechoaTV",
+              "contents": [
+                {
+                  "id": "ct-8cace6599c",
+                  "name": "SC Paderborn 07 vs VfL Wolfsburg",
+                  "streams": [
+                    {
+                      "id": "st-8cace6599c",
+                      "name": "QC",
+                      "stream_links": [
+                        {
+                          "id": "lnk-6cafe33b0c",
+                          "name": "Link FHD",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv1.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://quechoa10.live/"
+                            },
+                            {
+                              "key": "Origin",
+                              "value": "https://quechoa10.live"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Bundesliga",
+            "team_a": "SC Paderborn 07",
+            "team_b": "VfL Wolfsburg",
+            "logo_a": "https://media.api-sports.io/football/teams/185.png",
+            "logo_b": "https://media.api-sports.io/football/teams/161.png",
+            "time": "01:30",
+            "date": "26/05",
+            "blv": "PUMA",
+            "is_live": false,
+            "sport_slug": "bong-da"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/quechoa-stream/refs/heads/main/thumbs/qc-8cace6599c_d0ea02e2_20260524.png?v=d0ea02e2",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     }
