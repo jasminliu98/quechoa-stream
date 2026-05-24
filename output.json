@@ -11,14 +11,14 @@
   "groups": [
     {
       "id": "sport_bong-da",
-      "name": "⚽ Bóng Đá (2 LIVE)",
+      "name": "⚽ Bóng Đá (3 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
         {
-          "id": "qc-965d7133b2",
-          "name": "Hồng Lĩnh Hà Tĩnh vs Công An Nhân Dân | 18:00 24/05",
+          "id": "qc-952c421b9c",
+          "name": "Tottenham vs Everton | 22:00 24/05",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -32,23 +32,23 @@
           ],
           "sources": [
             {
-              "id": "src-965d7133b2",
+              "id": "src-952c421b9c",
               "name": "QuechoaTV",
               "contents": [
                 {
-                  "id": "ct-965d7133b2",
-                  "name": "Hồng Lĩnh Hà Tĩnh vs Công An Nhân Dân",
+                  "id": "ct-952c421b9c",
+                  "name": "Tottenham vs Everton",
                   "streams": [
                     {
-                      "id": "st-965d7133b2",
+                      "id": "st-952c421b9c",
                       "name": "QC",
                       "stream_links": [
                         {
-                          "id": "lnk-67419b1cbc",
+                          "id": "lnk-9ecfdd7bcf",
                           "name": "Link FHD",
                           "type": "hls",
                           "default": true,
-                          "url": "https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_khoaitay.m3u8",
+                          "url": "https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_nemchua.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
@@ -72,14 +72,14 @@
             }
           ],
           "org_metadata": {
-            "league": "V.League 1",
-            "team_a": "Hồng Lĩnh Hà Tĩnh",
-            "team_b": "Công An Nhân Dân",
-            "logo_a": "https://media.api-sports.io/football/teams/11134.png",
-            "logo_b": "https://media.api-sports.io/football/teams/16400.png",
-            "time": "18:00",
+            "league": "Premier League",
+            "team_a": "Tottenham",
+            "team_b": "Everton",
+            "logo_a": "https://media.api-sports.io/football/teams/47.png",
+            "logo_b": "https://media.api-sports.io/football/teams/45.png",
+            "time": "22:00",
             "date": "24/05",
-            "blv": "VỎ QUÝT",
+            "blv": "NEM CHUA",
             "is_live": true,
             "sport_slug": "bong-da"
           },
@@ -87,7 +87,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/quechoa-stream/refs/heads/main/thumbs/qc-965d7133b2_bb7e730b_20260524.png?v=bb7e730b",
+            "url": "https://raw.githubusercontent.com/jasminliu98/quechoa-stream/refs/heads/main/thumbs/qc-952c421b9c_480d71dc_20260524.png?v=480d71dc",
             "width": 1600,
             "height": 1200
           }
@@ -164,6 +164,82 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/jasminliu98/quechoa-stream/refs/heads/main/thumbs/qc-d38d167a7b_15b52db7_20260524.png?v=15b52db7",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "qc-b33f79a83c",
+          "name": "Crystal Palace vs Arsenal | 22:00 24/05",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "● LIVE",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#ff4444"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-b33f79a83c",
+              "name": "QuechoaTV",
+              "contents": [
+                {
+                  "id": "ct-b33f79a83c",
+                  "name": "Crystal Palace vs Arsenal",
+                  "streams": [
+                    {
+                      "id": "st-b33f79a83c",
+                      "name": "QC",
+                      "stream_links": [
+                        {
+                          "id": "lnk-67419b1cbc",
+                          "name": "Link FHD",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_khoaitay.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://quechoa10.live/"
+                            },
+                            {
+                              "key": "Origin",
+                              "value": "https://quechoa10.live"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Premier League",
+            "team_a": "Crystal Palace",
+            "team_b": "Arsenal",
+            "logo_a": "https://media.api-sports.io/football/teams/52.png",
+            "logo_b": "https://media.api-sports.io/football/teams/42.png",
+            "time": "22:00",
+            "date": "24/05",
+            "blv": "VỎ QUÝT",
+            "is_live": true,
+            "sport_slug": "bong-da"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/quechoa-stream/refs/heads/main/thumbs/qc-b33f79a83c_2c577b92_20260524.png?v=2c577b92",
             "width": 1600,
             "height": 1200
           }
@@ -316,234 +392,6 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/jasminliu98/quechoa-stream/refs/heads/main/thumbs/qc-7b448b49af_96536c6b_20260524.png?v=96536c6b",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "qc-952c421b9c",
-          "name": "Tottenham vs Everton | 22:00 24/05",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "🕐 Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-952c421b9c",
-              "name": "QuechoaTV",
-              "contents": [
-                {
-                  "id": "ct-952c421b9c",
-                  "name": "Tottenham vs Everton",
-                  "streams": [
-                    {
-                      "id": "st-952c421b9c",
-                      "name": "QC",
-                      "stream_links": [
-                        {
-                          "id": "lnk-9ecfdd7bcf",
-                          "name": "Link FHD",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_nemchua.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://quechoa10.live/"
-                            },
-                            {
-                              "key": "Origin",
-                              "value": "https://quechoa10.live"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Premier League",
-            "team_a": "Tottenham",
-            "team_b": "Everton",
-            "logo_a": "https://media.api-sports.io/football/teams/47.png",
-            "logo_b": "https://media.api-sports.io/football/teams/45.png",
-            "time": "22:00",
-            "date": "24/05",
-            "blv": "NEM CHUA",
-            "is_live": false,
-            "sport_slug": "bong-da"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/quechoa-stream/refs/heads/main/thumbs/qc-952c421b9c_480d71dc_20260524.png?v=480d71dc",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "qc-b33f79a83c",
-          "name": "Crystal Palace vs Arsenal | 22:00 24/05",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "🕐 Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-b33f79a83c",
-              "name": "QuechoaTV",
-              "contents": [
-                {
-                  "id": "ct-b33f79a83c",
-                  "name": "Crystal Palace vs Arsenal",
-                  "streams": [
-                    {
-                      "id": "st-b33f79a83c",
-                      "name": "QC",
-                      "stream_links": [
-                        {
-                          "id": "lnk-67419b1cbc",
-                          "name": "Link FHD",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_khoaitay.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://quechoa10.live/"
-                            },
-                            {
-                              "key": "Origin",
-                              "value": "https://quechoa10.live"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Premier League",
-            "team_a": "Crystal Palace",
-            "team_b": "Arsenal",
-            "logo_a": "https://media.api-sports.io/football/teams/52.png",
-            "logo_b": "https://media.api-sports.io/football/teams/42.png",
-            "time": "22:00",
-            "date": "24/05",
-            "blv": "VỎ QUÝT",
-            "is_live": false,
-            "sport_slug": "bong-da"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/quechoa-stream/refs/heads/main/thumbs/qc-b33f79a83c_2c577b92_20260524.png?v=2c577b92",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "qc-63535d2d35",
-          "name": "AC Milan vs Cagliari | 01:45 25/05",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "🕐 Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-63535d2d35",
-              "name": "QuechoaTV",
-              "contents": [
-                {
-                  "id": "ct-63535d2d35",
-                  "name": "AC Milan vs Cagliari",
-                  "streams": [
-                    {
-                      "id": "st-63535d2d35",
-                      "name": "QC",
-                      "stream_links": [
-                        {
-                          "id": "lnk-75feca2dee",
-                          "name": "Link FHD",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_vanminh.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://quechoa10.live/"
-                            },
-                            {
-                              "key": "Origin",
-                              "value": "https://quechoa10.live"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Serie A",
-            "team_a": "AC Milan",
-            "team_b": "Cagliari",
-            "logo_a": "https://media.api-sports.io/football/teams/489.png",
-            "logo_b": "https://media.api-sports.io/football/teams/490.png",
-            "time": "01:45",
-            "date": "25/05",
-            "blv": "VĂN MINH",
-            "is_live": false,
-            "sport_slug": "bong-da"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/quechoa-stream/refs/heads/main/thumbs/qc-63535d2d35_dedc63b2_20260524.png?v=dedc63b2",
             "width": 1600,
             "height": 1200
           }
