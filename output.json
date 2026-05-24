@@ -11,11 +11,87 @@
   "groups": [
     {
       "id": "sport_bong-da",
-      "name": "⚽ Bóng Đá (4 LIVE)",
+      "name": "⚽ Bóng Đá (5 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
+        {
+          "id": "qc-6ef7932657",
+          "name": "Brighton vs Manchester United | 22:00 24/05",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "● LIVE",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#ff4444"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-6ef7932657",
+              "name": "QuechoaTV",
+              "contents": [
+                {
+                  "id": "ct-6ef7932657",
+                  "name": "Brighton vs Manchester United",
+                  "streams": [
+                    {
+                      "id": "st-6ef7932657",
+                      "name": "QC",
+                      "stream_links": [
+                        {
+                          "id": "lnk-6cafe33b0c",
+                          "name": "Link FHD",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv1.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://quechoa10.live/"
+                            },
+                            {
+                              "key": "Origin",
+                              "value": "https://quechoa10.live"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Premier League",
+            "team_a": "Brighton",
+            "team_b": "Manchester United",
+            "logo_a": "https://media.api-sports.io/football/teams/51.png",
+            "logo_b": "https://media.api-sports.io/football/teams/33.png",
+            "time": "22:00",
+            "date": "24/05",
+            "blv": "PUMA",
+            "is_live": true,
+            "sport_slug": "bong-da"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/quechoa-stream/refs/heads/main/thumbs/qc-6ef7932657_b2b28052_20260524.png?v=b2b28052",
+            "width": 1600,
+            "height": 1200
+          }
+        },
         {
           "id": "qc-7b448b49af",
           "name": "Liverpool vs Brentford | 22:00 24/05",
@@ -316,82 +392,6 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/jasminliu98/quechoa-stream/refs/heads/main/thumbs/qc-b33f79a83c_2c577b92_20260524.png?v=2c577b92",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "qc-6ef7932657",
-          "name": "Brighton vs Manchester United | 22:00 24/05",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "🕐 Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-6ef7932657",
-              "name": "QuechoaTV",
-              "contents": [
-                {
-                  "id": "ct-6ef7932657",
-                  "name": "Brighton vs Manchester United",
-                  "streams": [
-                    {
-                      "id": "st-6ef7932657",
-                      "name": "QC",
-                      "stream_links": [
-                        {
-                          "id": "lnk-6cafe33b0c",
-                          "name": "Link FHD",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv1.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://quechoa10.live/"
-                            },
-                            {
-                              "key": "Origin",
-                              "value": "https://quechoa10.live"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Premier League",
-            "team_a": "Brighton",
-            "team_b": "Manchester United",
-            "logo_a": "https://media.api-sports.io/football/teams/51.png",
-            "logo_b": "https://media.api-sports.io/football/teams/33.png",
-            "time": "22:00",
-            "date": "24/05",
-            "blv": "PUMA",
-            "is_live": false,
-            "sport_slug": "bong-da"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/quechoa-stream/refs/heads/main/thumbs/qc-6ef7932657_b2b28052_20260524.png?v=b2b28052",
             "width": 1600,
             "height": 1200
           }
