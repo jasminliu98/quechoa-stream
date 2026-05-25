@@ -11,87 +11,11 @@
   "groups": [
     {
       "id": "sport_bong-da",
-      "name": "⚽ Bóng Đá (2 LIVE)",
+      "name": "⚽ Bóng Đá (1 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "qc-556182fe84",
-          "name": "Inter Miami vs Philadelphia Union | 06:00 25/05",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-556182fe84",
-              "name": "QuechoaTV",
-              "contents": [
-                {
-                  "id": "ct-556182fe84",
-                  "name": "Inter Miami vs Philadelphia Union",
-                  "streams": [
-                    {
-                      "id": "st-556182fe84",
-                      "name": "QC",
-                      "stream_links": [
-                        {
-                          "id": "lnk-9ecfdd7bcf",
-                          "name": "Link FHD",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_nemchua.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://quechoa10.live/"
-                            },
-                            {
-                              "key": "Origin",
-                              "value": "https://quechoa10.live"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Major League Soccer",
-            "team_a": "Inter Miami",
-            "team_b": "Philadelphia Union",
-            "logo_a": "https://media.api-sports.io/football/teams/9568.png",
-            "logo_b": "https://media.api-sports.io/football/teams/1599.png",
-            "time": "06:00",
-            "date": "25/05",
-            "blv": "NEM CHUA",
-            "is_live": true,
-            "sport_slug": "bong-da"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/quechoa-stream/refs/heads/main/thumbs/qc-556182fe84_d8cd49b8_20260525.png?v=d8cd49b8",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "qc-3afb4f5d89",
           "name": "Los Angeles FC vs Seattle Sounders | 08:15 25/05",
