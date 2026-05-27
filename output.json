@@ -44,11 +44,11 @@
                       "name": "QC",
                       "stream_links": [
                         {
-                          "id": "lnk-bc172466c0",
+                          "id": "lnk-0e88644c2d",
                           "name": "Link FHD",
                           "type": "hls",
                           "default": true,
-                          "url": "https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv2.m3u8",
+                          "url": "https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_duahau.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
@@ -79,7 +79,7 @@
             "logo_b": "https://media.api-sports.io/football/teams/2526.png",
             "time": "19:00",
             "date": "27/05",
-            "blv": "CHÈ XANH",
+            "blv": "DƯA HẤU",
             "is_live": false,
             "sport_slug": "bong-da"
           },
