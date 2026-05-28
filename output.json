@@ -860,6 +860,82 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "qc-25f0a121ab",
+          "name": "Nguyễn Anh Tuấn  vs Niklas Dohr | 23:00 28/05",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-25f0a121ab",
+              "name": "QuechoaTV",
+              "contents": [
+                {
+                  "id": "ct-25f0a121ab",
+                  "name": "Nguyễn Anh Tuấn  vs Niklas Dohr",
+                  "streams": [
+                    {
+                      "id": "st-25f0a121ab",
+                      "name": "QC",
+                      "stream_links": [
+                        {
+                          "id": "lnk-6cafe33b0c",
+                          "name": "Link FHD",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv1.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://quechoa10.live/"
+                            },
+                            {
+                              "key": "Origin",
+                              "value": "https://quechoa10.live"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "UK OPEN POOL CHAMPIONSHIP",
+            "team_a": "Nguyễn Anh Tuấn ",
+            "team_b": "Niklas Dohr",
+            "logo_a": "https://storage.quechoa2.live/logos/teams/1777180953155-nguy-n-anh-tu-n.jpg",
+            "logo_b": "https://storage.quechoa2.live/logos/teams/1779979627976-img-0872.jpeg",
+            "time": "23:00",
+            "date": "28/05",
+            "blv": "PUMA",
+            "is_live": false,
+            "sport_slug": "billiards"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/quechoa-stream/refs/heads/main/thumbs/qc-25f0a121ab_6721d13f_20260528.png?v=6721d13f",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     }
