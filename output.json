@@ -18,7 +18,7 @@
       "channels": [
         {
           "id": "qc-e3a3561849",
-          "name": "Petrojet vs El Gouna FC | 21:00 28/05",
+          "name": "El Ismaily vs Pharco | 21:00 28/05",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -37,7 +37,7 @@
               "contents": [
                 {
                   "id": "ct-e3a3561849",
-                  "name": "Petrojet vs El Gouna FC",
+                  "name": "El Ismaily vs Pharco",
                   "streams": [
                     {
                       "id": "st-e3a3561849",
@@ -73,10 +73,10 @@
           ],
           "org_metadata": {
             "league": "Premier League",
-            "team_a": "Petrojet",
-            "team_b": "El Gouna FC",
-            "logo_a": "https://media.api-sports.io/football/teams/1041.png",
-            "logo_b": "https://media.api-sports.io/football/teams/1574.png",
+            "team_a": "El Ismaily",
+            "team_b": "Pharco",
+            "logo_a": "https://storage.quechoa2.live/logos/teams/1779977462154-img-0401.png",
+            "logo_b": "https://media.api-sports.io/football/teams/15736.png",
             "time": "21:00",
             "date": "28/05",
             "blv": "HẠT MÍT",
@@ -87,7 +87,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/quechoa-stream/refs/heads/main/thumbs/qc-e3a3561849_0dcc4020_20260528.png?v=0dcc4020",
+            "url": "https://raw.githubusercontent.com/jasminliu98/quechoa-stream/refs/heads/main/thumbs/qc-e3a3561849_c2099d2f_20260528.png?v=c2099d2f",
             "width": 1600,
             "height": 1200
           }
