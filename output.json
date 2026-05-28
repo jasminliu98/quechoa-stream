@@ -703,45 +703,45 @@
       ]
     },
     {
-      "id": "sport_billiards",
-      "name": "🎱 Billiards (1 LIVE)",
+      "id": "sport_bong-ro",
+      "name": "🏀 Bóng Rổ",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
         {
-          "id": "qc-25f0a121ab",
-          "name": "Nguyễn Anh Tuấn  vs Niklas Dohr | 23:00 28/05",
+          "id": "qc-c6411ac880",
+          "name": "San Antonio Spurs vs Oklahoma City Thunder | 07:30 29/05",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
           "labels": [
             {
-              "text": "● LIVE",
+              "text": "🕐 Sắp",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#ff4444"
+              "text_color": "#aaaaaa"
             }
           ],
           "sources": [
             {
-              "id": "src-25f0a121ab",
+              "id": "src-c6411ac880",
               "name": "QuechoaTV",
               "contents": [
                 {
-                  "id": "ct-25f0a121ab",
-                  "name": "Nguyễn Anh Tuấn  vs Niklas Dohr",
+                  "id": "ct-c6411ac880",
+                  "name": "San Antonio Spurs vs Oklahoma City Thunder",
                   "streams": [
                     {
-                      "id": "st-25f0a121ab",
+                      "id": "st-c6411ac880",
                       "name": "QC",
                       "stream_links": [
                         {
-                          "id": "lnk-6cafe33b0c",
+                          "id": "lnk-0e88644c2d",
                           "name": "Link FHD",
                           "type": "hls",
                           "default": true,
-                          "url": "https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv1.m3u8",
+                          "url": "https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_duahau.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
@@ -765,22 +765,22 @@
             }
           ],
           "org_metadata": {
-            "league": "UK OPEN POOL CHAMPIONSHIP",
-            "team_a": "Nguyễn Anh Tuấn ",
-            "team_b": "Niklas Dohr",
-            "logo_a": "https://storage.quechoa2.live/logos/teams/1777180953155-nguy-n-anh-tu-n.jpg",
-            "logo_b": "https://storage.quechoa2.live/logos/teams/1779979627976-img-0872.jpeg",
-            "time": "23:00",
-            "date": "28/05",
-            "blv": "PUMA",
-            "is_live": true,
-            "sport_slug": "billiards"
+            "league": "NBA",
+            "team_a": "San Antonio Spurs",
+            "team_b": "Oklahoma City Thunder",
+            "logo_a": "https://media.api-sports.io/basketball/teams/158.png",
+            "logo_b": "https://media.api-sports.io/basketball/teams/152.png",
+            "time": "07:30",
+            "date": "29/05",
+            "blv": "DƯA HẤU",
+            "is_live": false,
+            "sport_slug": "bong-ro"
           },
           "image": {
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/quechoa-stream/refs/heads/main/thumbs/qc-25f0a121ab_6721d13f_20260529.png?v=6721d13f",
+            "url": "https://raw.githubusercontent.com/jasminliu98/quechoa-stream/refs/heads/main/thumbs/qc-c6411ac880_48166878_20260529.png?v=48166878",
             "width": 1600,
             "height": 1200
           }
