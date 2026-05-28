@@ -780,7 +780,7 @@
     },
     {
       "id": "sport_billiards",
-      "name": "🎱 Billiards",
+      "name": "🎱 Billiards (1 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
@@ -793,10 +793,10 @@
           "enable_detail": false,
           "labels": [
             {
-              "text": "🕐 Sắp",
+              "text": "● LIVE",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#aaaaaa"
+              "text_color": "#ff4444"
             }
           ],
           "sources": [
@@ -849,7 +849,7 @@
             "time": "22:00",
             "date": "28/05",
             "blv": "PUMA",
-            "is_live": false,
+            "is_live": true,
             "sport_slug": "billiards"
           },
           "image": {
