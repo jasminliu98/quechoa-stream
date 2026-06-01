@@ -44,11 +44,11 @@
                       "name": "QC",
                       "stream_links": [
                         {
-                          "id": "lnk-b13bed0d60",
+                          "id": "lnk-9ecfdd7bcf",
                           "name": "Link FHD",
                           "type": "hls",
                           "default": true,
-                          "url": "https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/nhadai1.m3u8",
+                          "url": "https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_nemchua.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
@@ -79,7 +79,7 @@
             "logo_b": "https://media.api-sports.io/football/teams/5.png",
             "time": "00:00",
             "date": "02/06",
-            "blv": "Nhà Đài",
+            "blv": "NEM CHUA",
             "is_live": true,
             "sport_slug": "bong-da"
           },
