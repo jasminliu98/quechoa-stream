@@ -11,7 +11,7 @@
   "groups": [
     {
       "id": "sport_bong-da",
-      "name": "⚽ Bóng Đá",
+      "name": "⚽ Bóng Đá (1 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
@@ -24,10 +24,10 @@
           "enable_detail": false,
           "labels": [
             {
-              "text": "🕐 Sắp",
+              "text": "● LIVE",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#aaaaaa"
+              "text_color": "#ff4444"
             }
           ],
           "sources": [
@@ -44,11 +44,11 @@
                       "name": "QC",
                       "stream_links": [
                         {
-                          "id": "lnk-bc172466c0",
+                          "id": "lnk-9ecfdd7bcf",
                           "name": "Link FHD",
                           "type": "hls",
                           "default": true,
-                          "url": "https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv2.m3u8",
+                          "url": "https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_nemchua.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
@@ -79,8 +79,8 @@
             "logo_b": "https://media.api-sports.io/football/teams/5537.png",
             "time": "19:15",
             "date": "02/06",
-            "blv": "CHÈ XANH",
-            "is_live": false,
+            "blv": "NEM CHUA",
+            "is_live": true,
             "sport_slug": "bong-da"
           },
           "image": {
@@ -164,6 +164,386 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/jasminliu98/quechoa-stream/refs/heads/main/thumbs/qc-3371537ef5_0372e5e8_20260602.png?v=0372e5e8",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "qc-3d7c1de47d",
+          "name": "Georgia vs Romania | 00:00 03/06",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-3d7c1de47d",
+              "name": "QuechoaTV",
+              "contents": [
+                {
+                  "id": "ct-3d7c1de47d",
+                  "name": "Georgia vs Romania",
+                  "streams": [
+                    {
+                      "id": "st-3d7c1de47d",
+                      "name": "QC",
+                      "stream_links": [
+                        {
+                          "id": "lnk-6cafe33b0c",
+                          "name": "Link FHD",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv1.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://quechoa10.live/"
+                            },
+                            {
+                              "key": "Origin",
+                              "value": "https://quechoa10.live"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Friendlies",
+            "team_a": "Georgia",
+            "team_b": "Romania",
+            "logo_a": "https://media.api-sports.io/football/teams/1104.png",
+            "logo_b": "https://media.api-sports.io/football/teams/774.png",
+            "time": "00:00",
+            "date": "03/06",
+            "blv": "PUMA",
+            "is_live": false,
+            "sport_slug": "bong-da"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/quechoa-stream/refs/heads/main/thumbs/qc-3d7c1de47d_bef549a0_20260602.png?v=bef549a0",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "qc-859402ba28",
+          "name": "Morocco vs Madagascar | 00:00 03/06",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-859402ba28",
+              "name": "QuechoaTV",
+              "contents": [
+                {
+                  "id": "ct-859402ba28",
+                  "name": "Morocco vs Madagascar",
+                  "streams": [
+                    {
+                      "id": "st-859402ba28",
+                      "name": "QC",
+                      "stream_links": [
+                        {
+                          "id": "lnk-bc172466c0",
+                          "name": "Link FHD",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv2.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://quechoa10.live/"
+                            },
+                            {
+                              "key": "Origin",
+                              "value": "https://quechoa10.live"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Friendlies",
+            "team_a": "Morocco",
+            "team_b": "Madagascar",
+            "logo_a": "https://media.api-sports.io/football/teams/31.png",
+            "logo_b": "https://media.api-sports.io/football/teams/1490.png",
+            "time": "00:00",
+            "date": "03/06",
+            "blv": "CHÈ XANH",
+            "is_live": false,
+            "sport_slug": "bong-da"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/quechoa-stream/refs/heads/main/thumbs/qc-859402ba28_44a39b7b_20260602.png?v=44a39b7b",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "qc-73d28e167a",
+          "name": "Wales vs Ghana | 01:45 03/06",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-73d28e167a",
+              "name": "QuechoaTV",
+              "contents": [
+                {
+                  "id": "ct-73d28e167a",
+                  "name": "Wales vs Ghana",
+                  "streams": [
+                    {
+                      "id": "st-73d28e167a",
+                      "name": "QC",
+                      "stream_links": [
+                        {
+                          "id": "lnk-75feca2dee",
+                          "name": "Link FHD",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_vanminh.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://quechoa10.live/"
+                            },
+                            {
+                              "key": "Origin",
+                              "value": "https://quechoa10.live"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Friendlies",
+            "team_a": "Wales",
+            "team_b": "Ghana",
+            "logo_a": "https://media.api-sports.io/football/teams/767.png",
+            "logo_b": "https://media.api-sports.io/football/teams/1504.png",
+            "time": "01:45",
+            "date": "03/06",
+            "blv": "VĂN MINH",
+            "is_live": false,
+            "sport_slug": "bong-da"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/quechoa-stream/refs/heads/main/thumbs/qc-73d28e167a_6231fca1_20260602.png?v=6231fca1",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "qc-63de61e320",
+          "name": "Philippines U19 vs Australia U19 | 20:00 03/06",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-63de61e320",
+              "name": "QuechoaTV",
+              "contents": [
+                {
+                  "id": "ct-63de61e320",
+                  "name": "Philippines U19 vs Australia U19",
+                  "streams": [
+                    {
+                      "id": "st-63de61e320",
+                      "name": "QC",
+                      "stream_links": [
+                        {
+                          "id": "lnk-67419b1cbc",
+                          "name": "Link FHD",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_khoaitay.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://quechoa10.live/"
+                            },
+                            {
+                              "key": "Origin",
+                              "value": "https://quechoa10.live"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "ASEAN Championship U19",
+            "team_a": "Philippines U19",
+            "team_b": "Australia U19",
+            "logo_a": "https://media.api-sports.io/football/teams/19153.png",
+            "logo_b": "https://media.api-sports.io/football/teams/22591.png",
+            "time": "20:00",
+            "date": "03/06",
+            "blv": "VỎ QUÝT",
+            "is_live": false,
+            "sport_slug": "bong-da"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/quechoa-stream/refs/heads/main/thumbs/qc-63de61e320_8de89c1c_20260602.png?v=8de89c1c",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "qc-84cfe87221",
+          "name": "Kyrgyzstan  vs Kenya | 21:30 03/06",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-84cfe87221",
+              "name": "QuechoaTV",
+              "contents": [
+                {
+                  "id": "ct-84cfe87221",
+                  "name": "Kyrgyzstan  vs Kenya",
+                  "streams": [
+                    {
+                      "id": "st-84cfe87221",
+                      "name": "QC",
+                      "stream_links": [
+                        {
+                          "id": "lnk-0e88644c2d",
+                          "name": "Link FHD",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_duahau.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://quechoa10.live/"
+                            },
+                            {
+                              "key": "Origin",
+                              "value": "https://quechoa10.live"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Friendlies",
+            "team_a": "Kyrgyzstan ",
+            "team_b": "Kenya",
+            "logo_a": "https://storage.quechoa2.live/logos/teams/1776096310942-kyrgyzstan.png",
+            "logo_b": "https://media.api-sports.io/football/teams/1511.png",
+            "time": "21:30",
+            "date": "03/06",
+            "blv": "DƯA HẤU",
+            "is_live": false,
+            "sport_slug": "bong-da"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/quechoa-stream/refs/heads/main/thumbs/qc-84cfe87221_eeeec259_20260602.png?v=eeeec259",
             "width": 1600,
             "height": 1200
           }
