@@ -11,87 +11,11 @@
   "groups": [
     {
       "id": "sport_bong-da",
-      "name": "⚽ Bóng Đá (2 LIVE)",
+      "name": "⚽ Bóng Đá (1 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "qc-1bf2aadb1a",
-          "name": "Philippines vs Guam | 18:30 03/06",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-1bf2aadb1a",
-              "name": "QuechoaTV",
-              "contents": [
-                {
-                  "id": "ct-1bf2aadb1a",
-                  "name": "Philippines vs Guam",
-                  "streams": [
-                    {
-                      "id": "st-1bf2aadb1a",
-                      "name": "QC",
-                      "stream_links": [
-                        {
-                          "id": "lnk-75feca2dee",
-                          "name": "Link FHD",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_vanminh.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://quechoa10.live/"
-                            },
-                            {
-                              "key": "Origin",
-                              "value": "https://quechoa10.live"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Friendlies",
-            "team_a": "Philippines",
-            "team_b": "Guam",
-            "logo_a": "https://media.api-sports.io/football/teams/1555.png",
-            "logo_b": "https://media.api-sports.io/football/teams/8119.png",
-            "time": "18:30",
-            "date": "03/06",
-            "blv": "VĂN MINH",
-            "is_live": true,
-            "sport_slug": "bong-da"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/quechoa-stream/refs/heads/main/thumbs/qc-1bf2aadb1a_33953cca_20260603.png?v=33953cca",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "qc-63de61e320",
           "name": "Philippines U19 vs Australia U19 | 20:00 03/06",
