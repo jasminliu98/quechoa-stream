@@ -319,6 +319,234 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "qc-587ba1329f",
+          "name": "Singapore vs China | 18:30 05/06",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-587ba1329f",
+              "name": "QuechoaTV",
+              "contents": [
+                {
+                  "id": "ct-587ba1329f",
+                  "name": "Singapore vs China",
+                  "streams": [
+                    {
+                      "id": "st-587ba1329f",
+                      "name": "QC",
+                      "stream_links": [
+                        {
+                          "id": "lnk-75feca2dee",
+                          "name": "Link FHD",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_vanminh.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://quechoa10.live/"
+                            },
+                            {
+                              "key": "Origin",
+                              "value": "https://quechoa10.live"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Friendlies",
+            "team_a": "Singapore",
+            "team_b": "China",
+            "logo_a": "https://media.api-sports.io/football/teams/1546.png",
+            "logo_b": "https://media.api-sports.io/football/teams/1566.png",
+            "time": "18:30",
+            "date": "05/06",
+            "blv": "VĂN MINH",
+            "is_live": false,
+            "sport_slug": "bong-da"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/quechoa-stream/refs/heads/main/thumbs/qc-587ba1329f_a4273999_20260604.png?v=a4273999",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "qc-75d1e590d5",
+          "name": "Georgia vs Bahrain | 23:00 05/06",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-75d1e590d5",
+              "name": "QuechoaTV",
+              "contents": [
+                {
+                  "id": "ct-75d1e590d5",
+                  "name": "Georgia vs Bahrain",
+                  "streams": [
+                    {
+                      "id": "st-75d1e590d5",
+                      "name": "QC",
+                      "stream_links": [
+                        {
+                          "id": "lnk-67419b1cbc",
+                          "name": "Link FHD",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_khoaitay.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://quechoa10.live/"
+                            },
+                            {
+                              "key": "Origin",
+                              "value": "https://quechoa10.live"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Friendlies",
+            "team_a": "Georgia",
+            "team_b": "Bahrain",
+            "logo_a": "https://media.api-sports.io/football/teams/1104.png",
+            "logo_b": "https://media.api-sports.io/football/teams/1547.png",
+            "time": "23:00",
+            "date": "05/06",
+            "blv": "VỎ QUÝT",
+            "is_live": false,
+            "sport_slug": "bong-da"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/quechoa-stream/refs/heads/main/thumbs/qc-75d1e590d5_2142a1b5_20260604.png?v=2142a1b5",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "qc-a3967d924c",
+          "name": "Slovakia vs Montenegro | 23:30 05/06",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-a3967d924c",
+              "name": "QuechoaTV",
+              "contents": [
+                {
+                  "id": "ct-a3967d924c",
+                  "name": "Slovakia vs Montenegro",
+                  "streams": [
+                    {
+                      "id": "st-a3967d924c",
+                      "name": "QC",
+                      "stream_links": [
+                        {
+                          "id": "lnk-bc172466c0",
+                          "name": "Link FHD",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv2.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://quechoa10.live/"
+                            },
+                            {
+                              "key": "Origin",
+                              "value": "https://quechoa10.live"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Friendlies",
+            "team_a": "Slovakia",
+            "team_b": "Montenegro",
+            "logo_a": "https://media.api-sports.io/football/teams/773.png",
+            "logo_b": "https://media.api-sports.io/football/teams/1109.png",
+            "time": "23:30",
+            "date": "05/06",
+            "blv": "CHÈ XANH",
+            "is_live": false,
+            "sport_slug": "bong-da"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/quechoa-stream/refs/heads/main/thumbs/qc-a3967d924c_459493b4_20260604.png?v=459493b4",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     }
