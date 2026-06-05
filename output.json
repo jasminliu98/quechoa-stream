@@ -11,87 +11,11 @@
   "groups": [
     {
       "id": "sport_bong-da",
-      "name": "⚽ Bóng Đá (1 LIVE)",
+      "name": "⚽ Bóng Đá",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "qc-d58b759cc3",
-          "name": "Azerbaijan vs Malta | 01:00 06/06",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-d58b759cc3",
-              "name": "QuechoaTV",
-              "contents": [
-                {
-                  "id": "ct-d58b759cc3",
-                  "name": "Azerbaijan vs Malta",
-                  "streams": [
-                    {
-                      "id": "st-d58b759cc3",
-                      "name": "QC",
-                      "stream_links": [
-                        {
-                          "id": "lnk-67419b1cbc",
-                          "name": "Link FHD",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_khoaitay.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://quechoa10.live/"
-                            },
-                            {
-                              "key": "Origin",
-                              "value": "https://quechoa10.live"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Friendlies",
-            "team_a": "Azerbaijan",
-            "team_b": "Malta",
-            "logo_a": "https://media.api-sports.io/football/teams/1096.png",
-            "logo_b": "https://media.api-sports.io/football/teams/1112.png",
-            "time": "01:00",
-            "date": "06/06",
-            "blv": "VỎ QUÝT",
-            "is_live": true,
-            "sport_slug": "bong-da"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/quechoa-stream/refs/heads/main/thumbs/qc-d58b759cc3_33fdc58f_20260606.png?v=33fdc58f",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "qc-4dc08816d7",
           "name": "Kashima vs Vissel Kobe | 12:00 06/06",
