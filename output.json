@@ -11,7 +11,7 @@
   "groups": [
     {
       "id": "sport_bong-da",
-      "name": "⚽ Bóng Đá (1 LIVE)",
+      "name": "⚽ Bóng Đá (2 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
@@ -87,7 +87,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/quechoa-stream/refs/heads/main/thumbs/qc-a3967d924c_459493b4_20260605.png?v=459493b4",
+            "url": "https://raw.githubusercontent.com/jasminliu98/quechoa-stream/refs/heads/main/thumbs/qc-a3967d924c_459493b4_20260606.png?v=459493b4",
             "width": 1600,
             "height": 1200
           }
@@ -100,10 +100,10 @@
           "enable_detail": false,
           "labels": [
             {
-              "text": "🕐 Sắp",
+              "text": "● LIVE",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#aaaaaa"
+              "text_color": "#ff4444"
             }
           ],
           "sources": [
@@ -156,14 +156,14 @@
             "time": "00:00",
             "date": "06/06",
             "blv": "VĂN MINH",
-            "is_live": false,
+            "is_live": true,
             "sport_slug": "bong-da"
           },
           "image": {
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/quechoa-stream/refs/heads/main/thumbs/qc-4ca7b6b758_caf2525f_20260605.png?v=caf2525f",
+            "url": "https://raw.githubusercontent.com/jasminliu98/quechoa-stream/refs/heads/main/thumbs/qc-4ca7b6b758_caf2525f_20260606.png?v=caf2525f",
             "width": 1600,
             "height": 1200
           }
@@ -239,7 +239,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/quechoa-stream/refs/heads/main/thumbs/qc-0b96b2d66e_1405d05f_20260605.png?v=1405d05f",
+            "url": "https://raw.githubusercontent.com/jasminliu98/quechoa-stream/refs/heads/main/thumbs/qc-0b96b2d66e_1405d05f_20260606.png?v=1405d05f",
             "width": 1600,
             "height": 1200
           }
@@ -315,7 +315,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/quechoa-stream/refs/heads/main/thumbs/qc-d58b759cc3_33fdc58f_20260605.png?v=33fdc58f",
+            "url": "https://raw.githubusercontent.com/jasminliu98/quechoa-stream/refs/heads/main/thumbs/qc-d58b759cc3_33fdc58f_20260606.png?v=33fdc58f",
             "width": 1600,
             "height": 1200
           }
@@ -391,7 +391,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/quechoa-stream/refs/heads/main/thumbs/qc-4dc08816d7_9c7f9e3d_20260605.png?v=9c7f9e3d",
+            "url": "https://raw.githubusercontent.com/jasminliu98/quechoa-stream/refs/heads/main/thumbs/qc-4dc08816d7_9c7f9e3d_20260606.png?v=9c7f9e3d",
             "width": 1600,
             "height": 1200
           }
@@ -467,7 +467,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/quechoa-stream/refs/heads/main/thumbs/qc-b1ef6d6f6e_149141fd_20260605.png?v=149141fd",
+            "url": "https://raw.githubusercontent.com/jasminliu98/quechoa-stream/refs/heads/main/thumbs/qc-b1ef6d6f6e_149141fd_20260606.png?v=149141fd",
             "width": 1600,
             "height": 1200
           }
@@ -543,7 +543,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/quechoa-stream/refs/heads/main/thumbs/qc-7539afac00_598db173_20260605.png?v=598db173",
+            "url": "https://raw.githubusercontent.com/jasminliu98/quechoa-stream/refs/heads/main/thumbs/qc-7539afac00_598db173_20260606.png?v=598db173",
             "width": 1600,
             "height": 1200
           }
@@ -619,7 +619,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/quechoa-stream/refs/heads/main/thumbs/qc-fcb02e3535_eb6af253_20260605.png?v=eb6af253",
+            "url": "https://raw.githubusercontent.com/jasminliu98/quechoa-stream/refs/heads/main/thumbs/qc-fcb02e3535_eb6af253_20260606.png?v=eb6af253",
             "width": 1600,
             "height": 1200
           }
@@ -695,7 +695,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/quechoa-stream/refs/heads/main/thumbs/qc-bb78318b47_2b792b57_20260605.png?v=2b792b57",
+            "url": "https://raw.githubusercontent.com/jasminliu98/quechoa-stream/refs/heads/main/thumbs/qc-bb78318b47_2b792b57_20260606.png?v=2b792b57",
             "width": 1600,
             "height": 1200
           }
@@ -771,7 +771,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/quechoa-stream/refs/heads/main/thumbs/qc-e1620f19ff_d391275a_20260605.png?v=d391275a",
+            "url": "https://raw.githubusercontent.com/jasminliu98/quechoa-stream/refs/heads/main/thumbs/qc-e1620f19ff_d391275a_20260606.png?v=d391275a",
             "width": 1600,
             "height": 1200
           }
@@ -847,7 +847,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/quechoa-stream/refs/heads/main/thumbs/qc-dfd01fc2e7_b50763b4_20260605.png?v=b50763b4",
+            "url": "https://raw.githubusercontent.com/jasminliu98/quechoa-stream/refs/heads/main/thumbs/qc-dfd01fc2e7_b50763b4_20260606.png?v=b50763b4",
             "width": 1600,
             "height": 1200
           }
@@ -923,7 +923,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/quechoa-stream/refs/heads/main/thumbs/qc-4a4d5519c0_c189ba40_20260605.png?v=c189ba40",
+            "url": "https://raw.githubusercontent.com/jasminliu98/quechoa-stream/refs/heads/main/thumbs/qc-4a4d5519c0_c189ba40_20260606.png?v=c189ba40",
             "width": 1600,
             "height": 1200
           }
@@ -999,7 +999,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/quechoa-stream/refs/heads/main/thumbs/qc-4e29450df8_577627ad_20260605.png?v=577627ad",
+            "url": "https://raw.githubusercontent.com/jasminliu98/quechoa-stream/refs/heads/main/thumbs/qc-4e29450df8_577627ad_20260606.png?v=577627ad",
             "width": 1600,
             "height": 1200
           }
@@ -1075,7 +1075,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/quechoa-stream/refs/heads/main/thumbs/qc-cdf6d7ae5e_f8377f23_20260605.png?v=f8377f23",
+            "url": "https://raw.githubusercontent.com/jasminliu98/quechoa-stream/refs/heads/main/thumbs/qc-cdf6d7ae5e_f8377f23_20260606.png?v=f8377f23",
             "width": 1600,
             "height": 1200
           }
@@ -1151,7 +1151,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/quechoa-stream/refs/heads/main/thumbs/qc-cfeddba727_289eb829_20260605.png?v=289eb829",
+            "url": "https://raw.githubusercontent.com/jasminliu98/quechoa-stream/refs/heads/main/thumbs/qc-cfeddba727_289eb829_20260606.png?v=289eb829",
             "width": 1600,
             "height": 1200
           }
@@ -1227,7 +1227,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/quechoa-stream/refs/heads/main/thumbs/qc-ac18a2925a_f1a9fcf2_20260605.png?v=f1a9fcf2",
+            "url": "https://raw.githubusercontent.com/jasminliu98/quechoa-stream/refs/heads/main/thumbs/qc-ac18a2925a_f1a9fcf2_20260606.png?v=f1a9fcf2",
             "width": 1600,
             "height": 1200
           }
@@ -1303,7 +1303,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/quechoa-stream/refs/heads/main/thumbs/qc-27ab7f00d0_5b2b3cd8_20260605.png?v=5b2b3cd8",
+            "url": "https://raw.githubusercontent.com/jasminliu98/quechoa-stream/refs/heads/main/thumbs/qc-27ab7f00d0_5b2b3cd8_20260606.png?v=5b2b3cd8",
             "width": 1600,
             "height": 1200
           }
