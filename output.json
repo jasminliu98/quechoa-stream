@@ -1307,6 +1307,82 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "qc-cfeddba727",
+          "name": "Viettel vs Công An Nhân Dân | 18:00 07/06",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-cfeddba727",
+              "name": "QuechoaTV",
+              "contents": [
+                {
+                  "id": "ct-cfeddba727",
+                  "name": "Viettel vs Công An Nhân Dân",
+                  "streams": [
+                    {
+                      "id": "st-cfeddba727",
+                      "name": "QC",
+                      "stream_links": [
+                        {
+                          "id": "lnk-75feca2dee",
+                          "name": "Link FHD",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_vanminh.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://quechoa10.live/"
+                            },
+                            {
+                              "key": "Origin",
+                              "value": "https://quechoa10.live"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "V.League 1",
+            "team_a": "Viettel",
+            "team_b": "Công An Nhân Dân",
+            "logo_a": "https://media.api-sports.io/football/teams/3681.png",
+            "logo_b": "https://media.api-sports.io/football/teams/16400.png",
+            "time": "18:00",
+            "date": "07/06",
+            "blv": "VĂN MINH",
+            "is_live": false,
+            "sport_slug": "bong-da"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/quechoa-stream/refs/heads/main/thumbs/qc-cfeddba727_289eb829_20260605.png?v=289eb829",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     }
