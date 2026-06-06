@@ -547,6 +547,310 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "qc-f49afb636c",
+          "name": "Belgium U17 vs Italy U17 | 00:00 08/06",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-f49afb636c",
+              "name": "QuechoaTV",
+              "contents": [
+                {
+                  "id": "ct-f49afb636c",
+                  "name": "Belgium U17 vs Italy U17",
+                  "streams": [
+                    {
+                      "id": "st-f49afb636c",
+                      "name": "QC",
+                      "stream_links": [
+                        {
+                          "id": "lnk-6cafe33b0c",
+                          "name": "Link FHD",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv1.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://quechoa10.live/"
+                            },
+                            {
+                              "key": "Origin",
+                              "value": "https://quechoa10.live"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "UEFA U17 Championship",
+            "team_a": "Belgium U17",
+            "team_b": "Italy U17",
+            "logo_a": "https://media.api-sports.io/football/teams/17942.png",
+            "logo_b": "https://media.api-sports.io/football/teams/12510.png",
+            "time": "00:00",
+            "date": "08/06",
+            "blv": "PUMA",
+            "is_live": false,
+            "sport_slug": "bong-da"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/quechoa-stream/refs/heads/main/thumbs/qc-f49afb636c_c7263485_20260607.png?v=c7263485",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "qc-682fd01884",
+          "name": "Kosovo vs Andorra | 01:00 08/06",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-682fd01884",
+              "name": "QuechoaTV",
+              "contents": [
+                {
+                  "id": "ct-682fd01884",
+                  "name": "Kosovo vs Andorra",
+                  "streams": [
+                    {
+                      "id": "st-682fd01884",
+                      "name": "QC",
+                      "stream_links": [
+                        {
+                          "id": "lnk-75feca2dee",
+                          "name": "Link FHD",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_vanminh.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://quechoa10.live/"
+                            },
+                            {
+                              "key": "Origin",
+                              "value": "https://quechoa10.live"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Friendlies",
+            "team_a": "Kosovo",
+            "team_b": "Andorra",
+            "logo_a": "https://media.api-sports.io/football/teams/1111.png",
+            "logo_b": "https://media.api-sports.io/football/teams/1110.png",
+            "time": "01:00",
+            "date": "08/06",
+            "blv": "VĂN MINH",
+            "is_live": false,
+            "sport_slug": "bong-da"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/quechoa-stream/refs/heads/main/thumbs/qc-682fd01884_5c9e0cd2_20260607.png?v=5c9e0cd2",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "qc-5da93c073c",
+          "name": "Croatia vs Slovenia | 01:45 08/06",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-5da93c073c",
+              "name": "QuechoaTV",
+              "contents": [
+                {
+                  "id": "ct-5da93c073c",
+                  "name": "Croatia vs Slovenia",
+                  "streams": [
+                    {
+                      "id": "st-5da93c073c",
+                      "name": "QC",
+                      "stream_links": [
+                        {
+                          "id": "lnk-bc172466c0",
+                          "name": "Link FHD",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv2.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://quechoa10.live/"
+                            },
+                            {
+                              "key": "Origin",
+                              "value": "https://quechoa10.live"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Friendlies",
+            "team_a": "Croatia",
+            "team_b": "Slovenia",
+            "logo_a": "https://media.api-sports.io/football/teams/3.png",
+            "logo_b": "https://media.api-sports.io/football/teams/1091.png",
+            "time": "01:45",
+            "date": "08/06",
+            "blv": "CHÈ XANH",
+            "is_live": false,
+            "sport_slug": "bong-da"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/quechoa-stream/refs/heads/main/thumbs/qc-5da93c073c_7b93589c_20260607.png?v=7b93589c",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "qc-b1c1d3029d",
+          "name": "Thailand U19 vs Malaysia U19 | 20:00 08/06",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-b1c1d3029d",
+              "name": "QuechoaTV",
+              "contents": [
+                {
+                  "id": "ct-b1c1d3029d",
+                  "name": "Thailand U19 vs Malaysia U19",
+                  "streams": [
+                    {
+                      "id": "st-b1c1d3029d",
+                      "name": "QC",
+                      "stream_links": [
+                        {
+                          "id": "lnk-67419b1cbc",
+                          "name": "Link FHD",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_khoaitay.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://quechoa10.live/"
+                            },
+                            {
+                              "key": "Origin",
+                              "value": "https://quechoa10.live"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "ASEAN Championship U19",
+            "team_a": "Thailand U19",
+            "team_b": "Malaysia U19",
+            "logo_a": "https://media.api-sports.io/football/teams/19155.png",
+            "logo_b": "https://media.api-sports.io/football/teams/19151.png",
+            "time": "20:00",
+            "date": "08/06",
+            "blv": "VỎ QUÝT",
+            "is_live": false,
+            "sport_slug": "bong-da"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/quechoa-stream/refs/heads/main/thumbs/qc-b1c1d3029d_5e89c437_20260607.png?v=5e89c437",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     }
