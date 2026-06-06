@@ -500,11 +500,11 @@
                       "name": "QC",
                       "stream_links": [
                         {
-                          "id": "lnk-bc172466c0",
+                          "id": "lnk-75feca2dee",
                           "name": "Link FHD",
                           "type": "hls",
                           "default": true,
-                          "url": "https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv2.m3u8",
+                          "url": "https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_vanminh.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
@@ -535,7 +535,7 @@
             "logo_b": "https://media.api-sports.io/football/teams/1095.png",
             "time": "23:00",
             "date": "06/06",
-            "blv": "CHÈ XANH",
+            "blv": "VĂN MINH",
             "is_live": false,
             "sport_slug": "bong-da"
           },
@@ -611,7 +611,7 @@
             "logo_b": "https://media.api-sports.io/football/teams/2383.png",
             "time": "00:45",
             "date": "07/06",
-            "blv": "PUMA",
+            "blv": "PUMA, CHÈ XANH",
             "is_live": false,
             "sport_slug": "bong-da"
           },
