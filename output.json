@@ -11,87 +11,11 @@
   "groups": [
     {
       "id": "sport_bong-da",
-      "name": "⚽ Bóng Đá (3 LIVE)",
+      "name": "⚽ Bóng Đá (2 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "qc-4a4d5519c0",
-          "name": "USA vs Germany | 01:30 07/06",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-4a4d5519c0",
-              "name": "QuechoaTV",
-              "contents": [
-                {
-                  "id": "ct-4a4d5519c0",
-                  "name": "USA vs Germany",
-                  "streams": [
-                    {
-                      "id": "st-4a4d5519c0",
-                      "name": "QC",
-                      "stream_links": [
-                        {
-                          "id": "lnk-67419b1cbc",
-                          "name": "Link FHD",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_khoaitay.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://quechoa10.live/"
-                            },
-                            {
-                              "key": "Origin",
-                              "value": "https://quechoa10.live"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Friendlies",
-            "team_a": "USA",
-            "team_b": "Germany",
-            "logo_a": "https://media.api-sports.io/football/teams/2384.png",
-            "logo_b": "https://media.api-sports.io/football/teams/25.png",
-            "time": "01:30",
-            "date": "07/06",
-            "blv": "VỎ QUÝT",
-            "is_live": true,
-            "sport_slug": "bong-da"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/quechoa-stream/refs/heads/main/thumbs/qc-4a4d5519c0_c189ba40_20260607.png?v=c189ba40",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "qc-4e29450df8",
           "name": "Australia vs Switzerland | 02:00 07/06",
