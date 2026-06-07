@@ -11,87 +11,11 @@
   "groups": [
     {
       "id": "sport_bong-da",
-      "name": "⚽ Bóng Đá (1 LIVE)",
+      "name": "⚽ Bóng Đá",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "qc-ac18a2925a",
-          "name": "Indonesia U19 vs Vietnam U19 | 20:00 07/06",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-ac18a2925a",
-              "name": "QuechoaTV",
-              "contents": [
-                {
-                  "id": "ct-ac18a2925a",
-                  "name": "Indonesia U19 vs Vietnam U19",
-                  "streams": [
-                    {
-                      "id": "st-ac18a2925a",
-                      "name": "QC",
-                      "stream_links": [
-                        {
-                          "id": "lnk-bc172466c0",
-                          "name": "Link FHD",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv2.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://quechoa10.live/"
-                            },
-                            {
-                              "key": "Origin",
-                              "value": "https://quechoa10.live"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "ASEAN Championship U19",
-            "team_a": "Indonesia U19",
-            "team_b": "Vietnam U19",
-            "logo_a": "https://media.api-sports.io/football/teams/19149.png",
-            "logo_b": "https://media.api-sports.io/football/teams/19157.png",
-            "time": "20:00",
-            "date": "07/06",
-            "blv": "CHÈ XANH",
-            "is_live": true,
-            "sport_slug": "bong-da"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/quechoa-stream/refs/heads/main/thumbs/qc-ac18a2925a_f1a9fcf2_20260607.png?v=f1a9fcf2",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "qc-27ab7f00d0",
           "name": "Denmark vs Ukraine | 23:30 07/06",
