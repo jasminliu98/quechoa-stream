@@ -11,87 +11,11 @@
   "groups": [
     {
       "id": "sport_bong-da",
-      "name": "⚽ Bóng Đá (2 LIVE)",
+      "name": "⚽ Bóng Đá (1 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "qc-5da93c073c",
-          "name": "Croatia vs Slovenia | 01:45 08/06",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-5da93c073c",
-              "name": "QuechoaTV",
-              "contents": [
-                {
-                  "id": "ct-5da93c073c",
-                  "name": "Croatia vs Slovenia",
-                  "streams": [
-                    {
-                      "id": "st-5da93c073c",
-                      "name": "QC",
-                      "stream_links": [
-                        {
-                          "id": "lnk-bc172466c0",
-                          "name": "Link FHD",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv2.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://quechoa10.live/"
-                            },
-                            {
-                              "key": "Origin",
-                              "value": "https://quechoa10.live"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Friendlies",
-            "team_a": "Croatia",
-            "team_b": "Slovenia",
-            "logo_a": "https://media.api-sports.io/football/teams/3.png",
-            "logo_b": "https://media.api-sports.io/football/teams/1091.png",
-            "time": "01:45",
-            "date": "08/06",
-            "blv": "CHÈ XANH",
-            "is_live": true,
-            "sport_slug": "bong-da"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/quechoa-stream/refs/heads/main/thumbs/qc-5da93c073c_7b93589c_20260608.png?v=7b93589c",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "qc-536711016a",
           "name": "Morocco vs Norway | 02:00 08/06",
