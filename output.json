@@ -625,6 +625,167 @@
           }
         }
       ]
+    },
+    {
+      "id": "sport_esport",
+      "name": "🎮 Esport",
+      "display": "vertical",
+      "grid_number": 2,
+      "enable_detail": false,
+      "channels": [
+        {
+          "id": "qc-8eee7aae17",
+          "name": "Astralis vs paiN Gaming | 19:00 08/06",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-8eee7aae17",
+              "name": "QuechoaTV",
+              "contents": [
+                {
+                  "id": "ct-8eee7aae17",
+                  "name": "Astralis vs paiN Gaming",
+                  "streams": [
+                    {
+                      "id": "st-8eee7aae17",
+                      "name": "QC",
+                      "stream_links": [
+                        {
+                          "id": "lnk-0e88644c2d",
+                          "name": "Link FHD",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_duahau.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://quechoa10.live/"
+                            },
+                            {
+                              "key": "Origin",
+                              "value": "https://quechoa10.live"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "IEM Cologne Major",
+            "team_a": "Astralis",
+            "team_b": "paiN Gaming",
+            "logo_a": "https://storage.quechoa2.live/logos/teams/1780912660240-img-0906.png",
+            "logo_b": "https://storage.quechoa2.live/logos/teams/1772452679831-600px-pain-gaming-2017-lightmode.png",
+            "time": "19:00",
+            "date": "08/06",
+            "blv": "DƯA HẤU",
+            "is_live": false,
+            "sport_slug": "esport"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/quechoa-stream/refs/heads/main/thumbs/qc-8eee7aae17_53994148_20260608.png?v=53994148",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "qc-3c1edb160c",
+          "name": "TyLoo vs 9z Team | 21:30 08/06",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-3c1edb160c",
+              "name": "QuechoaTV",
+              "contents": [
+                {
+                  "id": "ct-3c1edb160c",
+                  "name": "TyLoo vs 9z Team",
+                  "streams": [
+                    {
+                      "id": "st-3c1edb160c",
+                      "name": "QC",
+                      "stream_links": [
+                        {
+                          "id": "lnk-0e88644c2d",
+                          "name": "Link FHD",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_duahau.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://quechoa10.live/"
+                            },
+                            {
+                              "key": "Origin",
+                              "value": "https://quechoa10.live"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "IEM Cologne Major",
+            "team_a": "TyLoo",
+            "team_b": "9z Team",
+            "logo_a": "https://storage.quechoa2.live/logos/teams/1780912579634-img-0905.png",
+            "logo_b": "https://storage.quechoa2.live/logos/teams/1780912565894-img-0904.png",
+            "time": "21:30",
+            "date": "08/06",
+            "blv": "DƯA HẤU",
+            "is_live": false,
+            "sport_slug": "esport"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/quechoa-stream/refs/heads/main/thumbs/qc-3c1edb160c_3c4ff4f2_20260608.png?v=3c4ff4f2",
+            "width": 1600,
+            "height": 1200
+          }
+        }
+      ]
     }
   ]
 }
