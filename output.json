@@ -11,87 +11,11 @@
   "groups": [
     {
       "id": "sport_bong-da",
-      "name": "⚽ Bóng Đá (1 LIVE)",
+      "name": "⚽ Bóng Đá",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "qc-23f9e18a90",
-          "name": "Australia U19 vs Cambodia U19 | 20:00 09/06",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-23f9e18a90",
-              "name": "QuechoaTV",
-              "contents": [
-                {
-                  "id": "ct-23f9e18a90",
-                  "name": "Australia U19 vs Cambodia U19",
-                  "streams": [
-                    {
-                      "id": "st-23f9e18a90",
-                      "name": "QC",
-                      "stream_links": [
-                        {
-                          "id": "lnk-9ecfdd7bcf",
-                          "name": "Link FHD",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_nemchua.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://quechoa10.live/"
-                            },
-                            {
-                              "key": "Origin",
-                              "value": "https://quechoa10.live"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "ASEAN Championship U19",
-            "team_a": "Australia U19",
-            "team_b": "Cambodia U19",
-            "logo_a": "https://media.api-sports.io/football/teams/22591.png",
-            "logo_b": "https://media.api-sports.io/football/teams/19148.png",
-            "time": "20:00",
-            "date": "09/06",
-            "blv": "NEM CHUA",
-            "is_live": true,
-            "sport_slug": "bong-da"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/quechoa-stream/refs/heads/main/thumbs/qc-23f9e18a90_35d64e59_20260609.png?v=35d64e59",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "qc-e9f929b3d5",
           "name": "Hungary vs Kazakhstan | 00:00 10/06",
