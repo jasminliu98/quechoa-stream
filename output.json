@@ -558,8 +558,8 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "qc-6193c83d43",
-          "name": "Team Vitality vs FUT Esports | 18:30 11/06",
+          "id": "qc-cc168aeb45",
+          "name": "FALCONS vs G2 Esports | 21:00 11/06",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -569,82 +569,6 @@
               "position": "top-left",
               "color": "#00000080",
               "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-6193c83d43",
-              "name": "QuechoaTV",
-              "contents": [
-                {
-                  "id": "ct-6193c83d43",
-                  "name": "Team Vitality vs FUT Esports",
-                  "streams": [
-                    {
-                      "id": "st-6193c83d43",
-                      "name": "QC",
-                      "stream_links": [
-                        {
-                          "id": "lnk-0e88644c2d",
-                          "name": "Link FHD",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_duahau.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://quechoa10.live/"
-                            },
-                            {
-                              "key": "Origin",
-                              "value": "https://quechoa10.live"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "IEM Cologne Major",
-            "team_a": "Team Vitality",
-            "team_b": "FUT Esports",
-            "logo_a": "https://storage.quechoa2.live/logos/teams/1774270911046-team.png",
-            "logo_b": "https://storage.quechoa2.live/logos/teams/1773394761447-8ialaogg-wq0dy9gi.png",
-            "time": "18:30",
-            "date": "11/06",
-            "blv": "DƯA HẤU",
-            "is_live": true,
-            "sport_slug": "esport"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/quechoa-stream/refs/heads/main/thumbs/qc-6193c83d43_69caf802_20260611.png?v=69caf802",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "qc-cc168aeb45",
-          "name": "FALCONS vs G2 Esports | 21:00 11/06",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "🕐 Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
             }
           ],
           "sources": [
@@ -697,7 +621,7 @@
             "time": "21:00",
             "date": "11/06",
             "blv": "DƯA HẤU",
-            "is_live": false,
+            "is_live": true,
             "sport_slug": "esport"
           },
           "image": {
