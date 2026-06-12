@@ -87,7 +87,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/quechoa-stream/refs/heads/main/thumbs/qc-295446e7c0_81d6b428_20260612.png?v=81d6b428",
+            "url": "https://raw.githubusercontent.com/jasminliu98/quechoa-stream/refs/heads/main/thumbs/qc-295446e7c0_81d6b428_20260613.png?v=81d6b428",
             "width": 1600,
             "height": 1200
           }
@@ -163,7 +163,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/quechoa-stream/refs/heads/main/thumbs/qc-9b7a2e9486_9617bf9e_20260612.png?v=9617bf9e",
+            "url": "https://raw.githubusercontent.com/jasminliu98/quechoa-stream/refs/heads/main/thumbs/qc-9b7a2e9486_9617bf9e_20260613.png?v=9617bf9e",
             "width": 1600,
             "height": 1200
           }
@@ -239,7 +239,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/quechoa-stream/refs/heads/main/thumbs/qc-66d13c7c69_2e380573_20260612.png?v=2e380573",
+            "url": "https://raw.githubusercontent.com/jasminliu98/quechoa-stream/refs/heads/main/thumbs/qc-66d13c7c69_2e380573_20260613.png?v=2e380573",
             "width": 1600,
             "height": 1200
           }
@@ -315,7 +315,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/quechoa-stream/refs/heads/main/thumbs/qc-1038ba529e_4bc5308a_20260612.png?v=4bc5308a",
+            "url": "https://raw.githubusercontent.com/jasminliu98/quechoa-stream/refs/heads/main/thumbs/qc-1038ba529e_4bc5308a_20260613.png?v=4bc5308a",
             "width": 1600,
             "height": 1200
           }
@@ -391,7 +391,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/quechoa-stream/refs/heads/main/thumbs/qc-7119324932_deec56fd_20260612.png?v=deec56fd",
+            "url": "https://raw.githubusercontent.com/jasminliu98/quechoa-stream/refs/heads/main/thumbs/qc-7119324932_deec56fd_20260613.png?v=deec56fd",
             "width": 1600,
             "height": 1200
           }
@@ -467,7 +467,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/quechoa-stream/refs/heads/main/thumbs/qc-a3b685c025_2ffcdddb_20260612.png?v=2ffcdddb",
+            "url": "https://raw.githubusercontent.com/jasminliu98/quechoa-stream/refs/heads/main/thumbs/qc-a3b685c025_2ffcdddb_20260613.png?v=2ffcdddb",
             "width": 1600,
             "height": 1200
           }
@@ -543,7 +543,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/quechoa-stream/refs/heads/main/thumbs/qc-1610e09ffa_b0b59c3a_20260612.png?v=b0b59c3a",
+            "url": "https://raw.githubusercontent.com/jasminliu98/quechoa-stream/refs/heads/main/thumbs/qc-1610e09ffa_b0b59c3a_20260613.png?v=b0b59c3a",
             "width": 1600,
             "height": 1200
           }
@@ -619,7 +619,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/quechoa-stream/refs/heads/main/thumbs/qc-e81b18d548_fa7bdfea_20260612.png?v=fa7bdfea",
+            "url": "https://raw.githubusercontent.com/jasminliu98/quechoa-stream/refs/heads/main/thumbs/qc-e81b18d548_fa7bdfea_20260613.png?v=fa7bdfea",
             "width": 1600,
             "height": 1200
           }
@@ -695,7 +695,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/quechoa-stream/refs/heads/main/thumbs/qc-d18a7b2511_c16e5010_20260612.png?v=c16e5010",
+            "url": "https://raw.githubusercontent.com/jasminliu98/quechoa-stream/refs/heads/main/thumbs/qc-d18a7b2511_c16e5010_20260613.png?v=c16e5010",
             "width": 1600,
             "height": 1200
           }
@@ -771,23 +771,14 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/quechoa-stream/refs/heads/main/thumbs/qc-5e65e554d6_dfbd40a5_20260612.png?v=dfbd40a5",
+            "url": "https://raw.githubusercontent.com/jasminliu98/quechoa-stream/refs/heads/main/thumbs/qc-5e65e554d6_dfbd40a5_20260613.png?v=dfbd40a5",
             "width": 1600,
             "height": 1200
           }
-        }
-      ]
-    },
-    {
-      "id": "sport_dua-xe-f1",
-      "name": "🏎️ Đua Xe F1",
-      "display": "vertical",
-      "grid_number": 2,
-      "enable_detail": false,
-      "channels": [
+        },
         {
-          "id": "qc-878f8cde42",
-          "name": "Free practice 2 vs Free practice 2 | 22:00 12/06",
+          "id": "qc-fc556932dd",
+          "name": "Germany vs Curaçao | 00:00 15/06",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -801,23 +792,23 @@
           ],
           "sources": [
             {
-              "id": "src-878f8cde42",
+              "id": "src-fc556932dd",
               "name": "QuechoaTV",
               "contents": [
                 {
-                  "id": "ct-878f8cde42",
-                  "name": "Free practice 2 vs Free practice 2",
+                  "id": "ct-fc556932dd",
+                  "name": "Germany vs Curaçao",
                   "streams": [
                     {
-                      "id": "st-878f8cde42",
+                      "id": "st-fc556932dd",
                       "name": "QC",
                       "stream_links": [
                         {
-                          "id": "lnk-0e88644c2d",
+                          "id": "lnk-6cafe33b0c",
                           "name": "Link FHD",
                           "type": "hls",
                           "default": true,
-                          "url": "https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_duahau.m3u8",
+                          "url": "https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv1.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
@@ -841,22 +832,22 @@
             }
           ],
           "org_metadata": {
-            "league": "FORMULA 1 Grand Prix-Barcelona",
-            "team_a": "Free practice 2",
-            "team_b": "Free practice 2",
-            "logo_a": "https://storage.quechoa2.live/logos/teams/1772681307343-arqkcteo-xdiuqmtu.png",
-            "logo_b": "https://storage.quechoa2.live/logos/teams/1772681307343-arqkcteo-xdiuqmtu.png",
-            "time": "22:00",
-            "date": "12/06",
-            "blv": "DƯA HẤU",
+            "league": "World Cup",
+            "team_a": "Germany",
+            "team_b": "Curaçao",
+            "logo_a": "https://media.api-sports.io/football/teams/25.png",
+            "logo_b": "https://media.api-sports.io/football/teams/5530.png",
+            "time": "00:00",
+            "date": "15/06",
+            "blv": "PUMA, CHÈ XANH",
             "is_live": false,
-            "sport_slug": "dua-xe-f1"
+            "sport_slug": "bong-da"
           },
           "image": {
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/quechoa-stream/refs/heads/main/thumbs/qc-878f8cde42_8c741e30_20260612.png?v=8c741e30",
+            "url": "https://raw.githubusercontent.com/jasminliu98/quechoa-stream/refs/heads/main/thumbs/qc-fc556932dd_8e808349_20260613.png?v=8e808349",
             "width": 1600,
             "height": 1200
           }
