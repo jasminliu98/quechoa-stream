@@ -856,7 +856,7 @@
     },
     {
       "id": "sport_dua-xe-f1",
-      "name": "🏎️ Đua Xe F1 (1 LIVE)",
+      "name": "🏎️ Đua Xe F1",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
@@ -869,10 +869,10 @@
           "enable_detail": false,
           "labels": [
             {
-              "text": "● LIVE",
+              "text": "🕐 Sắp",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#ff4444"
+              "text_color": "#aaaaaa"
             }
           ],
           "sources": [
@@ -925,7 +925,7 @@
             "time": "22:00",
             "date": "12/06",
             "blv": "DƯA HẤU",
-            "is_live": true,
+            "is_live": false,
             "sport_slug": "dua-xe-f1"
           },
           "image": {
