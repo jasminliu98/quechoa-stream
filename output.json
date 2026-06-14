@@ -231,7 +231,7 @@
             "logo_b": "https://media.api-sports.io/football/teams/2382.png",
             "time": "06:00",
             "date": "15/06",
-            "blv": "DƯA HẤU, NEM CHUA",
+            "blv": "DƯA HẤU, VĂN MINH",
             "is_live": false,
             "sport_slug": "bong-da"
           },
@@ -307,7 +307,7 @@
             "logo_b": "https://media.api-sports.io/football/teams/28.png",
             "time": "09:00",
             "date": "15/06",
-            "blv": "CHÈ XANH, VĂN MINH",
+            "blv": "CHÈ XANH, NEM CHUA",
             "is_live": false,
             "sport_slug": "bong-da"
           },
@@ -383,7 +383,7 @@
             "logo_b": "https://media.api-sports.io/football/teams/1533.png",
             "time": "23:00",
             "date": "15/06",
-            "blv": "PUMA, VỎ QUÝT",
+            "blv": "PUMA, VỎ QUÝT, NEM CHUA",
             "is_live": false,
             "sport_slug": "bong-da"
           },
