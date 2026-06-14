@@ -11,87 +11,11 @@
   "groups": [
     {
       "id": "sport_bong-da",
-      "name": "⚽ Bóng Đá (1 LIVE)",
+      "name": "⚽ Bóng Đá",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "qc-fc556932dd",
-          "name": "Germany vs Curaçao | 00:00 15/06",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-fc556932dd",
-              "name": "QuechoaTV",
-              "contents": [
-                {
-                  "id": "ct-fc556932dd",
-                  "name": "Germany vs Curaçao",
-                  "streams": [
-                    {
-                      "id": "st-fc556932dd",
-                      "name": "QC",
-                      "stream_links": [
-                        {
-                          "id": "lnk-6cafe33b0c",
-                          "name": "Link FHD",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv1.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://quechoa10.live/"
-                            },
-                            {
-                              "key": "Origin",
-                              "value": "https://quechoa10.live"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "World Cup",
-            "team_a": "Germany",
-            "team_b": "Curaçao",
-            "logo_a": "https://media.api-sports.io/football/teams/25.png",
-            "logo_b": "https://media.api-sports.io/football/teams/5530.png",
-            "time": "00:00",
-            "date": "15/06",
-            "blv": "PUMA, VỎ QUÝT",
-            "is_live": true,
-            "sport_slug": "bong-da"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/quechoa-stream/refs/heads/main/thumbs/qc-fc556932dd_8e808349_20260615.png?v=8e808349",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "qc-590e5b8aed",
           "name": "Netherlands vs Japan | 03:00 15/06",
