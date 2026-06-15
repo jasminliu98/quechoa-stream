@@ -155,7 +155,7 @@
             "logo_b": "https://media.api-sports.io/football/teams/32.png",
             "time": "02:00",
             "date": "16/06",
-            "blv": "DƯA HẤU",
+            "blv": "DƯA HẤU, NEM CHUA",
             "is_live": false,
             "sport_slug": "bong-da"
           },
@@ -164,6 +164,158 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/jasminliu98/quechoa-stream/refs/heads/main/thumbs/qc-7c54075225_92ac1c86_20260615.png?v=92ac1c86",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "qc-b8b59d0360",
+          "name": "Saudi Arabia vs Uruguay | 05:00 16/06",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-b8b59d0360",
+              "name": "QuechoaTV",
+              "contents": [
+                {
+                  "id": "ct-b8b59d0360",
+                  "name": "Saudi Arabia vs Uruguay",
+                  "streams": [
+                    {
+                      "id": "st-b8b59d0360",
+                      "name": "QC",
+                      "stream_links": [
+                        {
+                          "id": "lnk-67419b1cbc",
+                          "name": "Link FHD",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_khoaitay.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://quechoa10.live/"
+                            },
+                            {
+                              "key": "Origin",
+                              "value": "https://quechoa10.live"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "World Cup",
+            "team_a": "Saudi Arabia",
+            "team_b": "Uruguay",
+            "logo_a": "https://media.api-sports.io/football/teams/23.png",
+            "logo_b": "https://media.api-sports.io/football/teams/7.png",
+            "time": "05:00",
+            "date": "16/06",
+            "blv": "VỎ QUÝT, VĂN MINH",
+            "is_live": false,
+            "sport_slug": "bong-da"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/quechoa-stream/refs/heads/main/thumbs/qc-b8b59d0360_8e3006bb_20260615.png?v=8e3006bb",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "qc-04d27efbad",
+          "name": "Iran vs New Zealand | 08:00 16/06",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-04d27efbad",
+              "name": "QuechoaTV",
+              "contents": [
+                {
+                  "id": "ct-04d27efbad",
+                  "name": "Iran vs New Zealand",
+                  "streams": [
+                    {
+                      "id": "st-04d27efbad",
+                      "name": "QC",
+                      "stream_links": [
+                        {
+                          "id": "lnk-bc172466c0",
+                          "name": "Link FHD",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv2.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://quechoa10.live/"
+                            },
+                            {
+                              "key": "Origin",
+                              "value": "https://quechoa10.live"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "World Cup",
+            "team_a": "Iran",
+            "team_b": "New Zealand",
+            "logo_a": "https://media.api-sports.io/football/teams/22.png",
+            "logo_b": "https://media.api-sports.io/football/teams/4673.png",
+            "time": "08:00",
+            "date": "16/06",
+            "blv": "CHÈ XANH, VỎ QUÝT",
+            "is_live": false,
+            "sport_slug": "bong-da"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/quechoa-stream/refs/heads/main/thumbs/qc-04d27efbad_56fa23ce_20260615.png?v=56fa23ce",
             "width": 1600,
             "height": 1200
           }
