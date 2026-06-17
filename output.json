@@ -79,7 +79,7 @@
             "logo_b": "https://media.api-sports.io/football/teams/1508.png",
             "time": "00:00",
             "date": "18/06",
-            "blv": "DƯA HẤU, CHÈ XANH",
+            "blv": "DƯA HẤU, CHÈ XANH, PUMA",
             "is_live": false,
             "sport_slug": "bong-da"
           },
@@ -196,11 +196,11 @@
                       "name": "QC",
                       "stream_links": [
                         {
-                          "id": "lnk-9ecfdd7bcf",
+                          "id": "lnk-67419b1cbc",
                           "name": "Link FHD",
                           "type": "hls",
                           "default": true,
-                          "url": "https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_nemchua.m3u8",
+                          "url": "https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_khoaitay.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
@@ -231,7 +231,7 @@
             "logo_b": "https://media.api-sports.io/football/teams/11.png",
             "time": "06:00",
             "date": "18/06",
-            "blv": "NEM CHUA, VĂN MINH",
+            "blv": "VỎ QUÝT, VĂN MINH",
             "is_live": false,
             "sport_slug": "bong-da"
           },
@@ -383,7 +383,7 @@
             "logo_b": "https://media.api-sports.io/football/teams/1531.png",
             "time": "23:00",
             "date": "18/06",
-            "blv": "DƯA HẤU, VỎ QUÝT",
+            "blv": "DƯA HẤU, NEM CHUA",
             "is_live": false,
             "sport_slug": "bong-da"
           },
