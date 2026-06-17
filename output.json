@@ -167,6 +167,310 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "qc-5838d2eafe",
+          "name": "Portugal vs Congo DR | 00:00 18/06",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-5838d2eafe",
+              "name": "QuechoaTV",
+              "contents": [
+                {
+                  "id": "ct-5838d2eafe",
+                  "name": "Portugal vs Congo DR",
+                  "streams": [
+                    {
+                      "id": "st-5838d2eafe",
+                      "name": "QC",
+                      "stream_links": [
+                        {
+                          "id": "lnk-0e88644c2d",
+                          "name": "Link FHD",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_duahau.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://quechoa10.live/"
+                            },
+                            {
+                              "key": "Origin",
+                              "value": "https://quechoa10.live"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "World Cup",
+            "team_a": "Portugal",
+            "team_b": "Congo DR",
+            "logo_a": "https://storage.quechoa2.live/logos/teams/1770858850389-portugal-national-team-logo.png",
+            "logo_b": "https://media.api-sports.io/football/teams/1508.png",
+            "time": "00:00",
+            "date": "18/06",
+            "blv": "DƯA HẤU, CHÈ XANH",
+            "is_live": false,
+            "sport_slug": "bong-da"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/quechoa-stream/refs/heads/main/thumbs/qc-5838d2eafe_4cd126b7_20260617.png?v=4cd126b7",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "qc-ff397d53cf",
+          "name": "England vs Croatia | 03:00 18/06",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-ff397d53cf",
+              "name": "QuechoaTV",
+              "contents": [
+                {
+                  "id": "ct-ff397d53cf",
+                  "name": "England vs Croatia",
+                  "streams": [
+                    {
+                      "id": "st-ff397d53cf",
+                      "name": "QC",
+                      "stream_links": [
+                        {
+                          "id": "lnk-6cafe33b0c",
+                          "name": "Link FHD",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv1.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://quechoa10.live/"
+                            },
+                            {
+                              "key": "Origin",
+                              "value": "https://quechoa10.live"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "World Cup",
+            "team_a": "England",
+            "team_b": "Croatia",
+            "logo_a": "https://media.api-sports.io/football/teams/10.png",
+            "logo_b": "https://media.api-sports.io/football/teams/3.png",
+            "time": "03:00",
+            "date": "18/06",
+            "blv": "PUMA, VỎ QUÝT",
+            "is_live": false,
+            "sport_slug": "bong-da"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/quechoa-stream/refs/heads/main/thumbs/qc-ff397d53cf_d168efe0_20260617.png?v=d168efe0",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "qc-896f238e2d",
+          "name": "Ghana vs Panama | 06:00 18/06",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-896f238e2d",
+              "name": "QuechoaTV",
+              "contents": [
+                {
+                  "id": "ct-896f238e2d",
+                  "name": "Ghana vs Panama",
+                  "streams": [
+                    {
+                      "id": "st-896f238e2d",
+                      "name": "QC",
+                      "stream_links": [
+                        {
+                          "id": "lnk-9ecfdd7bcf",
+                          "name": "Link FHD",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_nemchua.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://quechoa10.live/"
+                            },
+                            {
+                              "key": "Origin",
+                              "value": "https://quechoa10.live"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "World Cup",
+            "team_a": "Ghana",
+            "team_b": "Panama",
+            "logo_a": "https://media.api-sports.io/football/teams/1504.png",
+            "logo_b": "https://media.api-sports.io/football/teams/11.png",
+            "time": "06:00",
+            "date": "18/06",
+            "blv": "NEM CHUA, VĂN MINH",
+            "is_live": false,
+            "sport_slug": "bong-da"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/quechoa-stream/refs/heads/main/thumbs/qc-896f238e2d_9b268e07_20260617.png?v=9b268e07",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "qc-38522ec2c2",
+          "name": "Uzbekistan vs Colombia | 09:00 18/06",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-38522ec2c2",
+              "name": "QuechoaTV",
+              "contents": [
+                {
+                  "id": "ct-38522ec2c2",
+                  "name": "Uzbekistan vs Colombia",
+                  "streams": [
+                    {
+                      "id": "st-38522ec2c2",
+                      "name": "QC",
+                      "stream_links": [
+                        {
+                          "id": "lnk-bc172466c0",
+                          "name": "Link FHD",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv2.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://quechoa10.live/"
+                            },
+                            {
+                              "key": "Origin",
+                              "value": "https://quechoa10.live"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "World Cup",
+            "team_a": "Uzbekistan",
+            "team_b": "Colombia",
+            "logo_a": "https://media.api-sports.io/football/teams/1568.png",
+            "logo_b": "https://media.api-sports.io/football/teams/8.png",
+            "time": "09:00",
+            "date": "18/06",
+            "blv": "CHÈ XANH",
+            "is_live": false,
+            "sport_slug": "bong-da"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/quechoa-stream/refs/heads/main/thumbs/qc-38522ec2c2_98ae96d6_20260617.png?v=98ae96d6",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     }
