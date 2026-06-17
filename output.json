@@ -11,87 +11,11 @@
   "groups": [
     {
       "id": "sport_bong-da",
-      "name": "⚽ Bóng Đá (1 LIVE)",
+      "name": "⚽ Bóng Đá",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "qc-5838d2eafe",
-          "name": "Portugal vs Congo DR | 00:00 18/06",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-5838d2eafe",
-              "name": "QuechoaTV",
-              "contents": [
-                {
-                  "id": "ct-5838d2eafe",
-                  "name": "Portugal vs Congo DR",
-                  "streams": [
-                    {
-                      "id": "st-5838d2eafe",
-                      "name": "QC",
-                      "stream_links": [
-                        {
-                          "id": "lnk-0e88644c2d",
-                          "name": "Link FHD",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_duahau.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://quechoa10.live/"
-                            },
-                            {
-                              "key": "Origin",
-                              "value": "https://quechoa10.live"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "World Cup",
-            "team_a": "Portugal",
-            "team_b": "Congo DR",
-            "logo_a": "https://storage.quechoa2.live/logos/teams/1770858850389-portugal-national-team-logo.png",
-            "logo_b": "https://media.api-sports.io/football/teams/1508.png",
-            "time": "00:00",
-            "date": "18/06",
-            "blv": "DƯA HẤU, CHÈ XANH, PUMA",
-            "is_live": true,
-            "sport_slug": "bong-da"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/quechoa-stream/refs/heads/main/thumbs/qc-5838d2eafe_4cd126b7_20260618.png?v=4cd126b7",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "qc-ff397d53cf",
           "name": "England vs Croatia | 03:00 18/06",
