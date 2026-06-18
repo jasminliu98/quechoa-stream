@@ -44,11 +44,11 @@
                       "name": "QC",
                       "stream_links": [
                         {
-                          "id": "lnk-bc172466c0",
+                          "id": "lnk-67419b1cbc",
                           "name": "Link FHD",
                           "type": "hls",
                           "default": true,
-                          "url": "https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv2.m3u8",
+                          "url": "https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_khoaitay.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
@@ -79,7 +79,7 @@
             "logo_b": "https://media.api-sports.io/football/teams/8.png",
             "time": "09:00",
             "date": "18/06",
-            "blv": "CHÈ XANH, VỎ QUÝT, NEM CHUA",
+            "blv": "VỎ QUÝT, NEM CHUA",
             "is_live": false,
             "sport_slug": "bong-da"
           },
