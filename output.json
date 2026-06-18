@@ -11,87 +11,11 @@
   "groups": [
     {
       "id": "sport_bong-da",
-      "name": "⚽ Bóng Đá (1 LIVE)",
+      "name": "⚽ Bóng Đá",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "qc-896f238e2d",
-          "name": "Ghana vs Panama | 06:00 18/06",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-896f238e2d",
-              "name": "QuechoaTV",
-              "contents": [
-                {
-                  "id": "ct-896f238e2d",
-                  "name": "Ghana vs Panama",
-                  "streams": [
-                    {
-                      "id": "st-896f238e2d",
-                      "name": "QC",
-                      "stream_links": [
-                        {
-                          "id": "lnk-67419b1cbc",
-                          "name": "Link FHD",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_khoaitay.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://quechoa10.live/"
-                            },
-                            {
-                              "key": "Origin",
-                              "value": "https://quechoa10.live"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "World Cup",
-            "team_a": "Ghana",
-            "team_b": "Panama",
-            "logo_a": "https://media.api-sports.io/football/teams/1504.png",
-            "logo_b": "https://media.api-sports.io/football/teams/11.png",
-            "time": "06:00",
-            "date": "18/06",
-            "blv": "VỎ QUÝT, VĂN MINH",
-            "is_live": true,
-            "sport_slug": "bong-da"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/quechoa-stream/refs/heads/main/thumbs/qc-896f238e2d_9b268e07_20260618.png?v=9b268e07",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "qc-38522ec2c2",
           "name": "Uzbekistan vs Colombia | 09:00 18/06",
@@ -155,7 +79,7 @@
             "logo_b": "https://media.api-sports.io/football/teams/8.png",
             "time": "09:00",
             "date": "18/06",
-            "blv": "CHÈ XANH, VỎ QUÝT",
+            "blv": "CHÈ XANH, VỎ QUÝT, NEM CHUA",
             "is_live": false,
             "sport_slug": "bong-da"
           },
