@@ -87,7 +87,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/quechoa-stream/refs/heads/main/thumbs/qc-85035ce9f2_cdd78823_20260620.png?v=cdd78823",
+            "url": "https://raw.githubusercontent.com/jasminliu98/quechoa-stream/refs/heads/main/thumbs/qc-85035ce9f2_cdd78823_20260621.png?v=cdd78823",
             "width": 1600,
             "height": 1200
           }
@@ -163,7 +163,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/quechoa-stream/refs/heads/main/thumbs/qc-d76acefe97_2866f9c3_20260620.png?v=2866f9c3",
+            "url": "https://raw.githubusercontent.com/jasminliu98/quechoa-stream/refs/heads/main/thumbs/qc-d76acefe97_2866f9c3_20260621.png?v=2866f9c3",
             "width": 1600,
             "height": 1200
           }
@@ -239,7 +239,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/quechoa-stream/refs/heads/main/thumbs/qc-7308d66e51_c9c84f4d_20260620.png?v=c9c84f4d",
+            "url": "https://raw.githubusercontent.com/jasminliu98/quechoa-stream/refs/heads/main/thumbs/qc-7308d66e51_c9c84f4d_20260621.png?v=c9c84f4d",
             "width": 1600,
             "height": 1200
           }
@@ -315,7 +315,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/quechoa-stream/refs/heads/main/thumbs/qc-3bfd009a26_cadf390c_20260620.png?v=cadf390c",
+            "url": "https://raw.githubusercontent.com/jasminliu98/quechoa-stream/refs/heads/main/thumbs/qc-3bfd009a26_cadf390c_20260621.png?v=cadf390c",
             "width": 1600,
             "height": 1200
           }
@@ -391,7 +391,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/quechoa-stream/refs/heads/main/thumbs/qc-eb00ebf8b3_1f02d7c9_20260620.png?v=1f02d7c9",
+            "url": "https://raw.githubusercontent.com/jasminliu98/quechoa-stream/refs/heads/main/thumbs/qc-eb00ebf8b3_1f02d7c9_20260621.png?v=1f02d7c9",
             "width": 1600,
             "height": 1200
           }
@@ -467,7 +467,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/quechoa-stream/refs/heads/main/thumbs/qc-1b7e1ae909_6b20f209_20260620.png?v=6b20f209",
+            "url": "https://raw.githubusercontent.com/jasminliu98/quechoa-stream/refs/heads/main/thumbs/qc-1b7e1ae909_6b20f209_20260621.png?v=6b20f209",
             "width": 1600,
             "height": 1200
           }
@@ -543,7 +543,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/quechoa-stream/refs/heads/main/thumbs/qc-6f70fd1c0f_a21444de_20260620.png?v=a21444de",
+            "url": "https://raw.githubusercontent.com/jasminliu98/quechoa-stream/refs/heads/main/thumbs/qc-6f70fd1c0f_a21444de_20260621.png?v=a21444de",
             "width": 1600,
             "height": 1200
           }
@@ -619,7 +619,83 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/quechoa-stream/refs/heads/main/thumbs/qc-9cf74f7a41_443ceb5e_20260620.png?v=443ceb5e",
+            "url": "https://raw.githubusercontent.com/jasminliu98/quechoa-stream/refs/heads/main/thumbs/qc-9cf74f7a41_443ceb5e_20260621.png?v=443ceb5e",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "qc-cfa965cde2",
+          "name": "Argentina vs Austria | 00:00 23/06",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-cfa965cde2",
+              "name": "QuechoaTV",
+              "contents": [
+                {
+                  "id": "ct-cfa965cde2",
+                  "name": "Argentina vs Austria",
+                  "streams": [
+                    {
+                      "id": "st-cfa965cde2",
+                      "name": "QC",
+                      "stream_links": [
+                        {
+                          "id": "lnk-6cafe33b0c",
+                          "name": "Link FHD",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv1.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://quechoa10.live/"
+                            },
+                            {
+                              "key": "Origin",
+                              "value": "https://quechoa10.live"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "World Cup",
+            "team_a": "Argentina",
+            "team_b": "Austria",
+            "logo_a": "https://media.api-sports.io/football/teams/26.png",
+            "logo_b": "https://media.api-sports.io/football/teams/775.png",
+            "time": "00:00",
+            "date": "23/06",
+            "blv": "PUMA, DƯA HẤU",
+            "is_live": false,
+            "sport_slug": "bong-da"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/quechoa-stream/refs/heads/main/thumbs/qc-cfa965cde2_9e0fe894_20260621.png?v=9e0fe894",
             "width": 1600,
             "height": 1200
           }
