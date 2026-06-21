@@ -87,7 +87,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/quechoa-stream/refs/heads/main/thumbs/qc-eb00ebf8b3_1f02d7c9_20260621.png?v=1f02d7c9",
+            "url": "https://raw.githubusercontent.com/jasminliu98/quechoa-stream/refs/heads/main/thumbs/qc-eb00ebf8b3_1f02d7c9_20260622.png?v=1f02d7c9",
             "width": 1600,
             "height": 1200
           }
@@ -163,7 +163,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/quechoa-stream/refs/heads/main/thumbs/qc-1b7e1ae909_6b20f209_20260621.png?v=6b20f209",
+            "url": "https://raw.githubusercontent.com/jasminliu98/quechoa-stream/refs/heads/main/thumbs/qc-1b7e1ae909_6b20f209_20260622.png?v=6b20f209",
             "width": 1600,
             "height": 1200
           }
@@ -239,7 +239,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/quechoa-stream/refs/heads/main/thumbs/qc-6f70fd1c0f_a21444de_20260621.png?v=a21444de",
+            "url": "https://raw.githubusercontent.com/jasminliu98/quechoa-stream/refs/heads/main/thumbs/qc-6f70fd1c0f_a21444de_20260622.png?v=a21444de",
             "width": 1600,
             "height": 1200
           }
@@ -315,7 +315,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/quechoa-stream/refs/heads/main/thumbs/qc-9cf74f7a41_443ceb5e_20260621.png?v=443ceb5e",
+            "url": "https://raw.githubusercontent.com/jasminliu98/quechoa-stream/refs/heads/main/thumbs/qc-9cf74f7a41_443ceb5e_20260622.png?v=443ceb5e",
             "width": 1600,
             "height": 1200
           }
@@ -391,7 +391,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/quechoa-stream/refs/heads/main/thumbs/qc-cfa965cde2_9e0fe894_20260621.png?v=9e0fe894",
+            "url": "https://raw.githubusercontent.com/jasminliu98/quechoa-stream/refs/heads/main/thumbs/qc-cfa965cde2_9e0fe894_20260622.png?v=9e0fe894",
             "width": 1600,
             "height": 1200
           }
@@ -467,7 +467,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/quechoa-stream/refs/heads/main/thumbs/qc-0e68874037_80e15a18_20260621.png?v=80e15a18",
+            "url": "https://raw.githubusercontent.com/jasminliu98/quechoa-stream/refs/heads/main/thumbs/qc-0e68874037_80e15a18_20260622.png?v=80e15a18",
             "width": 1600,
             "height": 1200
           }
@@ -543,7 +543,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/quechoa-stream/refs/heads/main/thumbs/qc-55592e7ec5_8a0eb815_20260621.png?v=8a0eb815",
+            "url": "https://raw.githubusercontent.com/jasminliu98/quechoa-stream/refs/heads/main/thumbs/qc-55592e7ec5_8a0eb815_20260622.png?v=8a0eb815",
             "width": 1600,
             "height": 1200
           }
@@ -619,7 +619,83 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/quechoa-stream/refs/heads/main/thumbs/qc-6f96a2e835_06b94845_20260621.png?v=06b94845",
+            "url": "https://raw.githubusercontent.com/jasminliu98/quechoa-stream/refs/heads/main/thumbs/qc-6f96a2e835_06b94845_20260622.png?v=06b94845",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "qc-888828f12c",
+          "name": "Portugal vs Uzbekistan | 00:00 24/06",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-888828f12c",
+              "name": "QuechoaTV",
+              "contents": [
+                {
+                  "id": "ct-888828f12c",
+                  "name": "Portugal vs Uzbekistan",
+                  "streams": [
+                    {
+                      "id": "st-888828f12c",
+                      "name": "QC",
+                      "stream_links": [
+                        {
+                          "id": "lnk-6cafe33b0c",
+                          "name": "Link FHD",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv1.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://quechoa10.live/"
+                            },
+                            {
+                              "key": "Origin",
+                              "value": "https://quechoa10.live"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "World Cup",
+            "team_a": "Portugal",
+            "team_b": "Uzbekistan",
+            "logo_a": "https://storage.quechoa2.live/logos/teams/1770858850389-portugal-national-team-logo.png",
+            "logo_b": "https://media.api-sports.io/football/teams/1568.png",
+            "time": "00:00",
+            "date": "24/06",
+            "blv": "PUMA, DƯA HẤU, CHÈ XANH",
+            "is_live": false,
+            "sport_slug": "bong-da"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/quechoa-stream/refs/heads/main/thumbs/qc-888828f12c_8c6b1cf4_20260622.png?v=8c6b1cf4",
             "width": 1600,
             "height": 1200
           }
