@@ -319,6 +319,462 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "qc-0b97d03f80",
+          "name": "Cape Verde Islands vs Saudi Arabia | 07:00 27/06",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-0b97d03f80",
+              "name": "QuechoaTV",
+              "contents": [
+                {
+                  "id": "ct-0b97d03f80",
+                  "name": "Cape Verde Islands vs Saudi Arabia",
+                  "streams": [
+                    {
+                      "id": "st-0b97d03f80",
+                      "name": "QC",
+                      "stream_links": [
+                        {
+                          "id": "lnk-9ecfdd7bcf",
+                          "name": "Link FHD",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_nemchua.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://quechoa10.live/"
+                            },
+                            {
+                              "key": "Origin",
+                              "value": "https://quechoa10.live"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "World Cup",
+            "team_a": "Cape Verde Islands",
+            "team_b": "Saudi Arabia",
+            "logo_a": "https://media.api-sports.io/football/teams/1533.png",
+            "logo_b": "https://media.api-sports.io/football/teams/23.png",
+            "time": "07:00",
+            "date": "27/06",
+            "blv": "NEM CHUA, VĂN MINH",
+            "is_live": false,
+            "sport_slug": "bong-da"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/quechoa-stream/refs/heads/main/thumbs/qc-0b97d03f80_57346e03_20260626.png?v=57346e03",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "qc-9b4890db87",
+          "name": "Uruguay vs Spain | 07:00 27/06",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-9b4890db87",
+              "name": "QuechoaTV",
+              "contents": [
+                {
+                  "id": "ct-9b4890db87",
+                  "name": "Uruguay vs Spain",
+                  "streams": [
+                    {
+                      "id": "st-9b4890db87",
+                      "name": "QC",
+                      "stream_links": [
+                        {
+                          "id": "lnk-6cafe33b0c",
+                          "name": "Link FHD",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv1.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://quechoa10.live/"
+                            },
+                            {
+                              "key": "Origin",
+                              "value": "https://quechoa10.live"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "World Cup",
+            "team_a": "Uruguay",
+            "team_b": "Spain",
+            "logo_a": "https://media.api-sports.io/football/teams/7.png",
+            "logo_b": "https://storage.quechoa2.live/logos/teams/1770858861444-spain-national-football-team-crest.svg.png",
+            "time": "07:00",
+            "date": "27/06",
+            "blv": "PUMA, CHÈ XANH",
+            "is_live": false,
+            "sport_slug": "bong-da"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/quechoa-stream/refs/heads/main/thumbs/qc-9b4890db87_7dd59087_20260626.png?v=7dd59087",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "qc-8e676b7daf",
+          "name": "Egypt vs Iran | 10:00 27/06",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-8e676b7daf",
+              "name": "QuechoaTV",
+              "contents": [
+                {
+                  "id": "ct-8e676b7daf",
+                  "name": "Egypt vs Iran",
+                  "streams": [
+                    {
+                      "id": "st-8e676b7daf",
+                      "name": "QC",
+                      "stream_links": [
+                        {
+                          "id": "lnk-9ecfdd7bcf",
+                          "name": "Link FHD",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_nemchua.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://quechoa10.live/"
+                            },
+                            {
+                              "key": "Origin",
+                              "value": "https://quechoa10.live"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "World Cup",
+            "team_a": "Egypt",
+            "team_b": "Iran",
+            "logo_a": "https://media.api-sports.io/football/teams/32.png",
+            "logo_b": "https://media.api-sports.io/football/teams/22.png",
+            "time": "10:00",
+            "date": "27/06",
+            "blv": "NEM CHUA, VĂN MINH",
+            "is_live": false,
+            "sport_slug": "bong-da"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/quechoa-stream/refs/heads/main/thumbs/qc-8e676b7daf_f73b72df_20260626.png?v=f73b72df",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "qc-00098741a9",
+          "name": "New Zealand vs Belgium | 10:00 27/06",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-00098741a9",
+              "name": "QuechoaTV",
+              "contents": [
+                {
+                  "id": "ct-00098741a9",
+                  "name": "New Zealand vs Belgium",
+                  "streams": [
+                    {
+                      "id": "st-00098741a9",
+                      "name": "QC",
+                      "stream_links": [
+                        {
+                          "id": "lnk-67419b1cbc",
+                          "name": "Link FHD",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_khoaitay.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://quechoa10.live/"
+                            },
+                            {
+                              "key": "Origin",
+                              "value": "https://quechoa10.live"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "World Cup",
+            "team_a": "New Zealand",
+            "team_b": "Belgium",
+            "logo_a": "https://media.api-sports.io/football/teams/4673.png",
+            "logo_b": "https://media.api-sports.io/football/teams/1.png",
+            "time": "10:00",
+            "date": "27/06",
+            "blv": "VỎ QUÝT, CHÈ XANH",
+            "is_live": false,
+            "sport_slug": "bong-da"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/quechoa-stream/refs/heads/main/thumbs/qc-00098741a9_c21a4ffb_20260626.png?v=c21a4ffb",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "qc-f549d84716",
+          "name": "Croatia vs Ghana | 04:00 28/06",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-f549d84716",
+              "name": "QuechoaTV",
+              "contents": [
+                {
+                  "id": "ct-f549d84716",
+                  "name": "Croatia vs Ghana",
+                  "streams": [
+                    {
+                      "id": "st-f549d84716",
+                      "name": "QC",
+                      "stream_links": [
+                        {
+                          "id": "lnk-9ecfdd7bcf",
+                          "name": "Link FHD",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_nemchua.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://quechoa10.live/"
+                            },
+                            {
+                              "key": "Origin",
+                              "value": "https://quechoa10.live"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "World Cup",
+            "team_a": "Croatia",
+            "team_b": "Ghana",
+            "logo_a": "https://media.api-sports.io/football/teams/3.png",
+            "logo_b": "https://media.api-sports.io/football/teams/1504.png",
+            "time": "04:00",
+            "date": "28/06",
+            "blv": "NEM CHUA, VĂN MINH",
+            "is_live": false,
+            "sport_slug": "bong-da"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/quechoa-stream/refs/heads/main/thumbs/qc-f549d84716_45732155_20260626.png?v=45732155",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "qc-06d9c5f5e4",
+          "name": "Panama vs England | 04:00 28/06",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-06d9c5f5e4",
+              "name": "QuechoaTV",
+              "contents": [
+                {
+                  "id": "ct-06d9c5f5e4",
+                  "name": "Panama vs England",
+                  "streams": [
+                    {
+                      "id": "st-06d9c5f5e4",
+                      "name": "QC",
+                      "stream_links": [
+                        {
+                          "id": "lnk-67419b1cbc",
+                          "name": "Link FHD",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_khoaitay.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://quechoa10.live/"
+                            },
+                            {
+                              "key": "Origin",
+                              "value": "https://quechoa10.live"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "World Cup",
+            "team_a": "Panama",
+            "team_b": "England",
+            "logo_a": "https://media.api-sports.io/football/teams/11.png",
+            "logo_b": "https://media.api-sports.io/football/teams/10.png",
+            "time": "04:00",
+            "date": "28/06",
+            "blv": "VỎ QUÝT",
+            "is_live": false,
+            "sport_slug": "bong-da"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/quechoa-stream/refs/heads/main/thumbs/qc-06d9c5f5e4_b94e2ac6_20260626.png?v=b94e2ac6",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     }
