@@ -11,11 +11,87 @@
   "groups": [
     {
       "id": "sport_bong-da",
-      "name": "⚽ Bóng Đá (1 LIVE)",
+      "name": "⚽ Bóng Đá (2 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
+        {
+          "id": "qc-0b97d03f80",
+          "name": "Cape Verde Islands vs Saudi Arabia | 07:00 27/06",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "● LIVE",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#ff4444"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-0b97d03f80",
+              "name": "QuechoaTV",
+              "contents": [
+                {
+                  "id": "ct-0b97d03f80",
+                  "name": "Cape Verde Islands vs Saudi Arabia",
+                  "streams": [
+                    {
+                      "id": "st-0b97d03f80",
+                      "name": "QC",
+                      "stream_links": [
+                        {
+                          "id": "lnk-9ecfdd7bcf",
+                          "name": "Link FHD",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_nemchua.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://quechoa10.live/"
+                            },
+                            {
+                              "key": "Origin",
+                              "value": "https://quechoa10.live"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "World Cup",
+            "team_a": "Cape Verde Islands",
+            "team_b": "Saudi Arabia",
+            "logo_a": "https://media.api-sports.io/football/teams/1533.png",
+            "logo_b": "https://media.api-sports.io/football/teams/23.png",
+            "time": "07:00",
+            "date": "27/06",
+            "blv": "NEM CHUA, VĂN MINH",
+            "is_live": true,
+            "sport_slug": "bong-da"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/quechoa-stream/refs/heads/main/thumbs/qc-0b97d03f80_57346e03_20260627.png?v=57346e03",
+            "width": 1600,
+            "height": 1200
+          }
+        },
         {
           "id": "qc-9b4890db87",
           "name": "Uruguay vs Spain | 07:00 27/06",
@@ -88,82 +164,6 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/jasminliu98/quechoa-stream/refs/heads/main/thumbs/qc-9b4890db87_7dd59087_20260627.png?v=7dd59087",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "qc-0b97d03f80",
-          "name": "Cape Verde Islands vs Saudi Arabia | 07:00 27/06",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "🕐 Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-0b97d03f80",
-              "name": "QuechoaTV",
-              "contents": [
-                {
-                  "id": "ct-0b97d03f80",
-                  "name": "Cape Verde Islands vs Saudi Arabia",
-                  "streams": [
-                    {
-                      "id": "st-0b97d03f80",
-                      "name": "QC",
-                      "stream_links": [
-                        {
-                          "id": "lnk-9ecfdd7bcf",
-                          "name": "Link FHD",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_nemchua.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://quechoa10.live/"
-                            },
-                            {
-                              "key": "Origin",
-                              "value": "https://quechoa10.live"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "World Cup",
-            "team_a": "Cape Verde Islands",
-            "team_b": "Saudi Arabia",
-            "logo_a": "https://media.api-sports.io/football/teams/1533.png",
-            "logo_b": "https://media.api-sports.io/football/teams/23.png",
-            "time": "07:00",
-            "date": "27/06",
-            "blv": "NEM CHUA, VĂN MINH",
-            "is_live": false,
-            "sport_slug": "bong-da"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/quechoa-stream/refs/heads/main/thumbs/qc-0b97d03f80_57346e03_20260627.png?v=57346e03",
             "width": 1600,
             "height": 1200
           }
