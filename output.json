@@ -79,7 +79,7 @@
             "logo_b": "https://media.api-sports.io/football/teams/23.png",
             "time": "07:00",
             "date": "27/06",
-            "blv": "NEM CHUA, VĂN MINH",
+            "blv": "NEM CHUA",
             "is_live": true,
             "sport_slug": "bong-da"
           },
@@ -120,11 +120,11 @@
                       "name": "QC",
                       "stream_links": [
                         {
-                          "id": "lnk-6cafe33b0c",
+                          "id": "lnk-bc172466c0",
                           "name": "Link FHD",
                           "type": "hls",
                           "default": true,
-                          "url": "https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv1.m3u8",
+                          "url": "https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv2.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
@@ -155,7 +155,7 @@
             "logo_b": "https://storage.quechoa2.live/logos/teams/1770858861444-spain-national-football-team-crest.svg.png",
             "time": "07:00",
             "date": "27/06",
-            "blv": "PUMA, CHÈ XANH",
+            "blv": "CHÈ XANH",
             "is_live": true,
             "sport_slug": "bong-da"
           },
