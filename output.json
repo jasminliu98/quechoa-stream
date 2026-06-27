@@ -93,8 +93,8 @@
           }
         },
         {
-          "id": "qc-06d9c5f5e4",
-          "name": "Panama vs England | 04:00 28/06",
+          "id": "qc-33d1f34f17",
+          "name": "Colombia vs Portugal | 06:30 28/06",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -104,82 +104,6 @@
               "position": "top-left",
               "color": "#00000080",
               "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-06d9c5f5e4",
-              "name": "QuechoaTV",
-              "contents": [
-                {
-                  "id": "ct-06d9c5f5e4",
-                  "name": "Panama vs England",
-                  "streams": [
-                    {
-                      "id": "st-06d9c5f5e4",
-                      "name": "QC",
-                      "stream_links": [
-                        {
-                          "id": "lnk-bc172466c0",
-                          "name": "Link FHD",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv2.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://quechoa10.live/"
-                            },
-                            {
-                              "key": "Origin",
-                              "value": "https://quechoa10.live"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "World Cup",
-            "team_a": "Panama",
-            "team_b": "England",
-            "logo_a": "https://media.api-sports.io/football/teams/11.png",
-            "logo_b": "https://media.api-sports.io/football/teams/10.png",
-            "time": "04:00",
-            "date": "28/06",
-            "blv": "CHÈ XANH",
-            "is_live": true,
-            "sport_slug": "bong-da"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/quechoa-stream/refs/heads/main/thumbs/qc-06d9c5f5e4_b94e2ac6_20260628.png?v=b94e2ac6",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "qc-33d1f34f17",
-          "name": "Colombia vs Portugal | 06:30 28/06",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "🕐 Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
             }
           ],
           "sources": [
@@ -232,7 +156,7 @@
             "time": "06:30",
             "date": "28/06",
             "blv": "PUMA, VỎ QUÝT, CHÈ XANH",
-            "is_live": false,
+            "is_live": true,
             "sport_slug": "bong-da"
           },
           "image": {
