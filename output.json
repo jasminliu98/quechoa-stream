@@ -11,7 +11,7 @@
   "groups": [
     {
       "id": "sport_bong-da",
-      "name": "⚽ Bóng Đá (1 LIVE)",
+      "name": "⚽ Bóng Đá (2 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
@@ -100,10 +100,10 @@
           "enable_detail": false,
           "labels": [
             {
-              "text": "🕐 Sắp",
+              "text": "● LIVE",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#aaaaaa"
+              "text_color": "#ff4444"
             }
           ],
           "sources": [
@@ -120,11 +120,11 @@
                       "name": "QC",
                       "stream_links": [
                         {
-                          "id": "lnk-6cafe33b0c",
+                          "id": "lnk-67419b1cbc",
                           "name": "Link FHD",
                           "type": "hls",
                           "default": true,
-                          "url": "https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv1.m3u8",
+                          "url": "https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_khoaitay.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
@@ -155,8 +155,8 @@
             "logo_b": "https://media.api-sports.io/football/teams/5529.png",
             "time": "02:00",
             "date": "29/06",
-            "blv": "PUMA, VỎ QUÝT, CHÈ XANH",
-            "is_live": false,
+            "blv": "VỎ QUÝT, CHÈ XANH",
+            "is_live": true,
             "sport_slug": "bong-da"
           },
           "image": {
