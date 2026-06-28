@@ -11,7 +11,7 @@
   "groups": [
     {
       "id": "sport_bong-da",
-      "name": "⚽ Bóng Đá",
+      "name": "⚽ Bóng Đá (1 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
@@ -24,10 +24,10 @@
           "enable_detail": false,
           "labels": [
             {
-              "text": "🕐 Sắp",
+              "text": "● LIVE",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#aaaaaa"
+              "text_color": "#ff4444"
             }
           ],
           "sources": [
@@ -80,14 +80,14 @@
             "time": "00:00",
             "date": "29/06",
             "blv": "NEM CHUA",
-            "is_live": false,
+            "is_live": true,
             "sport_slug": "bong-da"
           },
           "image": {
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/quechoa-stream/refs/heads/main/thumbs/qc-c8af975fe4_23c274af_20260628.png?v=23c274af",
+            "url": "https://raw.githubusercontent.com/jasminliu98/quechoa-stream/refs/heads/main/thumbs/qc-c8af975fe4_23c274af_20260629.png?v=23c274af",
             "width": 1600,
             "height": 1200
           }
@@ -163,7 +163,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/quechoa-stream/refs/heads/main/thumbs/qc-e200174b10_752567ad_20260628.png?v=752567ad",
+            "url": "https://raw.githubusercontent.com/jasminliu98/quechoa-stream/refs/heads/main/thumbs/qc-e200174b10_752567ad_20260629.png?v=752567ad",
             "width": 1600,
             "height": 1200
           }
@@ -239,7 +239,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/quechoa-stream/refs/heads/main/thumbs/qc-ab1860f1cc_93dd7ee2_20260628.png?v=93dd7ee2",
+            "url": "https://raw.githubusercontent.com/jasminliu98/quechoa-stream/refs/heads/main/thumbs/qc-ab1860f1cc_93dd7ee2_20260629.png?v=93dd7ee2",
             "width": 1600,
             "height": 1200
           }
@@ -315,7 +315,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/quechoa-stream/refs/heads/main/thumbs/qc-1590c6d2d1_0a2072ef_20260628.png?v=0a2072ef",
+            "url": "https://raw.githubusercontent.com/jasminliu98/quechoa-stream/refs/heads/main/thumbs/qc-1590c6d2d1_0a2072ef_20260629.png?v=0a2072ef",
             "width": 1600,
             "height": 1200
           }
@@ -391,7 +391,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/quechoa-stream/refs/heads/main/thumbs/qc-e8ea6a75a7_74b99995_20260628.png?v=74b99995",
+            "url": "https://raw.githubusercontent.com/jasminliu98/quechoa-stream/refs/heads/main/thumbs/qc-e8ea6a75a7_74b99995_20260629.png?v=74b99995",
             "width": 1600,
             "height": 1200
           }
@@ -467,7 +467,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/quechoa-stream/refs/heads/main/thumbs/qc-cf4281b764_800af2d1_20260628.png?v=800af2d1",
+            "url": "https://raw.githubusercontent.com/jasminliu98/quechoa-stream/refs/heads/main/thumbs/qc-cf4281b764_800af2d1_20260629.png?v=800af2d1",
             "width": 1600,
             "height": 1200
           }
