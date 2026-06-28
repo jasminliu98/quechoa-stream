@@ -44,11 +44,11 @@
                       "name": "QC",
                       "stream_links": [
                         {
-                          "id": "lnk-67419b1cbc",
+                          "id": "lnk-bc172466c0",
                           "name": "Link FHD",
                           "type": "hls",
                           "default": true,
-                          "url": "https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_khoaitay.m3u8",
+                          "url": "https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv2.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
@@ -79,7 +79,7 @@
             "logo_b": "https://storage.quechoa2.live/logos/teams/1770858850389-portugal-national-team-logo.png",
             "time": "06:30",
             "date": "28/06",
-            "blv": "VỎ QUÝT, CHÈ XANH",
+            "blv": "CHÈ XANH",
             "is_live": true,
             "sport_slug": "bong-da"
           },
