@@ -8,5 +8,91 @@
     "type": "cover",
     "url": "https://quechoa10.live/quechoatv-logo-v2.png"
   },
-  "groups": []
+  "groups": [
+    {
+      "id": "sport_bong-da",
+      "name": "⚽ Bóng Đá",
+      "display": "vertical",
+      "grid_number": 2,
+      "enable_detail": false,
+      "channels": [
+        {
+          "id": "qc-c8af975fe4",
+          "name": "Wales U19 vs Spain U19 | 00:00 29/06",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-c8af975fe4",
+              "name": "QuechoaTV",
+              "contents": [
+                {
+                  "id": "ct-c8af975fe4",
+                  "name": "Wales U19 vs Spain U19",
+                  "streams": [
+                    {
+                      "id": "st-c8af975fe4",
+                      "name": "QC",
+                      "stream_links": [
+                        {
+                          "id": "lnk-9ecfdd7bcf",
+                          "name": "Link FHD",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_nemchua.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://quechoa10.live/"
+                            },
+                            {
+                              "key": "Origin",
+                              "value": "https://quechoa10.live"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "UEFA U19 Championship",
+            "team_a": "Wales U19",
+            "team_b": "Spain U19",
+            "logo_a": "https://media.api-sports.io/football/teams/10353.png",
+            "logo_b": "https://media.api-sports.io/football/teams/10349.png",
+            "time": "00:00",
+            "date": "29/06",
+            "blv": "NEM CHUA",
+            "is_live": false,
+            "sport_slug": "bong-da"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/quechoa-stream/refs/heads/main/thumbs/qc-c8af975fe4_23c274af_20260628.png?v=23c274af",
+            "width": 1600,
+            "height": 1200
+          }
+        }
+      ]
+    }
+  ]
 }
