@@ -11,87 +11,11 @@
   "groups": [
     {
       "id": "sport_bong-da",
-      "name": "⚽ Bóng Đá (1 LIVE)",
+      "name": "⚽ Bóng Đá",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "qc-cf4281b764",
-          "name": "Netherlands vs Morocco | 08:00 30/06",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-cf4281b764",
-              "name": "QuechoaTV",
-              "contents": [
-                {
-                  "id": "ct-cf4281b764",
-                  "name": "Netherlands vs Morocco",
-                  "streams": [
-                    {
-                      "id": "st-cf4281b764",
-                      "name": "QC",
-                      "stream_links": [
-                        {
-                          "id": "lnk-0e88644c2d",
-                          "name": "Link FHD",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_duahau.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://quechoa10.live/"
-                            },
-                            {
-                              "key": "Origin",
-                              "value": "https://quechoa10.live"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "World Cup",
-            "team_a": "Netherlands",
-            "team_b": "Morocco",
-            "logo_a": "https://media.api-sports.io/football/teams/1118.png",
-            "logo_b": "https://media.api-sports.io/football/teams/31.png",
-            "time": "08:00",
-            "date": "30/06",
-            "blv": "DƯA HẤU, NEM CHUA",
-            "is_live": true,
-            "sport_slug": "bong-da"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/quechoa-stream/refs/heads/main/thumbs/qc-cf4281b764_800af2d1_20260630.png?v=800af2d1",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "qc-2b32a6f33c",
           "name": "Ivory Coast vs Norway | 00:00 01/07",
