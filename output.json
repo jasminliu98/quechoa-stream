@@ -245,6 +245,91 @@
           }
         }
       ]
+    },
+    {
+      "id": "sport_esport",
+      "name": "🎮 Esport",
+      "display": "vertical",
+      "grid_number": 2,
+      "enable_detail": false,
+      "channels": [
+        {
+          "id": "qc-ed11348706",
+          "name": "T1 vs Team Liquid | 15:00 01/07",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-ed11348706",
+              "name": "QuechoaTV",
+              "contents": [
+                {
+                  "id": "ct-ed11348706",
+                  "name": "T1 vs Team Liquid",
+                  "streams": [
+                    {
+                      "id": "st-ed11348706",
+                      "name": "QC",
+                      "stream_links": [
+                        {
+                          "id": "lnk-0e88644c2d",
+                          "name": "Link FHD",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_duahau.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://quechoa10.live/"
+                            },
+                            {
+                              "key": "Origin",
+                              "value": "https://quechoa10.live"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Mid Season Invitational",
+            "team_a": "T1",
+            "team_b": "Team Liquid",
+            "logo_a": "https://storage.quechoa2.live/logos/teams/1771082741508-t1-logo.svg.png",
+            "logo_b": "https://storage.quechoa2.live/logos/teams/1773869298008-liquid.png",
+            "time": "15:00",
+            "date": "01/07",
+            "blv": "DƯA HẤU",
+            "is_live": false,
+            "sport_slug": "esport"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/quechoa-stream/refs/heads/main/thumbs/qc-ed11348706_c324dbf5_20260701.png?v=c324dbf5",
+            "width": 1600,
+            "height": 1200
+          }
+        }
+      ]
     }
   ]
 }
